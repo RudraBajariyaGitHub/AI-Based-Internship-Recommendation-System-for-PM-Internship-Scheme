@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local/editor files
+.vscode/
+.idea/
+.qwen/
+*.swp
+*.swo
+
+# Runtime logs and generated local state
+*.log
+*.jsonl
+recommendation_events.jsonl
+data/feedback_log.jsonl
+frontend/frontend_url.txt
+tmp_pdf_text/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model/artifact caches
+.cache/
+models/
+artifacts/

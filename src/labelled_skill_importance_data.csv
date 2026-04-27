@@ -1,0 +1,1660 @@
+student_id,internship_id,applied,got_offer,skill_overlap_ratio,weighted_skill_match,num_matching_skills,total_required_skills,has_high_value_combination,num_high_value_skills,student_cgpa,student_tier,student_region,student_branch,internship_domain,stipend_score,internship_duration_weeks,duration_score,internship_work_type,location_match,domain_match,branch_match,rural_student_on_site_penalty
+S001,INT010,1,1,0.067,0.0,0,6,0,0,8.71,Tier-2,Rural,Biotechnology,Web Development,0.2,14,0.467,Remote,0.4,0,0.1,0
+S001,INT085,0,0,0.0,0.0,0,4,0,0,8.71,Tier-2,Rural,Biotechnology,Web Development,0.8,8,0.267,On-site,0.4,0,0.1,1
+S001,INT011,1,1,0.133,0.0,0,6,0,0,8.71,Tier-2,Rural,Biotechnology,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S001,INT031,0,0,0.267,0.0,0,3,0,0,8.71,Tier-2,Rural,Biotechnology,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.66,0
+S001,INT035,1,1,0.467,0.333,1,3,0,0,8.71,Tier-2,Rural,Biotechnology,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,1
+S001,INT043,0,0,0.2,0.0,0,2,0,0,8.71,Tier-2,Rural,Biotechnology,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S001,INT060,1,0,0.133,0.0,0,3,0,0,8.71,Tier-2,Rural,Biotechnology,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S001,INT068,1,1,0.16,0.0,0,5,0,0,8.71,Tier-2,Rural,Biotechnology,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.5,0
+S001,INT070,1,0,0.133,0.0,0,6,0,0,8.71,Tier-2,Rural,Biotechnology,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S001,INT074,0,0,0.24,0.0,0,5,0,0,8.71,Tier-2,Rural,Biotechnology,Testing,0.2,10,0.333,On-site,0.4,0,0.0,1
+S001,INT075,0,0,0.16,0.0,0,5,0,0,8.71,Tier-2,Rural,Biotechnology,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.08,0
+S001,INT080,0,0,0.5,0.5,1,2,0,0,8.71,Tier-2,Rural,Biotechnology,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S001,INT081,0,0,0.28,0.2,1,5,0,0,8.71,Tier-2,Rural,Biotechnology,Finance,0.72,14,0.467,Remote,0.4,0,0.14,0
+S001,INT094,0,0,0.267,0.0,0,3,0,0,8.71,Tier-2,Rural,Biotechnology,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S001,INT125,1,1,0.28,0.2,1,5,0,0,8.71,Tier-2,Rural,Biotechnology,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S001,INT136,1,1,0.2,0.0,0,4,0,0,8.71,Tier-2,Rural,Biotechnology,Testing,0.4,24,0.8,On-site,1.0,0,0.0,1
+S001,INT139,1,1,0.28,0.2,1,5,0,0,8.71,Tier-2,Rural,Biotechnology,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S001,INT109,0,0,0.5,0.5,1,2,0,0,8.71,Tier-2,Rural,Biotechnology,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S001,INT081,0,0,0.28,0.2,1,5,0,0,8.71,Tier-2,Rural,Biotechnology,Finance,0.72,14,0.467,Remote,0.4,0,0.14,0
+S001,INT021,0,0,0.233,0.167,1,6,0,0,8.71,Tier-2,Rural,Biotechnology,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S002,INT006,1,0,0.6,0.342,1,3,0,1,7.81,Tier-1,Urban,Civil Engineering,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S002,INT010,0,0,0.367,0.095,1,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Web Development,0.2,14,0.467,Remote,0.4,0,0.14,0
+S002,INT022,0,0,0.067,0.0,0,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S002,INT025,1,1,0.467,0.333,2,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S002,INT028,0,0,0.133,0.0,0,3,0,0,7.81,Tier-1,Urban,Civil Engineering,CI/CD,0.6,28,0.933,Remote,0.7,0,0.0,0
+S002,INT034,1,1,0.267,0.0,0,3,0,0,7.81,Tier-1,Urban,Civil Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S002,INT038,1,1,0.233,0.167,1,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Security,0.48,8,0.267,Hybrid,1.0,0,0.0,0
+S002,INT041,1,0,0.133,0.0,0,3,0,0,7.81,Tier-1,Urban,Civil Engineering,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S002,INT045,1,1,0.5,0.833,1,2,0,0,7.81,Tier-1,Urban,Civil Engineering,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S002,INT048,1,0,0.7,0.5,1,2,0,0,7.81,Tier-1,Urban,Civil Engineering,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S002,INT058,0,0,0.2,0.0,0,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S002,INT063,0,0,0.3,0.0,0,4,0,0,7.81,Tier-1,Urban,Civil Engineering,Web Development,0.48,16,0.533,Remote,0.4,0,0.14,0
+S002,INT064,0,0,0.267,0.0,0,3,0,0,7.81,Tier-1,Urban,Civil Engineering,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S002,INT079,0,0,0.8,0.596,2,3,0,1,7.81,Tier-1,Urban,Civil Engineering,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.18,0
+S002,INT088,0,0,0.3,0.167,1,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S002,INT098,0,0,0.45,0.25,1,4,0,0,7.81,Tier-1,Urban,Civil Engineering,UI/UX Design,0.6,12,0.4,On-site,0.7,0,0.28,0
+S002,INT102,0,0,0.2,0.0,0,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Finance,0.32,10,0.333,Hybrid,1.0,0,0.26,0
+S002,INT108,0,0,0.2,0.0,0,2,0,0,7.81,Tier-1,Urban,Civil Engineering,Cloud Services,0.6,10,0.333,Hybrid,1.0,0,0.0,0
+S002,INT111,0,0,0.3,0.0,0,4,0,0,7.81,Tier-1,Urban,Civil Engineering,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S002,INT113,1,1,0.45,0.25,1,4,0,0,7.81,Tier-1,Urban,Civil Engineering,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S002,INT116,0,0,0.533,0.333,2,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S002,INT117,0,0,0.4,0.0,0,2,0,0,7.81,Tier-1,Urban,Civil Engineering,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S002,INT119,1,0,0.44,0.2,1,5,0,0,7.81,Tier-1,Urban,Civil Engineering,UI/UX Design,0.48,6,0.2,On-site,0.7,0,0.28,0
+S002,INT120,0,0,0.467,0.333,1,3,0,0,7.81,Tier-1,Urban,Civil Engineering,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S002,INT123,1,0,0.36,0.2,1,5,0,0,7.81,Tier-1,Urban,Civil Engineering,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S002,INT134,0,0,0.28,0.2,1,5,0,0,7.81,Tier-1,Urban,Civil Engineering,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S002,INT140,1,0,0.32,0.0,0,5,0,0,7.81,Tier-1,Urban,Civil Engineering,Analytics,0.48,20,0.667,Remote,0.7,0,0.0,0
+S002,INT146,0,0,0.2,0.0,0,4,0,0,7.81,Tier-1,Urban,Civil Engineering,Analytics,0.4,18,0.6,Hybrid,0.7,0,0.0,0
+S002,INT134,0,0,0.28,0.2,1,5,0,0,7.81,Tier-1,Urban,Civil Engineering,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S002,INT075,1,0,0.2,0.2,1,5,0,0,7.81,Tier-1,Urban,Civil Engineering,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.12,0
+S002,INT082,0,0,0.667,0.667,2,3,0,0,7.81,Tier-1,Urban,Civil Engineering,Financial Services,0.48,24,0.8,Hybrid,1.0,0,0.0,0
+S003,INT010,1,0,0.367,0.095,1,6,0,0,6.72,Tier-1,Urban,IT,Web Development,0.2,14,0.467,Remote,1.0,1,1.0,0
+S003,INT004,0,0,0.4,0.0,0,2,0,0,6.72,Tier-1,Urban,IT,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,0
+S003,INT022,0,0,0.367,0.167,1,6,0,0,6.72,Tier-1,Urban,IT,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S004,INT002,0,0,0.4,0.0,0,2,0,0,6.45,Tier-2,Urban,Biotechnology,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S004,INT007,1,0,0.6,0.333,1,3,0,0,6.45,Tier-2,Urban,Biotechnology,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S004,INT012,1,0,0.2,0.0,0,4,0,0,6.45,Tier-2,Urban,Biotechnology,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.2,0
+S004,INT024,0,0,0.2,0.0,0,6,0,0,6.45,Tier-2,Urban,Biotechnology,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.08,0
+S004,INT026,1,0,0.44,0.2,1,5,0,0,6.45,Tier-2,Urban,Biotechnology,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S004,INT062,1,0,0.2,0.0,0,2,0,0,6.45,Tier-2,Urban,Biotechnology,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.5,0
+S004,INT072,0,0,0.267,0.0,0,3,0,0,6.45,Tier-2,Urban,Biotechnology,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,0
+S004,INT082,1,0,0.133,0.0,0,3,0,0,6.45,Tier-2,Urban,Biotechnology,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S004,INT090,0,0,0.467,0.333,1,3,0,0,6.45,Tier-2,Urban,Biotechnology,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S004,INT101,0,0,0.267,0.0,0,3,0,0,6.45,Tier-2,Urban,Biotechnology,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S004,INT133,1,0,0.24,0.0,0,5,0,0,6.45,Tier-2,Urban,Biotechnology,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S004,INT135,1,0,0.2,0.0,0,4,0,0,6.45,Tier-2,Urban,Biotechnology,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S004,INT138,1,0,0.533,0.333,2,6,0,0,6.45,Tier-2,Urban,Biotechnology,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S004,INT143,0,0,0.32,0.0,0,5,0,0,6.45,Tier-2,Urban,Biotechnology,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S005,INT050,1,0,0.0,0.0,0,5,0,0,7.67,Tier-1,Rural,Chemical Engineering,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,1
+S005,INT006,0,0,0.467,0.317,1,3,0,1,7.67,Tier-1,Rural,Chemical Engineering,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S005,INT010,1,1,0.2,0.0,0,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Web Development,0.2,14,0.467,Remote,0.4,0,0.1,0
+S005,INT022,1,0,0.167,0.167,1,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Product Management,0.32,12,0.4,On-site,0.7,0,0.0,1
+S005,INT025,0,0,0.133,0.0,0,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Testing,0.72,18,0.6,Remote,1.0,0,0.0,0
+S005,INT028,0,0,0.133,0.0,0,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S005,INT034,0,0,0.267,0.0,0,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S005,INT038,0,0,0.133,0.0,0,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S005,INT041,0,0,0.133,0.0,0,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S005,INT045,0,0,0.2,0.0,0,2,0,0,7.67,Tier-1,Rural,Chemical Engineering,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S005,INT048,0,0,0.2,0.0,0,2,0,0,7.67,Tier-1,Rural,Chemical Engineering,Machine Learning,0.32,6,0.2,On-site,1.0,0,0.0,1
+S005,INT058,0,0,0.4,0.333,2,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S005,INT063,0,0,0.2,0.0,0,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,Web Development,0.48,16,0.533,Remote,0.4,0,0.1,0
+S005,INT064,0,0,0.467,0.333,1,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S005,INT079,1,0,0.467,0.404,1,3,0,1,7.67,Tier-1,Rural,Chemical Engineering,Cloud Computing,0.4,30,1.0,Remote,0.7,0,0.16,0
+S005,INT088,1,1,0.133,0.0,0,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,1
+S005,INT098,0,0,0.45,0.25,1,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.12,1
+S005,INT102,0,0,0.3,0.506,1,6,0,1,7.67,Tier-1,Rural,Chemical Engineering,Finance,0.32,10,0.333,Hybrid,0.4,0,0.2,0
+S005,INT108,0,0,0.2,0.0,0,2,0,0,7.67,Tier-1,Rural,Chemical Engineering,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S005,INT111,0,0,0.35,0.25,1,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S005,INT113,0,0,0.1,0.0,0,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S005,INT116,1,0,0.367,0.167,1,6,0,0,7.67,Tier-1,Rural,Chemical Engineering,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S005,INT117,0,0,0.4,0.0,0,2,0,0,7.67,Tier-1,Rural,Chemical Engineering,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S005,INT119,0,0,0.24,0.0,0,5,0,0,7.67,Tier-1,Rural,Chemical Engineering,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.12,1
+S005,INT120,1,0,0.133,0.0,0,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,Network Security,0.48,22,0.733,Remote,0.7,0,0.0,0
+S005,INT123,0,0,0.28,0.2,1,5,0,0,7.67,Tier-1,Rural,Chemical Engineering,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S005,INT134,1,0,0.16,0.0,0,5,0,0,7.67,Tier-1,Rural,Chemical Engineering,Security,0.6,6,0.2,On-site,0.4,0,0.0,1
+S005,INT140,0,0,0.36,0.2,1,5,0,0,7.67,Tier-1,Rural,Chemical Engineering,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S005,INT146,1,1,0.25,0.25,1,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S005,INT079,0,0,0.467,0.404,1,3,0,1,7.67,Tier-1,Rural,Chemical Engineering,Cloud Computing,0.4,30,1.0,Remote,0.7,0,0.16,0
+S006,INT018,1,0,0.25,0.25,1,4,0,0,6.05,Tier-1,Urban,Electrical Engineering,Finance,0.72,16,0.533,Hybrid,0.4,1,0.18,0
+S006,INT081,0,0,0.0,0.0,0,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Finance,0.72,14,0.467,Remote,0.4,1,0.18,0
+S006,INT013,1,1,0.16,0.0,0,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S006,INT021,0,0,0.367,0.167,1,6,0,0,6.05,Tier-1,Urban,Electrical Engineering,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S006,INT027,1,1,0.1,0.0,0,4,0,0,6.05,Tier-1,Urban,Electrical Engineering,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S006,INT029,0,0,0.2,0.0,0,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S006,INT032,1,0,0.2,0.2,1,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S006,INT033,1,0,0.2,0.0,0,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,0.26,0
+S006,INT044,0,0,0.24,0.0,0,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S006,INT052,0,0,0.267,0.0,0,6,0,0,6.05,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.26,0
+S006,INT054,1,0,0.5,0.5,1,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S006,INT057,0,0,0.2,0.0,0,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S006,INT069,1,1,0.267,0.0,0,6,0,0,6.05,Tier-1,Urban,Electrical Engineering,Finance,0.6,4,0.133,On-site,1.0,1,0.18,0
+S006,INT106,0,0,0.6,0.6,3,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S006,INT109,0,0,0.5,0.5,1,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S006,INT112,0,0,0.5,0.5,1,2,0,0,6.05,Tier-1,Urban,Electrical Engineering,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S006,INT148,0,0,0.16,0.0,0,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Testing,0.4,14,0.467,On-site,0.4,0,0.0,0
+S006,INT150,0,0,0.267,0.0,0,3,0,0,6.05,Tier-1,Urban,Electrical Engineering,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S006,INT032,0,0,0.2,0.2,1,5,0,0,6.05,Tier-1,Urban,Electrical Engineering,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S006,INT034,0,0,0.467,0.333,1,3,0,0,6.05,Tier-1,Urban,Electrical Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S006,INT018,0,0,0.25,0.25,1,4,0,0,6.05,Tier-1,Urban,Electrical Engineering,Finance,0.72,16,0.533,Hybrid,0.4,1,0.18,0
+S008,INT062,1,1,0.5,0.842,1,2,0,1,8.75,Tier-1,Urban,Architecture,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.22,0
+S008,INT006,0,0,0.467,0.342,1,3,0,1,8.75,Tier-1,Urban,Architecture,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S008,INT010,0,0,0.367,0.095,1,6,0,0,8.75,Tier-1,Urban,Architecture,Web Development,0.2,14,0.467,Remote,0.4,0,0.22,0
+S008,INT022,1,1,0.367,0.167,1,6,0,0,8.75,Tier-1,Urban,Architecture,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S008,INT025,1,0,0.2,0.0,0,6,0,0,8.75,Tier-1,Urban,Architecture,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S008,INT028,1,1,0.267,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S008,INT034,0,0,0.267,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S008,INT038,1,1,0.433,0.167,1,6,0,0,8.75,Tier-1,Urban,Architecture,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S008,INT041,1,1,0.467,0.333,1,3,0,0,8.75,Tier-1,Urban,Architecture,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S008,INT045,1,0,0.4,0.0,0,2,0,0,8.75,Tier-1,Urban,Architecture,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S008,INT048,0,0,0.4,0.0,0,2,0,0,8.75,Tier-1,Urban,Architecture,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S008,INT058,0,0,0.433,0.167,1,6,0,0,8.75,Tier-1,Urban,Architecture,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S008,INT063,0,0,0.45,0.636,1,4,0,1,8.75,Tier-1,Urban,Architecture,Web Development,0.48,16,0.533,Remote,0.4,0,0.22,0
+S008,INT064,0,0,0.4,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S008,INT079,0,0,0.267,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.14,0
+S008,INT088,1,1,0.3,0.167,1,6,0,0,8.75,Tier-1,Urban,Architecture,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S008,INT098,0,0,0.3,0.0,0,4,0,0,8.75,Tier-1,Urban,Architecture,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.74,0
+S008,INT102,1,0,0.133,0.0,0,6,0,0,8.75,Tier-1,Urban,Architecture,Finance,0.32,10,0.333,Hybrid,0.4,0,0.18,0
+S008,INT108,1,0,0.4,0.0,0,2,0,0,8.75,Tier-1,Urban,Architecture,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S008,INT111,0,0,0.6,0.5,2,4,0,0,8.75,Tier-1,Urban,Architecture,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S008,INT113,0,0,0.3,0.0,0,4,0,0,8.75,Tier-1,Urban,Architecture,Design,0.6,8,0.267,Hybrid,0.4,0,1.0,0
+S008,INT116,0,0,0.533,0.333,2,6,0,0,8.75,Tier-1,Urban,Architecture,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S008,INT117,0,0,0.4,0.0,0,2,0,0,8.75,Tier-1,Urban,Architecture,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S008,INT119,0,0,0.32,0.0,0,5,0,0,8.75,Tier-1,Urban,Architecture,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.74,0
+S008,INT120,0,0,0.4,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S008,INT123,1,0,0.76,0.6,3,5,0,0,8.75,Tier-1,Urban,Architecture,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S008,INT134,1,0,0.24,0.0,0,5,0,0,8.75,Tier-1,Urban,Architecture,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S008,INT140,1,0,0.36,0.2,1,5,0,0,8.75,Tier-1,Urban,Architecture,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S008,INT146,1,1,0.3,0.0,0,4,0,0,8.75,Tier-1,Urban,Architecture,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S008,INT137,1,1,0.5,0.768,2,4,0,1,8.75,Tier-1,Urban,Architecture,Data Engineering,0.2,12,0.4,On-site,1.0,0,0.0,0
+S010,INT010,0,0,0.367,0.095,1,6,0,0,8.78,Tier-1,Urban,AI,Web Development,0.2,14,0.467,Remote,0.4,1,0.34,0
+S010,INT006,0,0,0.6,0.342,1,3,0,1,8.78,Tier-1,Urban,AI,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S010,INT010,1,1,0.367,0.095,1,6,0,0,8.78,Tier-1,Urban,AI,Web Development,0.2,14,0.467,Remote,0.4,1,0.34,0
+S010,INT022,0,0,0.067,0.0,0,6,0,0,8.78,Tier-1,Urban,AI,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S010,INT025,0,0,0.133,0.0,0,6,0,0,8.78,Tier-1,Urban,AI,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S010,INT028,0,0,0.133,0.0,0,3,0,0,8.78,Tier-1,Urban,AI,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S010,INT034,1,0,0.267,0.0,0,3,0,0,8.78,Tier-1,Urban,AI,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S010,INT038,0,0,0.133,0.0,0,6,0,0,8.78,Tier-1,Urban,AI,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S010,INT041,0,0,0.333,0.333,1,3,0,0,8.78,Tier-1,Urban,AI,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S010,INT045,0,0,0.2,0.0,0,2,0,0,8.78,Tier-1,Urban,AI,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S010,INT048,0,0,0.4,0.0,0,2,0,0,8.78,Tier-1,Urban,AI,Machine Learning,0.32,6,0.2,On-site,0.4,0,1.0,0
+S010,INT058,0,0,0.3,0.167,1,6,0,0,8.78,Tier-1,Urban,AI,Quality Assurance,0.2,20,0.667,On-site,1.0,0,0.0,0
+S010,INT063,0,0,0.3,0.0,0,4,0,0,8.78,Tier-1,Urban,AI,Web Development,0.48,16,0.533,Remote,0.4,1,0.34,0
+S010,INT064,0,0,0.467,0.333,1,3,0,0,8.78,Tier-1,Urban,AI,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S010,INT079,1,0,0.467,0.404,1,3,0,1,8.78,Tier-1,Urban,AI,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.64,0
+S010,INT088,0,0,0.233,0.167,1,6,0,0,8.78,Tier-1,Urban,AI,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S010,INT098,1,1,0.6,0.5,2,4,0,0,8.78,Tier-1,Urban,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,0
+S010,INT102,1,1,0.3,0.099,1,6,0,0,8.78,Tier-1,Urban,AI,Finance,0.32,10,0.333,Hybrid,0.4,0,0.34,0
+S010,INT108,0,0,0.2,0.0,0,2,0,0,8.78,Tier-1,Urban,AI,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S010,INT111,1,0,0.3,0.0,0,4,0,0,8.78,Tier-1,Urban,AI,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S010,INT113,1,0,0.35,0.25,1,4,0,0,8.78,Tier-1,Urban,AI,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S010,INT116,0,0,0.633,0.5,3,6,0,0,8.78,Tier-1,Urban,AI,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S010,INT117,0,0,0.7,0.5,1,2,0,0,8.78,Tier-1,Urban,AI,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S010,INT119,1,0,0.32,0.0,0,5,0,0,8.78,Tier-1,Urban,AI,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.28,0
+S010,INT120,0,0,0.267,0.0,0,3,0,0,8.78,Tier-1,Urban,AI,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S010,INT123,0,0,0.24,0.0,0,5,0,0,8.78,Tier-1,Urban,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S010,INT134,0,0,0.16,0.0,0,5,0,0,8.78,Tier-1,Urban,AI,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S010,INT140,1,1,0.48,0.4,2,5,0,0,8.78,Tier-1,Urban,AI,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S010,INT146,0,0,0.2,0.0,0,4,0,0,8.78,Tier-1,Urban,AI,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S010,INT076,1,1,0.45,0.274,1,4,0,1,8.78,Tier-1,Urban,AI,Finance,0.6,30,1.0,On-site,1.0,0,0.34,0
+S010,INT130,1,1,0.5,0.5,2,4,0,0,8.78,Tier-1,Urban,AI,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S011,INT050,0,0,0.16,0.0,0,5,0,0,6.14,Tier-3,Urban,Finance,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,0
+S011,INT056,0,0,0.2,0.0,0,6,0,0,6.14,Tier-3,Urban,Finance,UI/UX Design,1.0,30,1.0,Remote,1.0,0,0.2,0
+S011,INT103,0,0,0.4,0.0,0,2,0,0,6.14,Tier-3,Urban,Finance,Artificial Intelligence,0.6,12,0.4,Hybrid,1.0,0,0.42,0
+S011,INT131,0,0,0.133,0.0,0,3,0,0,6.14,Tier-3,Urban,Finance,Finance,0.32,16,0.533,Remote,0.4,0,1.0,0
+S011,INT132,0,0,0.4,0.0,0,2,0,0,6.14,Tier-3,Urban,Finance,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S011,INT142,0,0,0.5,0.5,1,2,0,0,6.14,Tier-3,Urban,Finance,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S011,INT142,1,0,0.5,0.5,1,2,0,0,6.14,Tier-3,Urban,Finance,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S012,INT006,1,0,0.467,0.317,1,3,0,1,8.29,Tier-2,Urban,AI,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S012,INT010,0,0,0.2,0.0,0,6,0,0,8.29,Tier-2,Urban,AI,Web Development,0.2,14,0.467,Remote,1.0,0,0.34,0
+S012,INT022,1,1,0.333,0.333,2,6,0,0,8.29,Tier-2,Urban,AI,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S012,INT025,0,0,0.133,0.0,0,6,0,0,8.29,Tier-2,Urban,AI,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S012,INT028,1,0,0.133,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S012,INT034,0,0,0.267,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,AI,0.2,4,0.133,Remote,1.0,0,0.0,0
+S012,INT038,1,0,0.233,0.167,1,6,0,0,8.29,Tier-2,Urban,AI,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S012,INT041,1,0,0.467,0.333,1,3,0,0,8.29,Tier-2,Urban,AI,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S012,INT045,1,1,0.2,0.0,0,2,0,0,8.29,Tier-2,Urban,AI,DevOps,0.2,6,0.2,Remote,1.0,0,0.0,0
+S012,INT048,0,0,0.2,0.0,0,2,0,0,8.29,Tier-2,Urban,AI,Machine Learning,0.32,6,0.2,On-site,0.4,0,1.0,0
+S012,INT058,0,0,0.2,0.0,0,6,0,0,8.29,Tier-2,Urban,AI,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S012,INT063,0,0,0.1,0.0,0,4,0,0,8.29,Tier-2,Urban,AI,Web Development,0.48,16,0.533,Remote,0.4,0,0.34,0
+S012,INT064,0,0,0.267,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,Security,0.32,28,0.933,Hybrid,1.0,0,0.0,0
+S012,INT079,0,0,0.267,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.64,0
+S012,INT088,1,1,0.133,0.0,0,6,0,0,8.29,Tier-2,Urban,AI,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,0
+S012,INT098,0,0,0.35,0.25,1,4,0,0,8.29,Tier-2,Urban,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,0
+S012,INT102,0,0,0.133,0.0,0,6,0,0,8.29,Tier-2,Urban,AI,Finance,0.32,10,0.333,Hybrid,0.4,0,0.34,0
+S012,INT108,0,0,0.2,0.0,0,2,0,0,8.29,Tier-2,Urban,AI,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S012,INT111,0,0,0.1,0.0,0,4,0,0,8.29,Tier-2,Urban,AI,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S012,INT113,0,0,0.1,0.0,0,4,0,0,8.29,Tier-2,Urban,AI,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S012,INT116,0,0,0.3,0.167,1,6,0,0,8.29,Tier-2,Urban,AI,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S012,INT117,0,0,0.4,0.0,0,2,0,0,8.29,Tier-2,Urban,AI,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S012,INT119,0,0,0.28,0.2,1,5,0,0,8.29,Tier-2,Urban,AI,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.28,0
+S012,INT120,0,0,0.133,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S012,INT123,1,1,0.2,0.2,1,5,0,0,8.29,Tier-2,Urban,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S012,INT134,0,0,0.24,0.0,0,5,0,0,8.29,Tier-2,Urban,AI,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S012,INT140,1,1,0.16,0.0,0,5,0,0,8.29,Tier-2,Urban,AI,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S012,INT146,0,0,0.25,0.25,1,4,0,0,8.29,Tier-2,Urban,AI,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S012,INT008,0,0,0.28,0.2,1,5,0,0,8.29,Tier-2,Urban,AI,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S013,INT011,1,0,0.233,0.167,1,6,0,0,6.39,Tier-3,Urban,Data Science,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S013,INT031,0,0,0.4,0.0,0,3,0,0,6.39,Tier-3,Urban,Data Science,Data Science & Analytics,0.6,12,0.4,Hybrid,1.0,0,1.0,0
+S013,INT035,0,0,0.267,0.0,0,3,0,0,6.39,Tier-3,Urban,Data Science,Cybersecurity,0.48,18,0.6,On-site,0.4,1,0.34,0
+S013,INT043,0,0,0.5,0.5,1,2,0,0,6.39,Tier-3,Urban,Data Science,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S013,INT060,0,0,0.333,0.333,1,3,0,0,6.39,Tier-3,Urban,Data Science,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S013,INT068,1,1,0.08,0.0,0,5,0,0,6.39,Tier-3,Urban,Data Science,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.95,0
+S013,INT070,0,0,0.233,0.167,1,6,0,0,6.39,Tier-3,Urban,Data Science,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S013,INT074,0,0,0.36,0.2,1,5,0,0,6.39,Tier-3,Urban,Data Science,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S013,INT075,1,1,0.36,0.2,1,5,0,0,6.39,Tier-3,Urban,Data Science,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.22,0
+S013,INT080,1,1,0.7,0.5,1,2,0,0,6.39,Tier-3,Urban,Data Science,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S013,INT081,0,0,0.16,0.0,0,5,0,0,6.39,Tier-3,Urban,Data Science,Finance,0.72,14,0.467,Remote,0.4,0,0.76,0
+S013,INT094,1,0,0.133,0.0,0,3,0,0,6.39,Tier-3,Urban,Data Science,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S013,INT125,0,0,0.24,0.0,0,5,0,0,6.39,Tier-3,Urban,Data Science,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S013,INT136,1,1,0.2,0.0,0,4,0,0,6.39,Tier-3,Urban,Data Science,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S013,INT139,1,1,0.16,0.0,0,5,0,0,6.39,Tier-3,Urban,Data Science,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S013,INT070,0,0,0.233,0.167,1,6,0,0,6.39,Tier-3,Urban,Data Science,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S015,INT050,1,0,0.28,0.184,1,5,0,0,5.25,Tier-2,Urban,Finance,Software Engineering,0.2,30,1.0,On-site,1.0,0,0.0,0
+S015,INT056,0,0,0.3,0.167,1,6,0,0,5.25,Tier-2,Urban,Finance,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.2,0
+S015,INT103,0,0,0.7,0.5,1,2,0,0,5.25,Tier-2,Urban,Finance,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,0.42,0
+S015,INT131,1,1,0.667,0.414,2,3,0,0,5.25,Tier-2,Urban,Finance,Finance,0.32,16,0.533,Remote,0.7,0,1.0,0
+S015,INT132,1,0,0.7,0.5,1,2,0,0,5.25,Tier-2,Urban,Finance,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S015,INT142,1,1,0.5,0.5,1,2,0,0,5.25,Tier-2,Urban,Finance,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S015,INT114,1,0,0.2,0.114,1,5,0,0,5.25,Tier-2,Urban,Finance,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S016,INT002,1,0,0.2,0.0,0,2,0,0,8.29,Tier-3,Urban,Chemical Engineering,Software Development,0.6,30,1.0,Remote,1.0,0,0.0,0
+S016,INT007,0,0,0.133,0.0,0,3,0,0,8.29,Tier-3,Urban,Chemical Engineering,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S016,INT012,1,0,0.1,0.0,0,4,0,0,8.29,Tier-3,Urban,Chemical Engineering,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.16,0
+S016,INT024,0,0,0.4,0.333,2,6,0,0,8.29,Tier-3,Urban,Chemical Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.08,0
+S016,INT026,1,1,0.16,0.0,0,5,0,0,8.29,Tier-3,Urban,Chemical Engineering,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S016,INT062,1,0,0.4,0.0,0,2,0,0,8.29,Tier-3,Urban,Chemical Engineering,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.24,0
+S016,INT072,1,0,0.133,0.0,0,3,0,0,8.29,Tier-3,Urban,Chemical Engineering,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,0
+S016,INT082,0,0,0.467,0.333,1,3,0,0,8.29,Tier-3,Urban,Chemical Engineering,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S016,INT090,0,0,0.133,0.0,0,3,0,0,8.29,Tier-3,Urban,Chemical Engineering,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S016,INT101,0,0,0.133,0.0,0,3,0,0,8.29,Tier-3,Urban,Chemical Engineering,Database Management,0.72,18,0.6,On-site,1.0,0,0.0,0
+S016,INT133,0,0,0.36,0.2,1,5,0,0,8.29,Tier-3,Urban,Chemical Engineering,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S016,INT135,0,0,0.2,0.0,0,4,0,0,8.29,Tier-3,Urban,Chemical Engineering,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S016,INT138,0,0,0.133,0.0,0,6,0,0,8.29,Tier-3,Urban,Chemical Engineering,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S016,INT143,1,1,0.16,0.0,0,5,0,0,8.29,Tier-3,Urban,Chemical Engineering,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S017,INT006,0,0,0.267,0.0,0,3,0,0,9.4,Tier-1,Urban,Data Science,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S017,INT010,1,0,0.2,0.0,0,6,0,0,9.4,Tier-1,Urban,Data Science,Web Development,0.2,14,0.467,Remote,0.4,0,0.36,0
+S017,INT022,0,0,0.067,0.0,0,6,0,0,9.4,Tier-1,Urban,Data Science,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S017,INT025,1,0,0.133,0.0,0,6,0,0,9.4,Tier-1,Urban,Data Science,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S017,INT028,1,0,0.133,0.0,0,3,0,0,9.4,Tier-1,Urban,Data Science,CI/CD,0.6,28,0.933,Remote,0.7,0,0.0,0
+S017,INT034,0,0,0.267,0.0,0,3,0,0,9.4,Tier-1,Urban,Data Science,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S017,INT038,0,0,0.133,0.0,0,6,0,0,9.4,Tier-1,Urban,Data Science,Security,0.48,8,0.267,Hybrid,1.0,0,0.0,0
+S017,INT041,1,0,0.333,0.333,1,3,0,0,9.4,Tier-1,Urban,Data Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S017,INT045,0,0,0.2,0.0,0,2,0,0,9.4,Tier-1,Urban,Data Science,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S017,INT048,1,0,0.4,0.0,0,2,0,0,9.4,Tier-1,Urban,Data Science,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S017,INT058,1,1,0.4,0.333,2,6,0,0,9.4,Tier-1,Urban,Data Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S017,INT063,0,0,0.2,0.0,0,4,0,0,9.4,Tier-1,Urban,Data Science,Web Development,0.48,16,0.533,Remote,0.4,0,0.36,0
+S017,INT064,0,0,0.467,0.333,1,3,0,0,9.4,Tier-1,Urban,Data Science,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S017,INT079,0,0,0.467,0.404,1,3,0,1,9.4,Tier-1,Urban,Data Science,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.66,0
+S017,INT088,0,0,0.233,0.167,1,6,0,0,9.4,Tier-1,Urban,Data Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S017,INT098,1,0,0.45,0.25,1,4,0,0,9.4,Tier-1,Urban,Data Science,UI/UX Design,0.6,12,0.4,On-site,0.7,0,0.32,0
+S017,INT102,0,0,0.133,0.0,0,6,0,0,9.4,Tier-1,Urban,Data Science,Finance,0.32,10,0.333,Hybrid,1.0,0,0.76,0
+S017,INT108,0,0,0.2,0.0,0,2,0,0,9.4,Tier-1,Urban,Data Science,Cloud Services,0.6,10,0.333,Hybrid,1.0,0,0.0,0
+S017,INT111,0,0,0.45,0.25,1,4,0,0,9.4,Tier-1,Urban,Data Science,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S017,INT113,0,0,0.2,0.0,0,4,0,0,9.4,Tier-1,Urban,Data Science,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S017,INT116,0,0,0.467,0.333,2,6,0,0,9.4,Tier-1,Urban,Data Science,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S017,INT117,1,0,0.4,0.0,0,2,0,0,9.4,Tier-1,Urban,Data Science,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S017,INT119,0,0,0.24,0.0,0,5,0,0,9.4,Tier-1,Urban,Data Science,UI/UX Design,0.48,6,0.2,On-site,0.7,0,0.32,0
+S017,INT120,0,0,0.267,0.0,0,3,0,0,9.4,Tier-1,Urban,Data Science,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S017,INT123,1,0,0.36,0.2,1,5,0,0,9.4,Tier-1,Urban,Data Science,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S017,INT134,1,0,0.16,0.0,0,5,0,0,9.4,Tier-1,Urban,Data Science,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S017,INT140,1,1,0.48,0.4,2,5,0,0,9.4,Tier-1,Urban,Data Science,Analytics,0.48,20,0.667,Remote,0.7,0,0.0,0
+S017,INT146,0,0,0.2,0.0,0,4,0,0,9.4,Tier-1,Urban,Data Science,Analytics,0.4,18,0.6,Hybrid,0.7,0,0.0,0
+S017,INT116,0,0,0.467,0.333,2,6,0,0,9.4,Tier-1,Urban,Data Science,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S017,INT111,1,1,0.45,0.25,1,4,0,0,9.4,Tier-1,Urban,Data Science,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S018,INT023,1,0,0.5,0.5,1,2,0,0,8.71,Tier-1,Urban,IT,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S018,INT114,0,0,0.28,0.543,1,5,0,1,8.71,Tier-1,Urban,IT,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S018,INT144,0,0,0.167,0.167,1,6,0,0,8.71,Tier-1,Urban,IT,Analytics,0.48,14,0.467,Hybrid,0.4,0,0.0,0
+S018,INT094,0,0,0.467,0.333,1,3,0,0,8.71,Tier-1,Urban,IT,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S019,INT085,1,0,0.35,0.257,1,4,0,0,6.38,Tier-3,Urban,Biotechnology,Web Development,0.8,8,0.267,On-site,0.4,0,0.1,0
+S019,INT001,1,0,0.133,0.0,0,3,0,0,6.38,Tier-3,Urban,Biotechnology,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S019,INT085,0,0,0.35,0.257,1,4,0,0,6.38,Tier-3,Urban,Biotechnology,Web Development,0.8,8,0.267,On-site,0.4,0,0.1,0
+S019,INT091,1,0,0.2,0.0,0,4,0,0,6.38,Tier-3,Urban,Biotechnology,Business Analysis,0.4,8,0.267,Remote,1.0,0,0.0,0
+S019,INT121,1,1,0.2,0.0,0,2,0,0,6.38,Tier-3,Urban,Biotechnology,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,0
+S019,INT069,0,0,0.3,0.167,1,6,0,0,6.38,Tier-3,Urban,Biotechnology,Finance,0.6,4,0.133,On-site,1.0,0,0.14,0
+S020,INT069,1,0,0.2,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Finance,0.6,4,0.133,On-site,1.0,1,0.44,1
+S020,INT102,1,0,0.133,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Finance,0.32,10,0.333,Hybrid,0.4,1,0.44,0
+S020,INT006,0,0,0.267,0.0,0,3,0,0,9.42,Tier-1,Rural,IT,DevOps,0.32,8,0.267,On-site,0.4,0,1.0,1
+S020,INT010,0,0,0.2,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Web Development,0.2,14,0.467,Remote,0.4,0,1.0,0
+S020,INT022,0,0,0.133,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S020,INT025,0,0,0.2,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S020,INT028,1,0,0.133,0.0,0,3,0,0,9.42,Tier-1,Rural,IT,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S020,INT034,0,0,0.267,0.0,0,3,0,0,9.42,Tier-1,Rural,IT,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S020,INT038,0,0,0.133,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S020,INT041,0,0,0.133,0.0,0,3,0,0,9.42,Tier-1,Rural,IT,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S020,INT045,0,0,0.2,0.0,0,2,0,0,9.42,Tier-1,Rural,IT,DevOps,0.2,6,0.2,Remote,0.4,0,1.0,0
+S020,INT048,0,0,0.2,0.0,0,2,0,0,9.42,Tier-1,Rural,IT,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,1
+S020,INT058,1,0,0.3,0.167,1,6,0,0,9.42,Tier-1,Rural,IT,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S020,INT063,0,0,0.1,0.0,0,4,0,0,9.42,Tier-1,Rural,IT,Web Development,0.48,16,0.533,Remote,0.4,0,1.0,0
+S020,INT064,1,0,0.467,0.333,1,3,0,0,9.42,Tier-1,Rural,IT,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S020,INT079,1,0,0.8,0.728,2,3,1,2,9.42,Tier-1,Rural,IT,Cloud Computing,0.4,30,1.0,Remote,0.4,0,1.0,0
+S020,INT088,0,0,0.3,0.167,1,6,0,0,9.42,Tier-1,Rural,IT,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,1
+S020,INT098,1,0,0.35,0.25,1,4,0,0,9.42,Tier-1,Rural,IT,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.62,1
+S020,INT102,0,0,0.133,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Finance,0.32,10,0.333,Hybrid,0.4,1,0.44,0
+S020,INT108,1,0,0.2,0.0,0,2,0,0,9.42,Tier-1,Rural,IT,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S020,INT111,0,0,0.1,0.0,0,4,0,0,9.42,Tier-1,Rural,IT,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S020,INT113,0,0,0.35,0.25,1,4,0,0,9.42,Tier-1,Rural,IT,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S020,INT116,1,0,0.3,0.167,1,6,0,0,9.42,Tier-1,Rural,IT,Network Security,0.2,6,0.2,On-site,1.0,0,0.0,1
+S020,INT117,0,0,0.4,0.0,0,2,0,0,9.42,Tier-1,Rural,IT,Quality Assurance,0.6,10,0.333,Remote,1.0,0,0.0,0
+S020,INT119,0,0,0.16,0.0,0,5,0,0,9.42,Tier-1,Rural,IT,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.62,1
+S020,INT120,0,0,0.133,0.0,0,3,0,0,9.42,Tier-1,Rural,IT,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S020,INT123,0,0,0.08,0.0,0,5,0,0,9.42,Tier-1,Rural,IT,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S020,INT134,0,0,0.36,0.2,1,5,0,0,9.42,Tier-1,Rural,IT,Security,0.6,6,0.2,On-site,1.0,0,0.0,1
+S020,INT140,0,0,0.36,0.2,1,5,0,0,9.42,Tier-1,Rural,IT,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S020,INT146,1,0,0.1,0.0,0,4,0,0,9.42,Tier-1,Rural,IT,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S020,INT064,1,0,0.467,0.333,1,3,0,0,9.42,Tier-1,Rural,IT,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S022,INT002,0,0,0.4,0.0,0,2,0,0,8.51,Tier-1,Urban,AI,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S022,INT007,0,0,0.467,0.333,1,3,0,0,8.51,Tier-1,Urban,AI,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S022,INT012,0,0,0.3,0.0,0,4,0,0,8.51,Tier-1,Urban,AI,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.64,0
+S022,INT024,0,0,0.2,0.0,0,6,0,0,8.51,Tier-1,Urban,AI,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.24,0
+S022,INT026,0,0,0.48,0.4,2,5,0,0,8.51,Tier-1,Urban,AI,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S022,INT062,1,0,0.2,0.0,0,2,0,0,8.51,Tier-1,Urban,AI,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,1.0,0
+S022,INT072,0,0,0.133,0.0,0,3,0,0,8.51,Tier-1,Urban,AI,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.74,0
+S022,INT082,0,0,0.333,0.333,1,3,0,0,8.51,Tier-1,Urban,AI,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S022,INT090,0,0,0.133,0.0,0,3,0,0,8.51,Tier-1,Urban,AI,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S022,INT101,1,0,0.4,0.0,0,3,0,0,8.51,Tier-1,Urban,AI,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S022,INT133,1,0,0.16,0.0,0,5,0,0,8.51,Tier-1,Urban,AI,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S022,INT135,1,0,0.2,0.0,0,4,0,0,8.51,Tier-1,Urban,AI,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S022,INT138,0,0,0.267,0.0,0,6,0,0,8.51,Tier-1,Urban,AI,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S022,INT143,1,0,0.32,0.0,0,5,0,0,8.51,Tier-1,Urban,AI,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S023,INT010,0,0,0.0,0.0,0,6,0,0,7.0,Tier-2,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,1.0,1,0.24,0
+S023,INT137,1,1,0.35,0.116,1,4,0,0,7.0,Tier-2,Urban,Electronics & Communication,Data Engineering,0.2,12,0.4,On-site,1.0,0,0.0,0
+S023,INT123,0,0,0.4,0.4,2,5,0,0,7.0,Tier-2,Urban,Electronics & Communication,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S023,INT131,0,0,0.667,0.886,2,3,0,1,7.0,Tier-2,Urban,Electronics & Communication,Finance,0.32,16,0.533,Remote,0.4,0,0.18,0
+S025,INT010,0,0,0.267,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,0.4,0,0.24,0
+S025,INT006,0,0,0.267,0.0,0,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S025,INT010,0,0,0.267,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,0.4,0,0.24,0
+S025,INT022,0,0,0.133,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S025,INT025,0,0,0.133,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S025,INT028,0,0,0.133,0.0,0,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S025,INT034,1,0,0.267,0.0,0,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S025,INT038,0,0,0.3,0.167,1,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S025,INT041,1,0,0.467,0.333,1,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S025,INT045,0,0,0.2,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S025,INT048,0,0,0.2,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S025,INT058,0,0,0.367,0.167,1,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S025,INT063,0,0,0.3,0.0,0,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,Web Development,0.48,16,0.533,Remote,0.4,0,0.24,0
+S025,INT064,0,0,0.6,0.333,1,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S025,INT079,0,0,0.467,0.404,1,3,0,1,6.48,Tier-1,Urban,Electronics & Communication,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.38,0
+S025,INT088,0,0,0.2,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S025,INT098,1,1,0.6,0.5,2,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S025,INT102,0,0,0.133,0.0,0,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Finance,0.32,10,0.333,Hybrid,0.4,0,0.18,0
+S025,INT108,1,0,0.2,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S025,INT111,0,0,0.2,0.0,0,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S025,INT113,0,0,0.35,0.25,1,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S025,INT116,0,0,0.367,0.167,1,6,0,0,6.48,Tier-1,Urban,Electronics & Communication,Network Security,0.2,6,0.2,On-site,1.0,0,0.0,0
+S025,INT117,0,0,0.4,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.6,10,0.333,Remote,1.0,0,0.0,0
+S025,INT119,1,1,0.44,0.2,1,5,0,0,6.48,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.24,0
+S025,INT120,0,0,0.267,0.0,0,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S025,INT123,1,1,0.36,0.2,1,5,0,0,6.48,Tier-1,Urban,Electronics & Communication,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S025,INT134,0,0,0.16,0.0,0,5,0,0,6.48,Tier-1,Urban,Electronics & Communication,Security,0.6,6,0.2,On-site,1.0,0,0.0,0
+S025,INT140,0,0,0.48,0.4,2,5,0,0,6.48,Tier-1,Urban,Electronics & Communication,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S025,INT146,1,1,0.2,0.0,0,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S025,INT009,0,0,0.28,0.2,1,5,0,0,6.48,Tier-1,Urban,Electronics & Communication,Mobile Development,0.4,4,0.133,Hybrid,1.0,0,0.22,0
+S025,INT098,0,0,0.6,0.5,2,4,0,0,6.48,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S026,INT006,1,1,0.6,0.317,1,3,0,1,8.93,Tier-2,Rural,AI,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S026,INT010,1,0,0.467,0.189,2,6,0,0,8.93,Tier-2,Rural,AI,Web Development,0.2,14,0.467,Remote,0.4,0,0.34,0
+S026,INT022,1,1,0.167,0.167,1,6,0,0,8.93,Tier-2,Rural,AI,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S026,INT025,0,0,0.233,0.167,1,6,0,0,8.93,Tier-2,Rural,AI,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S026,INT028,0,0,0.133,0.0,0,3,0,0,8.93,Tier-2,Rural,AI,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S026,INT034,0,0,0.267,0.0,0,3,0,0,8.93,Tier-2,Rural,AI,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S026,INT038,0,0,0.133,0.0,0,6,0,0,8.93,Tier-2,Rural,AI,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S026,INT041,1,0,0.133,0.0,0,3,0,0,8.93,Tier-2,Rural,AI,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S026,INT045,1,1,0.5,0.833,1,2,0,0,8.93,Tier-2,Rural,AI,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S026,INT048,0,0,0.2,0.0,0,2,0,0,8.93,Tier-2,Rural,AI,Machine Learning,0.32,6,0.2,On-site,0.4,0,1.0,1
+S026,INT058,0,0,0.2,0.0,0,6,0,0,8.93,Tier-2,Rural,AI,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S026,INT063,1,0,0.45,0.121,1,4,0,0,8.93,Tier-2,Rural,AI,Web Development,0.48,16,0.533,Remote,0.4,0,0.34,0
+S026,INT064,1,0,0.267,0.0,0,3,0,0,8.93,Tier-2,Rural,AI,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S026,INT079,0,0,0.467,0.272,1,3,0,0,8.93,Tier-2,Rural,AI,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.64,0
+S026,INT088,0,0,0.133,0.0,0,6,0,0,8.93,Tier-2,Rural,AI,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,1
+S026,INT098,1,0,0.7,0.5,2,4,0,0,8.93,Tier-2,Rural,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,1
+S026,INT102,0,0,0.2,0.0,0,6,0,0,8.93,Tier-2,Rural,AI,Finance,0.32,10,0.333,Hybrid,0.4,0,0.34,0
+S026,INT108,1,1,0.2,0.0,0,2,0,0,8.93,Tier-2,Rural,AI,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S026,INT111,0,0,0.2,0.0,0,4,0,0,8.93,Tier-2,Rural,AI,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S026,INT113,1,0,0.1,0.0,0,4,0,0,8.93,Tier-2,Rural,AI,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S026,INT116,1,1,0.433,0.167,1,6,0,0,8.93,Tier-2,Rural,AI,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S026,INT117,1,0,0.4,0.0,0,2,0,0,8.93,Tier-2,Rural,AI,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S026,INT119,0,0,0.32,0.0,0,5,0,0,8.93,Tier-2,Rural,AI,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.28,1
+S026,INT120,0,0,0.133,0.0,0,3,0,0,8.93,Tier-2,Rural,AI,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S026,INT123,1,0,0.16,0.0,0,5,0,0,8.93,Tier-2,Rural,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S026,INT134,0,0,0.28,0.2,1,5,0,0,8.93,Tier-2,Rural,AI,Security,0.6,6,0.2,On-site,0.4,0,0.0,1
+S026,INT140,0,0,0.24,0.0,0,5,0,0,8.93,Tier-2,Rural,AI,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S026,INT146,1,1,0.25,0.25,1,4,0,0,8.93,Tier-2,Rural,AI,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S026,INT076,1,0,0.6,0.508,2,4,1,2,8.93,Tier-2,Rural,AI,Finance,0.6,30,1.0,On-site,1.0,0,0.34,1
+S027,INT006,0,0,0.467,0.342,1,3,0,1,5.23,Tier-1,Urban,AI,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S027,INT010,0,0,0.367,0.095,1,6,0,0,5.23,Tier-1,Urban,AI,Web Development,0.2,14,0.467,Remote,0.4,0,0.34,0
+S027,INT022,0,0,0.133,0.0,0,6,0,0,5.23,Tier-1,Urban,AI,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S027,INT025,0,0,0.3,0.167,1,6,0,0,5.23,Tier-1,Urban,AI,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S027,INT028,1,0,0.133,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S027,INT034,1,1,0.267,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S027,INT038,1,0,0.3,0.167,1,6,0,0,5.23,Tier-1,Urban,AI,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S027,INT041,1,1,0.267,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S027,INT045,1,0,0.2,0.0,0,2,0,0,5.23,Tier-1,Urban,AI,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S027,INT048,0,0,0.4,0.0,0,2,0,0,5.23,Tier-1,Urban,AI,Machine Learning,0.32,6,0.2,On-site,0.4,0,1.0,0
+S027,INT058,0,0,0.2,0.0,0,6,0,0,5.23,Tier-1,Urban,AI,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S027,INT063,1,0,0.2,0.0,0,4,0,0,5.23,Tier-1,Urban,AI,Web Development,0.48,16,0.533,Remote,0.4,0,0.34,0
+S027,INT064,1,0,0.4,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S027,INT079,0,0,0.4,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.64,0
+S027,INT088,1,1,0.2,0.0,0,6,0,0,5.23,Tier-1,Urban,AI,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S027,INT098,0,0,0.35,0.25,1,4,0,0,5.23,Tier-1,Urban,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,0
+S027,INT102,1,0,0.133,0.0,0,6,0,0,5.23,Tier-1,Urban,AI,Finance,0.32,10,0.333,Hybrid,0.4,0,0.34,0
+S027,INT108,0,0,0.2,0.0,0,2,0,0,5.23,Tier-1,Urban,AI,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S027,INT111,1,0,0.2,0.0,0,4,0,0,5.23,Tier-1,Urban,AI,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S027,INT113,0,0,0.4,0.0,0,4,0,0,5.23,Tier-1,Urban,AI,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S027,INT116,1,0,0.233,0.167,1,6,0,0,5.23,Tier-1,Urban,AI,Network Security,0.2,6,0.2,On-site,1.0,0,0.0,0
+S027,INT117,0,0,0.4,0.0,0,2,0,0,5.23,Tier-1,Urban,AI,Quality Assurance,0.6,10,0.333,Remote,1.0,0,0.0,0
+S027,INT119,0,0,0.36,0.2,1,5,0,0,5.23,Tier-1,Urban,AI,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.28,0
+S027,INT120,1,0,0.4,0.0,0,3,0,0,5.23,Tier-1,Urban,AI,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S027,INT123,0,0,0.36,0.2,1,5,0,0,5.23,Tier-1,Urban,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S027,INT134,0,0,0.16,0.0,0,5,0,0,5.23,Tier-1,Urban,AI,Security,0.6,6,0.2,On-site,1.0,0,0.0,0
+S027,INT140,1,0,0.36,0.2,1,5,0,0,5.23,Tier-1,Urban,AI,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S027,INT146,0,0,0.45,0.25,1,4,0,0,5.23,Tier-1,Urban,AI,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S028,INT006,1,1,0.667,0.658,2,3,1,2,9.02,Tier-2,Rural,Electrical Engineering,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S028,INT010,0,0,0.367,0.095,1,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Web Development,0.2,14,0.467,Remote,0.4,0,0.16,0
+S028,INT022,1,1,0.567,0.5,3,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S028,INT025,0,0,0.133,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S028,INT028,0,0,0.133,0.0,0,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S028,INT034,1,0,0.6,0.333,1,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S028,INT038,1,1,0.267,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S028,INT041,0,0,0.267,0.0,0,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S028,INT045,1,0,0.2,0.0,0,2,0,0,9.02,Tier-2,Rural,Electrical Engineering,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S028,INT048,0,0,0.2,0.0,0,2,0,0,9.02,Tier-2,Rural,Electrical Engineering,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,1
+S028,INT058,0,0,0.333,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S028,INT063,0,0,0.3,0.0,0,4,0,0,9.02,Tier-2,Rural,Electrical Engineering,Web Development,0.48,16,0.533,Remote,1.0,0,0.16,0
+S028,INT064,0,0,0.6,0.333,1,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S028,INT079,1,0,0.267,0.0,0,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.26,0
+S028,INT088,1,0,0.2,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,1
+S028,INT098,0,0,0.3,0.0,0,4,0,0,9.02,Tier-2,Rural,Electrical Engineering,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.16,1
+S028,INT102,0,0,0.133,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Finance,0.32,10,0.333,Hybrid,0.4,0,0.18,0
+S028,INT108,0,0,0.2,0.0,0,2,0,0,9.02,Tier-2,Rural,Electrical Engineering,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S028,INT111,0,0,0.2,0.0,0,4,0,0,9.02,Tier-2,Rural,Electrical Engineering,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S028,INT113,0,0,0.2,0.0,0,4,0,0,9.02,Tier-2,Rural,Electrical Engineering,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S028,INT116,0,0,0.333,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S028,INT117,0,0,0.4,0.0,0,2,0,0,9.02,Tier-2,Rural,Electrical Engineering,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S028,INT119,0,0,0.32,0.0,0,5,0,0,9.02,Tier-2,Rural,Electrical Engineering,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.16,1
+S028,INT120,0,0,0.267,0.0,0,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S028,INT123,1,0,0.24,0.0,0,5,0,0,9.02,Tier-2,Rural,Electrical Engineering,Marketing,0.6,4,0.133,Hybrid,1.0,0,0.0,0
+S028,INT134,0,0,0.24,0.0,0,5,0,0,9.02,Tier-2,Rural,Electrical Engineering,Security,0.6,6,0.2,On-site,0.4,0,0.0,1
+S028,INT140,1,0,0.24,0.0,0,5,0,0,9.02,Tier-2,Rural,Electrical Engineering,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S028,INT146,0,0,0.35,0.25,1,4,0,0,9.02,Tier-2,Rural,Electrical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S028,INT143,0,0,0.52,0.2,1,5,0,0,9.02,Tier-2,Rural,Electrical Engineering,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S028,INT132,1,1,0.5,0.5,1,2,0,0,9.02,Tier-2,Rural,Electrical Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S029,INT013,0,0,0.28,0.2,1,5,0,0,8.89,Tier-1,Rural,Biotechnology,Analytics,0.48,28,0.933,Hybrid,1.0,0,0.0,0
+S029,INT021,1,1,0.333,0.0,0,6,0,0,8.89,Tier-1,Rural,Biotechnology,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S029,INT027,0,0,0.2,0.0,0,4,0,0,8.89,Tier-1,Rural,Biotechnology,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S029,INT029,0,0,0.7,0.5,1,2,0,0,8.89,Tier-1,Rural,Biotechnology,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S029,INT032,0,0,0.16,0.0,0,5,0,0,8.89,Tier-1,Rural,Biotechnology,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S029,INT033,0,0,0.2,0.0,0,2,0,0,8.89,Tier-1,Rural,Biotechnology,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,0.2,0
+S029,INT044,0,0,0.36,0.2,1,5,0,0,8.89,Tier-1,Rural,Biotechnology,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S029,INT052,0,0,0.333,0.0,0,6,0,0,8.89,Tier-1,Rural,Biotechnology,Cloud Computing,0.4,24,0.8,Hybrid,1.0,0,0.2,0
+S029,INT054,1,0,0.2,0.0,0,2,0,0,8.89,Tier-1,Rural,Biotechnology,App Development,0.48,6,0.2,Remote,1.0,0,0.0,0
+S029,INT057,0,0,0.5,0.5,1,2,0,0,8.89,Tier-1,Rural,Biotechnology,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S029,INT069,0,0,0.433,0.167,1,6,0,0,8.89,Tier-1,Rural,Biotechnology,Finance,0.6,4,0.133,On-site,1.0,0,0.14,1
+S029,INT106,0,0,0.32,0.0,0,5,0,0,8.89,Tier-1,Rural,Biotechnology,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,1
+S029,INT109,0,0,0.2,0.0,0,2,0,0,8.89,Tier-1,Rural,Biotechnology,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S029,INT112,0,0,0.2,0.0,0,2,0,0,8.89,Tier-1,Rural,Biotechnology,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S029,INT148,1,1,0.36,0.2,1,5,0,0,8.89,Tier-1,Rural,Biotechnology,Testing,0.4,14,0.467,On-site,0.4,0,0.0,1
+S029,INT150,1,0,0.467,0.333,1,3,0,0,8.89,Tier-1,Rural,Biotechnology,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S029,INT150,0,0,0.467,0.333,1,3,0,0,8.89,Tier-1,Rural,Biotechnology,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S029,INT041,0,0,0.467,0.333,1,3,0,0,8.89,Tier-1,Rural,Biotechnology,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S030,INT006,0,0,0.267,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,DevOps,0.32,8,0.267,On-site,0.4,0,1.0,0
+S030,INT010,1,1,0.2,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Web Development,0.2,14,0.467,Remote,0.4,0,1.0,0
+S030,INT022,0,0,0.133,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S030,INT025,1,0,0.2,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S030,INT028,1,1,0.467,0.333,1,3,0,0,6.65,Tier-3,Urban,Computer Science,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S030,INT034,0,0,0.467,0.333,1,3,0,0,6.65,Tier-3,Urban,Computer Science,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S030,INT038,1,0,0.367,0.167,1,6,0,0,6.65,Tier-3,Urban,Computer Science,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S030,INT041,0,0,0.133,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S030,INT045,0,0,0.4,0.0,0,2,0,0,6.65,Tier-3,Urban,Computer Science,DevOps,0.2,6,0.2,Remote,0.4,0,1.0,0
+S030,INT048,0,0,0.4,0.0,0,2,0,0,6.65,Tier-3,Urban,Computer Science,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S030,INT058,0,0,0.2,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S030,INT063,0,0,0.2,0.0,0,4,0,0,6.65,Tier-3,Urban,Computer Science,Web Development,0.48,16,0.533,Remote,0.4,0,1.0,0
+S030,INT064,1,0,0.467,0.333,1,3,0,0,6.65,Tier-3,Urban,Computer Science,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S030,INT079,0,0,0.267,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,Cloud Computing,0.4,30,1.0,Remote,0.4,0,1.0,0
+S030,INT088,0,0,0.133,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S030,INT098,1,1,0.6,0.5,2,4,0,0,6.65,Tier-3,Urban,Computer Science,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.65,0
+S030,INT102,1,0,0.133,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Finance,0.32,10,0.333,Hybrid,0.4,0,0.45,0
+S030,INT108,0,0,0.4,0.0,0,2,0,0,6.65,Tier-3,Urban,Computer Science,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S030,INT111,1,0,0.3,0.0,0,4,0,0,6.65,Tier-3,Urban,Computer Science,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S030,INT113,0,0,0.2,0.0,0,4,0,0,6.65,Tier-3,Urban,Computer Science,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S030,INT116,1,0,0.467,0.333,2,6,0,0,6.65,Tier-3,Urban,Computer Science,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S030,INT117,0,0,0.4,0.0,0,2,0,0,6.65,Tier-3,Urban,Computer Science,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S030,INT119,1,0,0.48,0.4,2,5,0,0,6.65,Tier-3,Urban,Computer Science,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.65,0
+S030,INT120,0,0,0.267,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S030,INT123,1,1,0.44,0.2,1,5,0,0,6.65,Tier-3,Urban,Computer Science,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S030,INT134,0,0,0.16,0.0,0,5,0,0,6.65,Tier-3,Urban,Computer Science,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S030,INT140,0,0,0.24,0.0,0,5,0,0,6.65,Tier-3,Urban,Computer Science,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S030,INT146,1,1,0.35,0.25,1,4,0,0,6.65,Tier-3,Urban,Computer Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S030,INT074,0,0,0.36,0.2,1,5,0,0,6.65,Tier-3,Urban,Computer Science,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S030,INT098,1,1,0.6,0.5,2,4,0,0,6.65,Tier-3,Urban,Computer Science,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.65,0
+S032,INT002,0,0,0.4,0.0,0,2,0,0,5.68,Tier-3,Urban,IT,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S032,INT007,1,0,0.267,0.0,0,3,0,0,5.68,Tier-3,Urban,IT,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S032,INT012,0,0,0.2,0.0,0,4,0,0,5.68,Tier-3,Urban,IT,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,1.0,0
+S032,INT024,1,1,0.133,0.0,0,6,0,0,5.68,Tier-3,Urban,IT,Mobile Development,0.2,16,0.533,Remote,0.4,0,1.0,0
+S032,INT026,0,0,0.24,0.0,0,5,0,0,5.68,Tier-3,Urban,IT,Product Management,0.2,14,0.467,On-site,1.0,0,0.0,0
+S032,INT062,0,0,0.2,0.0,0,2,0,0,5.68,Tier-3,Urban,IT,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,1.0,0
+S032,INT072,0,0,0.267,0.0,0,3,0,0,5.68,Tier-3,Urban,IT,Data Engineering,0.2,18,0.6,On-site,0.4,0,1.0,0
+S032,INT082,0,0,0.133,0.0,0,3,0,0,5.68,Tier-3,Urban,IT,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S032,INT090,1,0,0.133,0.0,0,3,0,0,5.68,Tier-3,Urban,IT,Fintech,0.72,12,0.4,On-site,0.7,0,0.0,0
+S032,INT101,0,0,0.467,0.333,1,3,0,0,5.68,Tier-3,Urban,IT,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S032,INT133,0,0,0.16,0.0,0,5,0,0,5.68,Tier-3,Urban,IT,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S032,INT135,1,0,0.45,0.25,1,4,0,0,5.68,Tier-3,Urban,IT,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S032,INT138,0,0,0.367,0.167,1,6,0,0,5.68,Tier-3,Urban,IT,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S032,INT143,0,0,0.56,0.4,2,5,0,0,5.68,Tier-3,Urban,IT,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S032,INT070,0,0,0.167,0.167,1,6,0,0,5.68,Tier-3,Urban,IT,Software Engineering,0.4,14,0.467,On-site,0.4,0,1.0,0
+S032,INT135,0,0,0.45,0.25,1,4,0,0,5.68,Tier-3,Urban,IT,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S034,INT011,1,1,0.267,0.0,0,6,0,0,9.54,Tier-3,Rural,Electronics & Communication,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S034,INT031,0,0,0.4,0.0,0,3,0,0,9.54,Tier-3,Rural,Electronics & Communication,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.42,0
+S034,INT035,0,0,0.267,0.0,0,3,0,0,9.54,Tier-3,Rural,Electronics & Communication,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.56,1
+S034,INT043,1,1,0.2,0.0,0,2,0,0,9.54,Tier-3,Rural,Electronics & Communication,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S034,INT060,0,0,0.133,0.0,0,3,0,0,9.54,Tier-3,Rural,Electronics & Communication,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S034,INT068,0,0,0.16,0.0,0,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.54,0
+S034,INT070,0,0,0.3,0.167,1,6,0,0,9.54,Tier-3,Rural,Electronics & Communication,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S034,INT074,0,0,0.52,0.2,1,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Testing,0.2,10,0.333,On-site,0.4,0,0.0,1
+S034,INT075,1,0,0.24,0.0,0,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.22,0
+S034,INT080,0,0,0.2,0.0,0,2,0,0,9.54,Tier-3,Rural,Electronics & Communication,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S034,INT081,0,0,0.44,0.2,1,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S034,INT094,1,0,0.4,0.0,0,3,0,0,9.54,Tier-3,Rural,Electronics & Communication,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S034,INT125,0,0,0.24,0.0,0,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S034,INT136,0,0,0.3,0.0,0,4,0,0,9.54,Tier-3,Rural,Electronics & Communication,Testing,0.4,24,0.8,On-site,0.7,0,0.0,1
+S034,INT139,0,0,0.44,0.2,1,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S034,INT045,0,0,0.7,0.167,1,2,0,0,9.54,Tier-3,Rural,Electronics & Communication,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S034,INT121,1,1,0.5,0.5,1,2,0,1,9.54,Tier-3,Rural,Electronics & Communication,Data Engineering,0.72,18,0.6,On-site,1.0,0,0.0,1
+S036,INT085,1,0,0.0,0.0,0,4,0,0,9.15,Tier-2,Rural,Electronics & Communication,Web Development,0.8,8,0.267,On-site,0.4,0,0.24,1
+S036,INT013,0,0,0.16,0.0,0,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S036,INT021,0,0,0.2,0.0,0,6,0,0,9.15,Tier-2,Rural,Electronics & Communication,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S036,INT027,0,0,0.1,0.0,0,4,0,0,9.15,Tier-2,Rural,Electronics & Communication,Machine Learning,0.4,16,0.533,Remote,0.7,0,0.0,0
+S036,INT029,0,0,0.2,0.0,0,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,Product Management,0.48,20,0.667,Remote,0.7,0,0.0,0
+S036,INT032,1,0,0.08,0.0,0,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S036,INT033,0,0,0.2,0.0,0,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,0.38,0
+S036,INT044,0,0,0.28,0.2,1,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,Cloud Services,0.2,6,0.2,Remote,0.7,0,0.0,0
+S036,INT052,0,0,0.367,0.5,1,6,0,1,9.15,Tier-2,Rural,Electronics & Communication,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.38,0
+S036,INT054,0,0,0.2,0.0,0,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S036,INT057,0,0,0.5,0.5,1,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S036,INT069,0,0,0.367,0.167,1,6,0,0,9.15,Tier-2,Rural,Electronics & Communication,Finance,0.6,4,0.133,On-site,1.0,0,0.18,1
+S036,INT106,1,0,0.24,0.0,0,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.7,0,0.0,1
+S036,INT109,0,0,0.2,0.0,0,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S036,INT112,1,0,0.2,0.0,0,2,0,0,9.15,Tier-2,Rural,Electronics & Communication,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S036,INT148,0,0,0.16,0.0,0,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,Testing,0.4,14,0.467,On-site,0.7,0,0.0,1
+S036,INT150,1,0,0.267,0.0,0,3,0,0,9.15,Tier-2,Rural,Electronics & Communication,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S037,INT004,0,0,0.2,0.0,0,2,0,0,8.99,Tier-3,Urban,Civil Engineering,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,0
+S037,INT034,0,0,0.333,0.333,1,3,0,0,8.99,Tier-3,Urban,Civil Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S038,INT009,1,1,0.32,0.0,0,5,0,0,6.11,Tier-2,Rural,Computer Science,Mobile Development,0.4,4,0.133,Hybrid,1.0,0,1.0,0
+S038,INT017,0,0,0.4,0.0,0,3,0,0,6.11,Tier-2,Rural,Computer Science,Data Science,0.72,28,0.933,Remote,1.0,0,0.0,0
+S038,INT133,0,0,0.52,0.2,1,5,0,0,6.11,Tier-2,Rural,Computer Science,App Development,0.32,18,0.6,On-site,0.4,0,0.0,1
+S038,INT102,0,0,0.3,0.099,1,6,0,0,6.11,Tier-2,Rural,Computer Science,Finance,0.32,10,0.333,Hybrid,0.4,0,0.45,0
+S039,INT002,0,0,0.2,0.0,0,2,0,0,9.75,Tier-3,Rural,IT,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S039,INT007,1,0,0.267,0.0,0,3,0,0,9.75,Tier-3,Rural,IT,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,1
+S039,INT012,0,0,0.1,0.0,0,4,0,0,9.75,Tier-3,Rural,IT,Cloud Computing,0.32,6,0.2,Hybrid,1.0,0,1.0,0
+S039,INT024,0,0,0.267,0.0,0,6,0,0,9.75,Tier-3,Rural,IT,Mobile Development,0.2,16,0.533,Remote,0.4,0,1.0,0
+S039,INT026,0,0,0.36,0.2,1,5,0,0,9.75,Tier-3,Rural,IT,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,1
+S039,INT062,1,0,0.2,0.0,0,2,0,0,9.75,Tier-3,Rural,IT,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,1.0,0
+S039,INT072,0,0,0.467,0.333,1,3,0,0,9.75,Tier-3,Rural,IT,Data Engineering,0.2,18,0.6,On-site,0.4,0,1.0,1
+S039,INT082,1,1,0.667,0.667,2,3,0,0,9.75,Tier-3,Rural,IT,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S039,INT090,0,0,0.267,0.0,0,3,0,0,9.75,Tier-3,Rural,IT,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,1
+S039,INT101,0,0,0.333,0.333,1,3,0,0,9.75,Tier-3,Rural,IT,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,1
+S039,INT133,0,0,0.52,0.2,1,5,0,0,9.75,Tier-3,Rural,IT,App Development,0.32,18,0.6,On-site,0.4,0,0.0,1
+S039,INT135,0,0,0.35,0.25,1,4,0,0,9.75,Tier-3,Rural,IT,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,1
+S039,INT138,0,0,0.2,0.0,0,6,0,0,9.75,Tier-3,Rural,IT,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S039,INT143,1,1,0.36,0.2,1,5,0,0,9.75,Tier-3,Rural,IT,Marketing,0.72,30,1.0,Remote,1.0,0,0.0,0
+S039,INT009,0,0,0.36,0.2,1,5,0,0,9.75,Tier-3,Rural,IT,Mobile Development,0.4,4,0.133,Hybrid,1.0,0,1.0,0
+S043,INT010,0,0,0.167,0.527,1,6,0,1,5.3,Tier-2,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,0.4,0,0.24,0
+S043,INT085,0,0,0.0,0.0,0,4,0,0,5.3,Tier-2,Urban,Electronics & Communication,Web Development,0.8,8,0.267,On-site,0.4,0,0.24,0
+S043,INT011,0,0,0.233,0.167,1,6,0,0,5.3,Tier-2,Urban,Electronics & Communication,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S043,INT031,1,0,0.467,0.333,1,3,0,0,5.3,Tier-2,Urban,Electronics & Communication,Data Science & Analytics,0.6,12,0.4,Hybrid,1.0,0,0.42,0
+S043,INT035,1,1,0.467,0.333,1,3,0,0,5.3,Tier-2,Urban,Electronics & Communication,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.56,0
+S043,INT043,0,0,0.7,0.5,1,2,0,0,5.3,Tier-2,Urban,Electronics & Communication,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S043,INT060,0,0,0.467,0.333,1,3,0,0,5.3,Tier-2,Urban,Electronics & Communication,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S043,INT068,0,0,0.36,0.115,1,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.54,0
+S043,INT070,1,0,0.4,0.333,2,6,0,0,5.3,Tier-2,Urban,Electronics & Communication,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S043,INT074,0,0,0.48,0.4,2,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S043,INT075,0,0,0.16,0.0,0,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.22,0
+S043,INT080,0,0,0.2,0.0,0,2,0,0,5.3,Tier-2,Urban,Electronics & Communication,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S043,INT081,0,0,0.16,0.0,0,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S043,INT094,0,0,0.467,0.333,1,3,0,0,5.3,Tier-2,Urban,Electronics & Communication,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S043,INT125,0,0,0.16,0.0,0,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S043,INT136,1,0,0.2,0.0,0,4,0,0,5.3,Tier-2,Urban,Electronics & Communication,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S043,INT139,0,0,0.16,0.0,0,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S043,INT113,0,0,0.25,0.25,1,4,0,0,5.3,Tier-2,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S043,INT022,0,0,0.167,0.167,1,6,0,0,5.3,Tier-2,Urban,Electronics & Communication,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S043,INT138,1,0,0.3,0.167,1,6,0,0,5.3,Tier-2,Urban,Electronics & Communication,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S044,INT023,0,0,0.7,0.5,1,2,0,0,5.36,Tier-2,Rural,Architecture,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S044,INT114,1,1,0.28,0.543,1,5,0,1,5.36,Tier-2,Rural,Architecture,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S044,INT144,0,0,0.3,0.167,1,6,0,0,5.36,Tier-2,Rural,Architecture,Analytics,0.48,14,0.467,Hybrid,0.4,0,0.0,0
+S044,INT088,0,0,0.233,0.167,1,6,0,0,5.36,Tier-2,Rural,Architecture,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,1
+S044,INT088,1,1,0.233,0.167,1,6,0,0,5.36,Tier-2,Rural,Architecture,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,1
+S045,INT006,0,0,0.6,0.317,1,3,0,1,8.96,Tier-2,Urban,Computer Science,DevOps,0.32,8,0.267,On-site,0.4,0,1.0,0
+S045,INT010,0,0,0.333,0.0,0,6,0,0,8.96,Tier-2,Urban,Computer Science,Web Development,0.2,14,0.467,Remote,0.4,0,1.0,0
+S045,INT022,1,1,0.3,0.167,1,6,0,0,8.96,Tier-2,Urban,Computer Science,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S045,INT025,1,1,0.367,0.167,1,6,0,0,8.96,Tier-2,Urban,Computer Science,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S045,INT028,0,0,0.267,0.0,0,3,0,0,8.96,Tier-2,Urban,Computer Science,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S045,INT034,0,0,0.267,0.0,0,3,0,0,8.96,Tier-2,Urban,Computer Science,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S045,INT038,0,0,0.333,0.0,0,6,0,0,8.96,Tier-2,Urban,Computer Science,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S045,INT041,0,0,0.467,0.333,1,3,0,0,8.96,Tier-2,Urban,Computer Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S045,INT045,0,0,0.7,0.167,1,2,0,0,8.96,Tier-2,Urban,Computer Science,DevOps,0.2,6,0.2,Remote,0.4,0,1.0,0
+S045,INT048,0,0,0.4,0.0,0,2,0,0,8.96,Tier-2,Urban,Computer Science,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S045,INT058,1,1,0.2,0.0,0,6,0,0,8.96,Tier-2,Urban,Computer Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S045,INT063,0,0,0.3,0.0,0,4,0,0,8.96,Tier-2,Urban,Computer Science,Web Development,0.48,16,0.533,Remote,0.4,0,1.0,0
+S045,INT064,0,0,0.4,0.0,0,3,0,0,8.96,Tier-2,Urban,Computer Science,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S045,INT079,1,1,0.267,0.0,0,3,0,0,8.96,Tier-2,Urban,Computer Science,Cloud Computing,0.4,30,1.0,Remote,0.4,0,1.0,0
+S045,INT088,1,0,0.467,0.333,2,6,0,0,8.96,Tier-2,Urban,Computer Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S045,INT098,0,0,0.2,0.0,0,4,0,0,8.96,Tier-2,Urban,Computer Science,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.65,0
+S045,INT102,1,1,0.3,0.099,1,6,0,0,8.96,Tier-2,Urban,Computer Science,Finance,0.32,10,0.333,Hybrid,0.4,0,0.45,0
+S045,INT108,0,0,0.4,0.0,0,2,0,0,8.96,Tier-2,Urban,Computer Science,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S045,INT111,0,0,0.3,0.0,0,4,0,0,8.96,Tier-2,Urban,Computer Science,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S045,INT113,0,0,0.3,0.0,0,4,0,0,8.96,Tier-2,Urban,Computer Science,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S045,INT116,0,0,0.3,0.167,1,6,0,0,8.96,Tier-2,Urban,Computer Science,Network Security,0.2,6,0.2,On-site,1.0,0,0.0,0
+S045,INT117,1,0,0.4,0.0,0,2,0,0,8.96,Tier-2,Urban,Computer Science,Quality Assurance,0.6,10,0.333,Remote,1.0,0,0.0,0
+S045,INT119,0,0,0.44,0.2,1,5,0,0,8.96,Tier-2,Urban,Computer Science,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.65,0
+S045,INT120,0,0,0.4,0.0,0,3,0,0,8.96,Tier-2,Urban,Computer Science,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S045,INT123,0,0,0.32,0.0,0,5,0,0,8.96,Tier-2,Urban,Computer Science,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S045,INT134,0,0,0.16,0.0,0,5,0,0,8.96,Tier-2,Urban,Computer Science,Security,0.6,6,0.2,On-site,1.0,0,0.0,0
+S045,INT140,0,0,0.36,0.2,1,5,0,0,8.96,Tier-2,Urban,Computer Science,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S045,INT146,1,0,0.45,0.25,1,4,0,0,8.96,Tier-2,Urban,Computer Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S045,INT074,0,0,0.44,0.2,1,5,0,0,8.96,Tier-2,Urban,Computer Science,Testing,0.2,10,0.333,On-site,1.0,0,0.0,0
+S046,INT018,0,0,0.45,0.25,1,4,0,0,9.81,Tier-3,Urban,Computer Science,Finance,0.72,16,0.533,Hybrid,0.4,0,0.45,0
+S046,INT089,1,0,0.467,0.131,1,3,0,0,9.81,Tier-3,Urban,Computer Science,Cloud Computing,0.48,6,0.2,On-site,0.4,0,1.0,0
+S046,INT105,1,1,0.5,0.5,3,6,0,0,9.81,Tier-3,Urban,Computer Science,App Development,0.48,30,1.0,On-site,0.4,0,0.0,0
+S046,INT110,1,1,0.5,0.5,2,4,0,0,9.81,Tier-3,Urban,Computer Science,Cybersecurity,0.6,14,0.467,On-site,0.4,0,1.0,0
+S046,INT128,0,0,0.333,0.333,1,3,0,0,9.81,Tier-3,Urban,Computer Science,Cybersecurity,0.48,18,0.6,Remote,0.4,0,1.0,0
+S046,INT070,0,0,0.233,0.167,1,6,0,0,9.81,Tier-3,Urban,Computer Science,Software Engineering,0.4,14,0.467,On-site,0.4,0,1.0,0
+S047,INT070,0,0,0.2,0.0,0,6,0,0,6.67,Tier-1,Urban,Civil Engineering,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S047,INT013,1,1,0.36,0.2,1,5,0,0,6.67,Tier-1,Urban,Civil Engineering,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S047,INT021,0,0,0.333,0.0,0,6,0,0,6.67,Tier-1,Urban,Civil Engineering,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S047,INT027,0,0,0.2,0.0,0,4,0,0,6.67,Tier-1,Urban,Civil Engineering,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S047,INT029,0,0,0.4,0.0,0,2,0,0,6.67,Tier-1,Urban,Civil Engineering,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S047,INT032,0,0,0.24,0.0,0,5,0,0,6.67,Tier-1,Urban,Civil Engineering,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S047,INT033,0,0,0.5,0.5,1,2,0,0,6.67,Tier-1,Urban,Civil Engineering,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,0.18,0
+S047,INT044,0,0,0.24,0.0,0,5,0,0,6.67,Tier-1,Urban,Civil Engineering,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S047,INT052,1,0,0.5,0.1,1,6,0,0,6.67,Tier-1,Urban,Civil Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.18,0
+S047,INT054,0,0,0.7,0.5,1,2,0,0,6.67,Tier-1,Urban,Civil Engineering,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S047,INT057,0,0,0.2,0.0,0,2,0,0,6.67,Tier-1,Urban,Civil Engineering,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S047,INT069,0,0,0.333,0.0,0,6,0,0,6.67,Tier-1,Urban,Civil Engineering,Finance,0.6,4,0.133,On-site,1.0,0,0.26,0
+S047,INT106,0,0,0.4,0.0,0,5,0,0,6.67,Tier-1,Urban,Civil Engineering,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S047,INT109,0,0,0.7,0.5,1,2,0,0,6.67,Tier-1,Urban,Civil Engineering,Analytics,0.4,16,0.533,Hybrid,0.7,0,0.0,0
+S047,INT112,1,0,0.2,0.0,0,2,0,0,6.67,Tier-1,Urban,Civil Engineering,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S047,INT148,0,0,0.24,0.0,0,5,0,0,6.67,Tier-1,Urban,Civil Engineering,Testing,0.4,14,0.467,On-site,0.4,0,0.0,0
+S047,INT150,0,0,0.267,0.0,0,3,0,0,6.67,Tier-1,Urban,Civil Engineering,Security,1.0,22,0.733,Remote,1.0,0,0.0,0
+S047,INT038,1,1,0.533,0.333,2,6,0,0,6.67,Tier-1,Urban,Civil Engineering,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S047,INT109,1,1,0.7,0.5,1,2,0,0,6.67,Tier-1,Urban,Civil Engineering,Analytics,0.4,16,0.533,Hybrid,0.7,0,0.0,0
+S048,INT033,0,0,0.2,0.0,0,2,0,0,7.59,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.4,10,0.333,Hybrid,0.4,1,0.26,0
+S048,INT052,1,0,0.233,0.1,1,6,0,0,7.59,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,1,0.26,0
+S048,INT002,0,0,0.7,0.5,1,2,0,0,7.59,Tier-1,Urban,Electrical Engineering,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S048,INT007,0,0,0.267,0.0,0,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Business Analysis,0.2,24,0.8,On-site,0.7,0,0.0,0
+S048,INT012,1,1,0.35,0.145,1,4,0,0,7.59,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.32,6,0.2,Hybrid,0.4,1,0.26,0
+S048,INT024,1,0,0.133,0.0,0,6,0,0,7.59,Tier-1,Urban,Electrical Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.14,0
+S048,INT026,0,0,0.24,0.0,0,5,0,0,7.59,Tier-1,Urban,Electrical Engineering,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S048,INT062,0,0,0.2,0.0,0,2,0,0,7.59,Tier-1,Urban,Electrical Engineering,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.42,0
+S048,INT072,0,0,0.667,0.667,2,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Data Engineering,0.2,18,0.6,On-site,0.7,0,0.0,0
+S048,INT082,0,0,0.133,0.0,0,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Financial Services,0.48,24,0.8,Hybrid,0.7,0,0.0,0
+S048,INT090,1,1,0.333,0.333,1,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S048,INT101,0,0,0.267,0.0,0,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S048,INT133,1,1,0.28,0.2,1,5,0,0,7.59,Tier-1,Urban,Electrical Engineering,App Development,0.32,18,0.6,On-site,0.7,0,0.0,0
+S048,INT135,0,0,0.55,0.25,1,4,0,0,7.59,Tier-1,Urban,Electrical Engineering,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S048,INT138,0,0,0.267,0.0,0,6,0,0,7.59,Tier-1,Urban,Electrical Engineering,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S048,INT143,0,0,0.44,0.2,1,5,0,0,7.59,Tier-1,Urban,Electrical Engineering,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S048,INT022,0,0,0.233,0.167,1,6,0,0,7.59,Tier-1,Urban,Electrical Engineering,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S049,INT076,0,0,0.45,0.274,1,4,0,1,9.21,Tier-3,Urban,IT,Finance,0.6,30,1.0,On-site,1.0,0,0.44,0
+S049,INT078,0,0,0.2,0.0,0,2,0,0,9.21,Tier-3,Urban,IT,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S049,INT104,0,0,0.2,0.0,0,2,0,0,9.21,Tier-3,Urban,IT,Digital Marketing,0.32,18,0.6,On-site,0.4,0,0.0,0
+S049,INT137,0,0,0.1,0.0,0,4,0,0,9.21,Tier-3,Urban,IT,Data Engineering,0.2,12,0.4,On-site,1.0,0,1.0,0
+S050,INT050,0,0,0.24,0.0,0,5,0,0,5.72,Tier-2,Urban,AI,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,0
+S050,INT056,1,1,0.133,0.0,0,6,0,0,5.72,Tier-2,Urban,AI,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.28,0
+S050,INT103,1,0,0.2,0.0,0,2,0,0,5.72,Tier-2,Urban,AI,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,1.0,0
+S050,INT131,0,0,0.133,0.0,0,3,0,0,5.72,Tier-2,Urban,AI,Finance,0.32,16,0.533,Remote,0.4,0,0.34,0
+S050,INT132,1,0,0.4,0.0,0,2,0,0,5.72,Tier-2,Urban,AI,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S050,INT142,0,0,0.5,0.5,1,2,0,0,5.72,Tier-2,Urban,AI,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S050,INT068,0,0,0.28,0.115,1,5,0,0,5.72,Tier-2,Urban,AI,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,1.0,0
+S051,INT006,1,1,0.467,0.342,1,3,0,1,7.42,Tier-2,Urban,Data Science,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S051,INT010,1,0,0.3,0.095,1,6,0,0,7.42,Tier-2,Urban,Data Science,Web Development,0.2,14,0.467,Remote,0.4,0,0.36,0
+S051,INT022,0,0,0.067,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Product Management,0.32,12,0.4,On-site,0.7,0,0.0,0
+S051,INT025,0,0,0.2,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Testing,0.72,18,0.6,Remote,0.7,0,0.0,0
+S051,INT028,1,1,0.133,0.0,0,3,0,0,7.42,Tier-2,Urban,Data Science,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S051,INT034,1,0,0.6,0.333,1,3,0,0,7.42,Tier-2,Urban,Data Science,AI,0.2,4,0.133,Remote,0.4,1,0.0,0
+S051,INT038,1,1,0.2,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S051,INT041,1,1,0.133,0.0,0,3,0,0,7.42,Tier-2,Urban,Data Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S051,INT045,0,0,0.2,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S051,INT048,0,0,0.2,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,Machine Learning,0.32,6,0.2,On-site,0.7,1,0.0,0
+S051,INT058,0,0,0.3,0.167,1,6,0,0,7.42,Tier-2,Urban,Data Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S051,INT063,1,0,0.2,0.0,0,4,0,0,7.42,Tier-2,Urban,Data Science,Web Development,0.48,16,0.533,Remote,0.4,0,0.36,0
+S051,INT064,1,0,0.467,0.333,1,3,0,0,7.42,Tier-2,Urban,Data Science,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S051,INT079,1,1,0.8,0.728,2,3,1,2,7.42,Tier-2,Urban,Data Science,Cloud Computing,0.4,30,1.0,Remote,1.0,0,0.66,0
+S051,INT088,0,0,0.133,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S051,INT098,1,1,0.45,0.25,1,4,0,0,7.42,Tier-2,Urban,Data Science,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.32,0
+S051,INT102,0,0,0.133,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Finance,0.32,10,0.333,Hybrid,0.4,0,0.76,0
+S051,INT108,0,0,0.2,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S051,INT111,0,0,0.2,0.0,0,4,0,0,7.42,Tier-2,Urban,Data Science,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S051,INT113,0,0,0.35,0.25,1,4,0,0,7.42,Tier-2,Urban,Data Science,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S051,INT116,0,0,0.267,0.0,0,6,0,0,7.42,Tier-2,Urban,Data Science,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S051,INT117,0,0,0.4,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S051,INT119,0,0,0.24,0.0,0,5,0,0,7.42,Tier-2,Urban,Data Science,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.32,0
+S051,INT120,0,0,0.133,0.0,0,3,0,0,7.42,Tier-2,Urban,Data Science,Network Security,0.48,22,0.733,Remote,1.0,0,0.0,0
+S051,INT123,0,0,0.16,0.0,0,5,0,0,7.42,Tier-2,Urban,Data Science,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S051,INT134,0,0,0.16,0.0,0,5,0,0,7.42,Tier-2,Urban,Data Science,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S051,INT140,1,1,0.44,0.2,1,5,0,0,7.42,Tier-2,Urban,Data Science,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S051,INT146,0,0,0.1,0.0,0,4,0,0,7.42,Tier-2,Urban,Data Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S052,INT011,0,0,0.367,0.167,1,6,0,0,6.91,Tier-1,Urban,Finance,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S052,INT031,0,0,0.467,0.333,1,3,0,0,6.91,Tier-1,Urban,Finance,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.72,0
+S052,INT035,0,0,0.267,0.0,0,3,0,0,6.91,Tier-1,Urban,Finance,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.36,0
+S052,INT043,0,0,0.2,0.0,0,2,0,0,6.91,Tier-1,Urban,Finance,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S052,INT060,0,0,0.133,0.0,0,3,0,0,6.91,Tier-1,Urban,Finance,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S052,INT068,0,0,0.36,0.115,1,5,0,0,6.91,Tier-1,Urban,Finance,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.42,0
+S052,INT070,0,0,0.133,0.0,0,6,0,0,6.91,Tier-1,Urban,Finance,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S052,INT074,0,0,0.16,0.0,0,5,0,0,6.91,Tier-1,Urban,Finance,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S052,INT075,0,0,0.32,0.0,0,5,0,0,6.91,Tier-1,Urban,Finance,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.12,0
+S052,INT080,1,1,0.2,0.0,0,2,0,0,6.91,Tier-1,Urban,Finance,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S052,INT081,0,0,0.52,0.2,1,5,0,0,6.91,Tier-1,Urban,Finance,Finance,0.72,14,0.467,Remote,0.4,0,1.0,0
+S052,INT094,0,0,0.333,0.333,1,3,0,0,6.91,Tier-1,Urban,Finance,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S052,INT125,1,0,0.32,0.0,0,5,0,0,6.91,Tier-1,Urban,Finance,Financial Services,0.4,22,0.733,Remote,1.0,0,0.0,0
+S052,INT136,1,1,0.45,0.25,1,4,0,0,6.91,Tier-1,Urban,Finance,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S052,INT139,0,0,0.24,0.0,0,5,0,0,6.91,Tier-1,Urban,Finance,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S052,INT050,1,1,0.56,0.368,2,5,0,0,6.91,Tier-1,Urban,Finance,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,0
+S053,INT062,0,0,0.0,0.0,0,2,0,0,8.46,Tier-1,Urban,AI,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,1.0,0
+S053,INT009,0,0,0.36,0.2,1,5,0,0,8.46,Tier-1,Urban,AI,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.24,0
+S053,INT017,1,0,0.467,0.333,1,3,0,0,8.46,Tier-1,Urban,AI,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S053,INT138,0,0,0.3,0.167,1,6,0,0,8.46,Tier-1,Urban,AI,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S053,INT112,0,0,0.5,0.5,1,2,0,0,8.46,Tier-1,Urban,AI,Marketing,0.32,6,0.2,Hybrid,1.0,0,0.0,0
+S054,INT063,1,0,0.25,0.121,1,4,0,0,6.5,Tier-1,Rural,Electrical Engineering,Web Development,0.48,16,0.533,Remote,0.4,1,0.16,0
+S054,INT076,1,0,0.45,0.289,1,4,0,1,6.5,Tier-1,Rural,Electrical Engineering,Finance,0.6,30,1.0,On-site,1.0,0,0.18,1
+S054,INT078,1,0,0.7,0.5,1,2,0,0,6.5,Tier-1,Rural,Electrical Engineering,Software Development,0.2,28,0.933,Remote,0.4,1,0.0,0
+S054,INT104,0,0,0.2,0.0,0,2,0,0,6.5,Tier-1,Rural,Electrical Engineering,Digital Marketing,0.32,18,0.6,On-site,0.4,0,0.0,1
+S054,INT137,0,0,0.3,0.0,0,4,0,0,6.5,Tier-1,Rural,Electrical Engineering,Data Engineering,0.2,12,0.4,On-site,1.0,0,0.0,1
+S056,INT002,0,0,0.4,0.0,0,2,0,0,8.45,Tier-2,Urban,Biotechnology,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S056,INT007,0,0,0.4,0.0,0,3,0,0,8.45,Tier-2,Urban,Biotechnology,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S056,INT012,1,1,0.2,0.0,0,4,0,0,8.45,Tier-2,Urban,Biotechnology,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.2,0
+S056,INT024,0,0,0.367,0.167,1,6,0,0,8.45,Tier-2,Urban,Biotechnology,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.08,0
+S056,INT026,0,0,0.44,0.2,1,5,0,0,8.45,Tier-2,Urban,Biotechnology,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S056,INT062,0,0,0.2,0.0,0,2,0,0,8.45,Tier-2,Urban,Biotechnology,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.5,0
+S056,INT072,0,0,0.267,0.0,0,3,0,0,8.45,Tier-2,Urban,Biotechnology,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,0
+S056,INT082,0,0,0.133,0.0,0,3,0,0,8.45,Tier-2,Urban,Biotechnology,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S056,INT090,1,1,0.267,0.0,0,3,0,0,8.45,Tier-2,Urban,Biotechnology,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S056,INT101,0,0,0.467,0.333,1,3,0,0,8.45,Tier-2,Urban,Biotechnology,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S056,INT133,1,1,0.52,0.2,1,5,0,0,8.45,Tier-2,Urban,Biotechnology,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S056,INT135,0,0,0.35,0.25,1,4,0,0,8.45,Tier-2,Urban,Biotechnology,Quality Assurance,0.8,30,1.0,On-site,1.0,0,0.0,0
+S056,INT138,0,0,0.333,0.0,0,6,0,0,8.45,Tier-2,Urban,Biotechnology,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S056,INT143,0,0,0.56,0.4,2,5,0,0,8.45,Tier-2,Urban,Biotechnology,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S056,INT081,0,0,0.36,0.2,1,5,0,0,8.45,Tier-2,Urban,Biotechnology,Finance,0.72,14,0.467,Remote,0.4,0,0.14,0
+S057,INT008,0,0,0.28,0.2,1,5,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S057,INT046,0,0,0.267,0.0,0,3,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S057,INT059,0,0,0.333,0.333,1,3,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Data Engineering,0.72,14,0.467,On-site,1.0,0,0.0,0
+S057,INT083,1,0,0.133,0.0,0,3,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S057,INT130,0,0,0.35,0.25,1,4,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S058,INT010,0,0,0.333,0.0,0,6,0,0,8.84,Tier-3,Urban,Architecture,Web Development,0.2,14,0.467,Remote,0.4,0,0.22,0
+S058,INT085,0,0,0.0,0.0,0,4,0,0,8.84,Tier-3,Urban,Architecture,Web Development,0.8,8,0.267,On-site,0.4,0,0.22,0
+S058,INT011,0,0,0.367,0.167,1,6,0,0,8.84,Tier-3,Urban,Architecture,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S058,INT031,1,0,0.4,0.0,0,3,0,0,8.84,Tier-3,Urban,Architecture,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.18,0
+S058,INT035,0,0,0.467,0.333,1,3,0,0,8.84,Tier-3,Urban,Architecture,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,0
+S058,INT043,0,0,0.7,0.5,1,2,0,0,8.84,Tier-3,Urban,Architecture,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S058,INT060,1,0,0.467,0.333,1,3,0,0,8.84,Tier-3,Urban,Architecture,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S058,INT068,1,0,0.24,0.0,0,5,0,0,8.84,Tier-3,Urban,Architecture,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.22,0
+S058,INT070,0,0,0.133,0.0,0,6,0,0,8.84,Tier-3,Urban,Architecture,Software Engineering,0.4,14,0.467,On-site,1.0,0,0.0,0
+S058,INT074,1,0,0.44,0.2,1,5,0,0,8.84,Tier-3,Urban,Architecture,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S058,INT075,0,0,0.16,0.0,0,5,0,0,8.84,Tier-3,Urban,Architecture,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.16,0
+S058,INT080,1,0,0.2,0.0,0,2,0,0,8.84,Tier-3,Urban,Architecture,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S058,INT081,0,0,0.16,0.0,0,5,0,0,8.84,Tier-3,Urban,Architecture,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S058,INT094,0,0,0.467,0.333,1,3,0,0,8.84,Tier-3,Urban,Architecture,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S058,INT125,0,0,0.32,0.0,0,5,0,0,8.84,Tier-3,Urban,Architecture,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S058,INT136,0,0,0.4,0.0,0,4,0,0,8.84,Tier-3,Urban,Architecture,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S058,INT139,0,0,0.36,0.2,1,5,0,0,8.84,Tier-3,Urban,Architecture,Design,0.72,12,0.4,Hybrid,0.4,0,1.0,0
+S058,INT017,1,0,0.467,0.333,1,3,0,0,8.84,Tier-3,Urban,Architecture,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S058,INT113,0,0,0.45,0.25,1,4,0,0,8.84,Tier-3,Urban,Architecture,Design,0.6,8,0.267,Hybrid,0.4,0,1.0,0
+S059,INT001,0,0,0.133,0.0,0,3,0,0,9.12,Tier-1,Urban,Data Science,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S059,INT085,0,0,0.35,0.257,1,4,0,0,9.12,Tier-1,Urban,Data Science,Web Development,0.8,8,0.267,On-site,0.4,0,0.36,0
+S059,INT091,0,0,0.2,0.0,0,4,0,0,9.12,Tier-1,Urban,Data Science,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S059,INT121,0,0,0.2,0.0,0,2,0,0,9.12,Tier-1,Urban,Data Science,Data Engineering,0.72,18,0.6,On-site,1.0,0,0.96,0
+S059,INT024,0,0,0.4,0.333,2,6,0,0,9.12,Tier-1,Urban,Data Science,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.22,0
+S059,INT102,0,0,0.3,0.099,1,6,0,0,9.12,Tier-1,Urban,Data Science,Finance,0.32,10,0.333,Hybrid,0.7,0,0.76,0
+S060,INT006,0,0,0.267,0.0,0,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S060,INT010,0,0,0.267,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,1.0,0,0.24,0
+S060,INT022,0,0,0.133,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S060,INT025,0,0,0.133,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S060,INT028,0,0,0.133,0.0,0,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S060,INT034,1,1,0.267,0.0,0,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,AI,0.2,4,0.133,Remote,1.0,0,0.0,0
+S060,INT038,0,0,0.3,0.167,1,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S060,INT041,1,1,0.267,0.0,0,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S060,INT045,0,0,0.2,0.0,0,2,0,0,8.36,Tier-1,Urban,Electronics & Communication,DevOps,0.2,6,0.2,Remote,1.0,0,0.0,0
+S060,INT048,1,0,0.2,0.0,0,2,0,0,8.36,Tier-1,Urban,Electronics & Communication,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S060,INT058,0,0,0.367,0.167,1,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S060,INT063,1,1,0.6,0.758,2,4,0,1,8.36,Tier-1,Urban,Electronics & Communication,Web Development,0.48,16,0.533,Remote,0.4,0,0.24,0
+S060,INT064,1,1,0.6,0.333,1,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,Security,0.32,28,0.933,Hybrid,1.0,0,0.0,0
+S060,INT079,0,0,0.467,0.404,1,3,0,1,8.36,Tier-1,Urban,Electronics & Communication,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.38,0
+S060,INT088,0,0,0.2,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,0
+S060,INT098,0,0,0.45,0.25,1,4,0,0,8.36,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S060,INT102,1,0,0.2,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Finance,0.32,10,0.333,Hybrid,0.4,0,0.18,0
+S060,INT108,1,0,0.2,0.0,0,2,0,0,8.36,Tier-1,Urban,Electronics & Communication,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S060,INT111,0,0,0.2,0.0,0,4,0,0,8.36,Tier-1,Urban,Electronics & Communication,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S060,INT113,0,0,0.2,0.0,0,4,0,0,8.36,Tier-1,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S060,INT116,0,0,0.267,0.0,0,6,0,0,8.36,Tier-1,Urban,Electronics & Communication,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S060,INT117,0,0,0.4,0.0,0,2,0,0,8.36,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S060,INT119,0,0,0.44,0.2,1,5,0,0,8.36,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.24,0
+S060,INT120,1,0,0.267,0.0,0,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S060,INT123,0,0,0.24,0.0,0,5,0,0,8.36,Tier-1,Urban,Electronics & Communication,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S060,INT134,0,0,0.16,0.0,0,5,0,0,8.36,Tier-1,Urban,Electronics & Communication,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S060,INT140,0,0,0.36,0.2,1,5,0,0,8.36,Tier-1,Urban,Electronics & Communication,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S060,INT146,0,0,0.2,0.0,0,4,0,0,8.36,Tier-1,Urban,Electronics & Communication,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S061,INT006,1,0,0.467,0.342,1,3,0,1,5.58,Tier-3,Urban,Electronics & Communication,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S061,INT010,0,0,0.367,0.095,1,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,0.4,0,0.24,0
+S061,INT022,0,0,0.2,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S061,INT025,1,0,0.133,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S061,INT028,1,1,0.333,0.333,1,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,CI/CD,0.6,28,0.933,Remote,0.7,0,0.0,0
+S061,INT034,0,0,0.467,0.333,1,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S061,INT038,0,0,0.2,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Security,0.48,8,0.267,Hybrid,1.0,0,0.0,0
+S061,INT041,0,0,0.267,0.0,0,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S061,INT045,1,0,0.2,0.0,0,2,0,0,5.58,Tier-3,Urban,Electronics & Communication,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S061,INT048,0,0,0.2,0.0,0,2,0,0,5.58,Tier-3,Urban,Electronics & Communication,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S061,INT058,1,0,0.2,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S061,INT063,1,0,0.2,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,Web Development,0.48,16,0.533,Remote,0.4,0,0.24,0
+S061,INT064,1,1,0.8,0.667,2,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S061,INT079,0,0,0.267,0.0,0,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.38,0
+S061,INT088,0,0,0.2,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S061,INT098,0,0,0.2,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.7,0,0.24,0
+S061,INT102,0,0,0.133,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Finance,0.32,10,0.333,Hybrid,1.0,0,0.18,0
+S061,INT108,0,0,0.2,0.0,0,2,0,0,5.58,Tier-3,Urban,Electronics & Communication,Cloud Services,0.6,10,0.333,Hybrid,1.0,0,0.0,0
+S061,INT111,1,1,0.1,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S061,INT113,0,0,0.2,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S061,INT116,0,0,0.133,0.0,0,6,0,0,5.58,Tier-3,Urban,Electronics & Communication,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S061,INT117,0,0,0.4,0.0,0,2,0,0,5.58,Tier-3,Urban,Electronics & Communication,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S061,INT119,1,0,0.36,0.2,1,5,0,0,5.58,Tier-3,Urban,Electronics & Communication,UI/UX Design,0.48,6,0.2,On-site,0.7,0,0.24,0
+S061,INT120,1,0,0.267,0.0,0,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S061,INT123,0,0,0.16,0.0,0,5,0,0,5.58,Tier-3,Urban,Electronics & Communication,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S061,INT134,0,0,0.16,0.0,0,5,0,0,5.58,Tier-3,Urban,Electronics & Communication,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S061,INT140,0,0,0.16,0.0,0,5,0,0,5.58,Tier-3,Urban,Electronics & Communication,Analytics,0.48,20,0.667,Remote,0.7,0,0.0,0
+S061,INT146,0,0,0.2,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,Analytics,0.4,18,0.6,Hybrid,0.7,0,0.0,0
+S064,INT079,1,0,0.333,0.325,1,3,0,1,5.74,Tier-1,Rural,AI,Cloud Computing,0.4,30,1.0,Remote,0.4,1,0.64,0
+S064,INT011,0,0,0.267,0.0,0,6,0,0,5.74,Tier-1,Rural,AI,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S064,INT031,0,0,0.467,0.333,1,3,0,0,5.74,Tier-1,Rural,AI,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.95,0
+S064,INT035,0,0,0.267,0.0,0,3,0,0,5.74,Tier-1,Rural,AI,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.38,1
+S064,INT043,0,0,0.2,0.0,0,2,0,0,5.74,Tier-1,Rural,AI,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S064,INT060,0,0,0.133,0.0,0,3,0,0,5.74,Tier-1,Rural,AI,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S064,INT068,0,0,0.16,0.0,0,5,0,0,5.74,Tier-1,Rural,AI,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,1.0,0
+S064,INT070,0,0,0.3,0.167,1,6,0,0,5.74,Tier-1,Rural,AI,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S064,INT074,0,0,0.44,0.2,1,5,0,0,5.74,Tier-1,Rural,AI,Testing,0.2,10,0.333,On-site,0.4,0,0.0,1
+S064,INT075,0,0,0.48,0.4,2,5,0,0,5.74,Tier-1,Rural,AI,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.24,0
+S064,INT080,1,1,0.7,0.5,1,2,0,0,5.74,Tier-1,Rural,AI,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S064,INT081,0,0,0.16,0.0,0,5,0,0,5.74,Tier-1,Rural,AI,Finance,0.72,14,0.467,Remote,0.4,0,0.34,0
+S064,INT094,0,0,0.4,0.0,0,3,0,0,5.74,Tier-1,Rural,AI,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S064,INT125,0,0,0.28,0.2,1,5,0,0,5.74,Tier-1,Rural,AI,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S064,INT136,1,0,0.4,0.0,0,4,0,0,5.74,Tier-1,Rural,AI,Testing,0.4,24,0.8,On-site,0.4,0,0.0,1
+S064,INT139,1,0,0.36,0.2,1,5,0,0,5.74,Tier-1,Rural,AI,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S064,INT075,0,0,0.48,0.4,2,5,0,0,5.74,Tier-1,Rural,AI,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.24,0
+S066,INT062,0,0,0.0,0.0,0,2,0,0,9.33,Tier-2,Rural,Finance,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,1,0.42,0
+S066,INT006,0,0,0.467,0.342,1,3,0,1,9.33,Tier-2,Rural,Finance,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S066,INT010,0,0,0.567,0.284,3,6,0,0,9.33,Tier-2,Rural,Finance,Web Development,0.2,14,0.467,Remote,1.0,0,0.14,0
+S066,INT022,0,0,0.2,0.0,0,6,0,0,9.33,Tier-2,Rural,Finance,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S066,INT025,0,0,0.2,0.0,0,6,0,0,9.33,Tier-2,Rural,Finance,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S066,INT028,0,0,0.4,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S066,INT034,1,0,0.267,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,AI,0.2,4,0.133,Remote,1.0,1,0.0,0
+S066,INT038,0,0,0.267,0.0,0,6,0,0,9.33,Tier-2,Rural,Finance,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S066,INT041,0,0,0.133,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S066,INT045,1,0,0.4,0.0,0,2,0,0,9.33,Tier-2,Rural,Finance,DevOps,0.2,6,0.2,Remote,1.0,0,0.0,0
+S066,INT048,0,0,0.4,0.0,0,2,0,0,9.33,Tier-2,Rural,Finance,Machine Learning,0.32,6,0.2,On-site,0.4,1,0.0,1
+S066,INT058,0,0,0.367,0.167,1,6,0,0,9.33,Tier-2,Rural,Finance,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S066,INT063,0,0,0.1,0.0,0,4,0,0,9.33,Tier-2,Rural,Finance,Web Development,0.48,16,0.533,Remote,0.4,0,0.14,0
+S066,INT064,1,1,0.267,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,Security,0.32,28,0.933,Hybrid,1.0,0,0.0,0
+S066,INT079,0,0,0.267,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.18,0
+S066,INT088,0,0,0.2,0.0,0,6,0,0,9.33,Tier-2,Rural,Finance,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,1
+S066,INT098,0,0,0.2,0.0,0,4,0,0,9.33,Tier-2,Rural,Finance,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.2,1
+S066,INT102,1,1,0.567,0.296,3,6,0,0,9.33,Tier-2,Rural,Finance,Finance,0.32,10,0.333,Hybrid,0.4,0,1.0,0
+S066,INT108,0,0,0.4,0.0,0,2,0,0,9.33,Tier-2,Rural,Finance,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S066,INT111,1,1,0.2,0.0,0,4,0,0,9.33,Tier-2,Rural,Finance,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S066,INT113,0,0,0.35,0.25,1,4,0,0,9.33,Tier-2,Rural,Finance,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S066,INT116,1,1,0.3,0.167,1,6,0,0,9.33,Tier-2,Rural,Finance,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S066,INT117,1,0,0.7,0.5,1,2,0,0,9.33,Tier-2,Rural,Finance,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S066,INT119,0,0,0.16,0.0,0,5,0,0,9.33,Tier-2,Rural,Finance,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.2,1
+S066,INT120,0,0,0.267,0.0,0,3,0,0,9.33,Tier-2,Rural,Finance,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S066,INT123,1,1,0.24,0.0,0,5,0,0,9.33,Tier-2,Rural,Finance,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S066,INT134,1,1,0.44,0.2,1,5,0,0,9.33,Tier-2,Rural,Finance,Security,0.6,6,0.2,On-site,0.4,0,0.0,1
+S066,INT140,0,0,0.16,0.0,0,5,0,0,9.33,Tier-2,Rural,Finance,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S066,INT146,1,1,0.45,0.25,1,4,0,0,9.33,Tier-2,Rural,Finance,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S066,INT076,1,0,0.25,0.219,1,4,0,1,9.33,Tier-2,Rural,Finance,Finance,0.6,30,1.0,On-site,1.0,0,1.0,1
+S066,INT021,0,0,0.3,0.167,1,6,0,0,9.33,Tier-2,Rural,Finance,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S066,INT113,0,0,0.35,0.25,1,4,0,0,9.33,Tier-2,Rural,Finance,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S066,INT139,1,0,0.28,0.2,1,5,0,0,9.33,Tier-2,Rural,Finance,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S066,INT052,0,0,0.367,0.5,1,6,0,1,9.33,Tier-2,Rural,Finance,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.18,0
+S067,INT006,0,0,0.267,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S067,INT010,1,1,0.267,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Web Development,0.2,14,0.467,Remote,0.4,0,0.24,0
+S067,INT022,0,0,0.4,0.333,2,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Product Management,0.32,12,0.4,On-site,1.0,0,0.0,0
+S067,INT025,0,0,0.3,0.167,1,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Testing,0.72,18,0.6,Remote,0.7,0,0.0,0
+S067,INT028,0,0,0.133,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S067,INT034,0,0,0.267,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,AI,0.2,4,0.133,Remote,0.4,1,0.0,0
+S067,INT038,0,0,0.2,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S067,INT041,0,0,0.267,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S067,INT045,1,0,0.2,0.0,0,2,0,0,7.65,Tier-3,Urban,Electronics & Communication,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S067,INT048,1,1,0.2,0.0,0,2,0,0,7.65,Tier-3,Urban,Electronics & Communication,Machine Learning,0.32,6,0.2,On-site,0.7,1,0.0,0
+S067,INT058,0,0,0.2,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S067,INT063,0,0,0.2,0.0,0,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,Web Development,0.48,16,0.533,Remote,0.4,0,0.24,0
+S067,INT064,0,0,0.4,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S067,INT079,0,0,0.267,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,Cloud Computing,0.4,30,1.0,Remote,0.7,0,0.38,0
+S067,INT088,1,1,0.2,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S067,INT098,0,0,0.3,0.0,0,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S067,INT102,0,0,0.133,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Finance,0.32,10,0.333,Hybrid,0.4,0,0.18,0
+S067,INT108,0,0,0.5,0.5,1,2,0,0,7.65,Tier-3,Urban,Electronics & Communication,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S067,INT111,1,0,0.1,0.0,0,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S067,INT113,1,1,0.35,0.25,1,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S067,INT116,0,0,0.133,0.0,0,6,0,0,7.65,Tier-3,Urban,Electronics & Communication,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S067,INT117,1,0,0.4,0.0,0,2,0,0,7.65,Tier-3,Urban,Electronics & Communication,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S067,INT119,0,0,0.24,0.0,0,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.24,0
+S067,INT120,0,0,0.267,0.0,0,3,0,0,7.65,Tier-3,Urban,Electronics & Communication,Network Security,0.48,22,0.733,Remote,0.7,0,0.0,0
+S067,INT123,0,0,0.28,0.2,1,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S067,INT134,0,0,0.36,0.2,1,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,Security,0.6,6,0.2,On-site,0.4,0,0.0,0
+S067,INT140,0,0,0.16,0.0,0,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S067,INT146,0,0,0.2,0.0,0,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S067,INT027,0,0,0.25,0.25,1,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,Machine Learning,0.4,16,0.533,Remote,0.4,1,0.0,0
+S068,INT011,1,1,0.2,0.0,0,6,0,0,6.56,Tier-2,Rural,Electrical Engineering,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S068,INT031,1,1,0.8,0.667,2,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.34,0
+S068,INT035,0,0,0.267,0.0,0,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,1
+S068,INT043,1,0,0.2,0.0,0,2,0,0,6.56,Tier-2,Rural,Electrical Engineering,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S068,INT060,1,0,0.133,0.0,0,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Software Development,0.48,12,0.4,Remote,1.0,0,0.0,0
+S068,INT068,0,0,0.16,0.0,0,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.42,0
+S068,INT070,1,1,0.3,0.167,1,6,0,0,6.56,Tier-2,Rural,Electrical Engineering,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S068,INT074,0,0,0.32,0.0,0,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Testing,0.2,10,0.333,On-site,1.0,0,0.0,1
+S068,INT075,0,0,0.24,0.0,0,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.14,0
+S068,INT080,0,0,0.2,0.0,0,2,0,0,6.56,Tier-2,Rural,Electrical Engineering,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S068,INT081,1,0,0.44,0.2,1,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Finance,0.72,14,0.467,Remote,1.0,0,0.18,0
+S068,INT094,1,1,0.267,0.0,0,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S068,INT125,0,0,0.24,0.0,0,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S068,INT136,0,0,0.2,0.0,0,4,0,0,6.56,Tier-2,Rural,Electrical Engineering,Testing,0.4,24,0.8,On-site,0.4,0,0.0,1
+S068,INT139,0,0,0.36,0.2,1,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S068,INT050,0,0,0.2,0.184,1,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,1
+S068,INT081,0,0,0.44,0.2,1,5,0,0,6.56,Tier-2,Rural,Electrical Engineering,Finance,0.72,14,0.467,Remote,1.0,0,0.18,0
+S069,INT001,1,1,0.133,0.0,0,3,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S069,INT085,1,0,0.35,0.257,1,4,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Web Development,0.8,8,0.267,On-site,0.4,0,0.12,1
+S069,INT091,0,0,0.35,0.25,1,4,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S069,INT121,1,0,0.7,0.5,1,2,0,1,9.78,Tier-3,Rural,Mechanical Engineering,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,1
+S069,INT121,1,1,0.7,0.5,1,2,0,1,9.78,Tier-3,Rural,Mechanical Engineering,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,1
+S069,INT130,0,0,0.25,0.25,1,4,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S070,INT024,1,1,0.2,0.0,0,6,0,0,7.78,Tier-2,Rural,IT,Mobile Development,0.2,16,0.533,Remote,0.4,0,1.0,0
+S070,INT002,1,1,0.5,0.5,1,2,0,0,7.78,Tier-2,Rural,IT,Software Development,0.6,30,1.0,Remote,0.4,0,0.0,0
+S070,INT007,1,1,0.133,0.0,0,3,0,0,7.78,Tier-2,Rural,IT,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,1
+S070,INT012,0,0,0.25,0.145,1,4,0,0,7.78,Tier-2,Rural,IT,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,1.0,0
+S001,INT108,0,0,0.0,0.0,0,2,0,0,8.71,Tier-2,Rural,Biotechnology,Cloud Services,0.6,10,0.333,Hybrid,1.0,0,0.0,0
+S001,INT010,0,0,0.067,0.0,0,6,0,0,8.71,Tier-2,Rural,Biotechnology,Web Development,0.2,14,0.467,Remote,0.4,0,0.1,0
+S001,INT101,0,0,0.133,0.0,0,3,0,0,8.71,Tier-2,Rural,Biotechnology,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,1
+S002,INT060,0,0,0.0,0.0,0,3,0,0,7.81,Tier-1,Urban,Civil Engineering,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S002,INT052,0,0,0.267,0.0,0,6,0,0,7.81,Tier-1,Urban,Civil Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.18,0
+S002,INT062,0,0,0.2,0.0,0,2,0,0,7.81,Tier-1,Urban,Civil Engineering,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.24,0
+S003,INT032,0,0,0.16,0.0,0,5,0,0,6.72,Tier-1,Urban,IT,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S003,INT138,0,0,0.2,0.0,0,6,0,0,6.72,Tier-1,Urban,IT,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S003,INT131,0,0,0.0,0.0,0,3,0,0,6.72,Tier-1,Urban,IT,Finance,0.32,16,0.533,Remote,0.4,0,0.44,0
+S004,INT026,0,0,0.44,0.2,1,5,0,0,6.45,Tier-2,Urban,Biotechnology,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S004,INT029,0,0,0.2,0.0,0,2,0,0,6.45,Tier-2,Urban,Biotechnology,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S004,INT110,0,0,0.1,0.0,0,4,0,0,6.45,Tier-2,Urban,Biotechnology,Cybersecurity,0.6,14,0.467,On-site,0.4,0,0.0,0
+S005,INT018,0,0,0.1,0.0,0,4,0,0,7.67,Tier-1,Rural,Chemical Engineering,Finance,0.72,16,0.533,Hybrid,0.4,0,0.2,0
+S005,INT035,0,0,0.0,0.0,0,3,0,0,7.67,Tier-1,Rural,Chemical Engineering,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,1
+S005,INT078,0,0,0.0,0.0,0,2,0,0,7.67,Tier-1,Rural,Chemical Engineering,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S006,INT024,0,0,0.3,0.167,1,6,0,0,6.05,Tier-1,Urban,Electrical Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.14,0
+S006,INT024,0,0,0.3,0.167,1,6,0,0,6.05,Tier-1,Urban,Electrical Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.14,0
+S006,INT059,0,0,0.0,0.0,0,3,0,0,6.05,Tier-1,Urban,Electrical Engineering,Data Engineering,0.72,14,0.467,On-site,0.4,0,0.0,0
+S008,INT105,0,0,0.267,0.0,0,6,0,0,8.75,Tier-1,Urban,Architecture,App Development,0.48,30,1.0,On-site,0.4,0,0.0,0
+S008,INT098,0,0,0.3,0.0,0,4,0,0,8.75,Tier-1,Urban,Architecture,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.74,0
+S008,INT079,0,0,0.267,0.0,0,3,0,0,8.75,Tier-1,Urban,Architecture,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.14,0
+S010,INT064,0,0,0.467,0.333,1,3,0,0,8.78,Tier-1,Urban,AI,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S010,INT028,0,0,0.133,0.0,0,3,0,0,8.78,Tier-1,Urban,AI,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S010,INT116,0,0,0.633,0.5,3,6,0,0,8.78,Tier-1,Urban,AI,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S011,INT003,0,0,0.08,0.0,0,5,0,0,6.14,Tier-3,Urban,Finance,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S011,INT007,0,0,0.133,0.0,0,3,0,0,6.14,Tier-3,Urban,Finance,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S011,INT139,0,0,0.24,0.0,0,5,0,0,6.14,Tier-3,Urban,Finance,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S012,INT081,0,0,0.0,0.0,0,5,0,0,8.29,Tier-2,Urban,AI,Finance,0.72,14,0.467,Remote,0.4,0,0.34,0
+S012,INT017,0,0,0.0,0.0,0,3,0,0,8.29,Tier-2,Urban,AI,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S012,INT133,0,0,0.0,0.0,0,5,0,0,8.29,Tier-2,Urban,AI,App Development,0.32,18,0.6,On-site,0.4,0,0.0,0
+S013,INT100,0,0,0.0,0.0,0,3,0,0,6.39,Tier-3,Urban,Data Science,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.66,0
+S013,INT055,0,0,0.2,0.0,0,2,0,0,6.39,Tier-3,Urban,Data Science,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S013,INT009,0,0,0.08,0.0,0,5,0,0,6.39,Tier-3,Urban,Data Science,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.22,0
+S015,INT112,0,0,0.0,0.0,0,2,0,0,5.25,Tier-2,Urban,Finance,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S015,INT133,0,0,0.36,0.2,1,5,0,0,5.25,Tier-2,Urban,Finance,App Development,0.32,18,0.6,On-site,0.7,0,0.0,0
+S015,INT026,0,0,0.24,0.0,0,5,0,0,5.25,Tier-2,Urban,Finance,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S016,INT062,0,0,0.4,0.0,0,2,0,0,8.29,Tier-3,Urban,Chemical Engineering,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.24,0
+S016,INT148,0,0,0.16,0.0,0,5,0,0,8.29,Tier-3,Urban,Chemical Engineering,Testing,0.4,14,0.467,On-site,0.4,0,0.0,0
+S016,INT139,0,0,0.2,0.2,1,5,0,0,8.29,Tier-3,Urban,Chemical Engineering,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S017,INT078,0,0,0.0,0.0,0,2,0,0,9.4,Tier-1,Urban,Data Science,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S017,INT024,0,0,0.3,0.167,1,6,0,0,9.4,Tier-1,Urban,Data Science,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.22,0
+S017,INT072,0,0,0.133,0.0,0,3,0,0,9.4,Tier-1,Urban,Data Science,Data Engineering,0.2,18,0.6,On-site,1.0,0,0.96,0
+S018,INT026,0,0,0.16,0.0,0,5,0,0,8.71,Tier-1,Urban,IT,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S018,INT115,0,0,0.2,0.2,1,5,0,0,8.71,Tier-1,Urban,IT,Cybersecurity,0.2,4,0.133,Remote,0.4,0,1.0,0
+S018,INT052,0,0,0.2,0.0,0,6,0,0,8.71,Tier-1,Urban,IT,Cloud Computing,0.4,24,0.8,Hybrid,1.0,0,1.0,0
+S019,INT078,0,0,0.0,0.0,0,2,0,0,6.38,Tier-3,Urban,Biotechnology,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S019,INT085,0,0,0.35,0.257,1,4,0,0,6.38,Tier-3,Urban,Biotechnology,Web Development,0.8,8,0.267,On-site,0.4,0,0.1,0
+S019,INT131,0,0,0.0,0.0,0,3,0,0,6.38,Tier-3,Urban,Biotechnology,Finance,0.32,16,0.533,Remote,0.4,0,0.14,0
+S020,INT108,0,0,0.2,0.0,0,2,0,0,9.42,Tier-1,Rural,IT,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S020,INT038,0,0,0.133,0.0,0,6,0,0,9.42,Tier-1,Rural,IT,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S020,INT059,0,0,0.333,0.333,1,3,0,0,9.42,Tier-1,Rural,IT,Data Engineering,0.72,14,0.467,On-site,0.4,0,1.0,1
+S022,INT135,0,0,0.2,0.0,0,4,0,0,8.51,Tier-1,Urban,AI,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S022,INT142,0,0,0.2,0.0,0,2,0,0,8.51,Tier-1,Urban,AI,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S022,INT131,0,0,0.133,0.0,0,3,0,0,8.51,Tier-1,Urban,AI,Finance,0.32,16,0.533,Remote,0.4,0,0.34,0
+S023,INT054,0,0,0.5,0.5,1,2,0,0,7.0,Tier-2,Urban,Electronics & Communication,App Development,0.48,6,0.2,Remote,0.4,1,0.0,0
+S023,INT062,0,0,0.5,0.842,1,2,0,1,7.0,Tier-2,Urban,Electronics & Communication,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.54,0
+S023,INT115,0,0,0.16,0.0,0,5,0,0,7.0,Tier-2,Urban,Electronics & Communication,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.56,0
+S025,INT048,0,0,0.2,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,0
+S025,INT083,0,0,0.0,0.0,0,3,0,0,6.48,Tier-1,Urban,Electronics & Communication,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S025,INT141,0,0,0.0,0.0,0,2,0,0,6.48,Tier-1,Urban,Electronics & Communication,Cybersecurity,0.4,4,0.133,On-site,0.4,0,0.56,0
+S026,INT023,0,0,0.0,0.0,0,2,0,0,8.93,Tier-2,Rural,AI,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S026,INT106,0,0,0.08,0.0,0,5,0,0,8.93,Tier-2,Rural,AI,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,1
+S026,INT057,0,0,0.0,0.0,0,2,0,0,8.93,Tier-2,Rural,AI,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S027,INT009,0,0,0.16,0.0,0,5,0,0,5.23,Tier-1,Urban,AI,Mobile Development,0.4,4,0.133,Hybrid,1.0,0,0.24,0
+S027,INT136,0,0,0.3,0.0,0,4,0,0,5.23,Tier-1,Urban,AI,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S027,INT085,0,0,0.0,0.0,0,4,0,0,5.23,Tier-1,Urban,AI,Web Development,0.8,8,0.267,On-site,0.4,0,0.34,0
+S028,INT021,0,0,0.2,0.0,0,6,0,0,9.02,Tier-2,Rural,Electrical Engineering,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S028,INT089,0,0,0.467,0.131,1,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.26,1
+S028,INT035,0,0,0.267,0.0,0,3,0,0,9.02,Tier-2,Rural,Electrical Engineering,Cybersecurity,0.48,18,0.6,On-site,1.0,0,0.0,1
+S029,INT150,0,0,0.467,0.333,1,3,0,0,8.89,Tier-1,Rural,Biotechnology,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S029,INT089,0,0,0.133,0.0,0,3,0,0,8.89,Tier-1,Rural,Biotechnology,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.2,1
+S029,INT063,0,0,0.3,0.0,0,4,0,0,8.89,Tier-1,Rural,Biotechnology,Web Development,0.48,16,0.533,Remote,0.4,0,0.1,0
+S030,INT031,0,0,0.133,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,1.0,0
+S030,INT144,0,0,0.067,0.0,0,6,0,0,6.65,Tier-3,Urban,Computer Science,Analytics,0.48,14,0.467,Hybrid,0.4,0,0.0,0
+S030,INT131,0,0,0.133,0.0,0,3,0,0,6.65,Tier-3,Urban,Computer Science,Finance,0.32,16,0.533,Remote,0.4,0,0.45,0
+S032,INT078,0,0,0.7,0.5,1,2,0,0,5.68,Tier-3,Urban,IT,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S032,INT022,0,0,0.233,0.167,1,6,0,0,5.68,Tier-3,Urban,IT,Product Management,0.32,12,0.4,On-site,0.7,0,0.0,0
+S032,INT027,0,0,0.0,0.0,0,4,0,0,5.68,Tier-3,Urban,IT,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S034,INT049,0,0,0.133,0.0,0,3,0,0,9.54,Tier-3,Rural,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S034,INT140,0,0,0.36,0.2,1,5,0,0,9.54,Tier-3,Rural,Electronics & Communication,Analytics,0.48,20,0.667,Remote,0.7,0,0.0,0
+S034,INT021,0,0,0.333,0.0,0,6,0,0,9.54,Tier-3,Rural,Electronics & Communication,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S036,INT006,0,0,0.467,0.342,1,3,0,1,9.15,Tier-2,Rural,Electronics & Communication,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S036,INT133,0,0,0.24,0.0,0,5,0,0,9.15,Tier-2,Rural,Electronics & Communication,App Development,0.32,18,0.6,On-site,0.7,0,0.0,1
+S036,INT049,0,0,0.0,0.0,0,3,0,0,9.15,Tier-2,Rural,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S037,INT125,0,0,0.0,0.0,0,5,0,0,8.99,Tier-3,Urban,Civil Engineering,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S037,INT113,0,0,0.1,0.0,0,4,0,0,8.99,Tier-3,Urban,Civil Engineering,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S037,INT001,0,0,0.333,0.333,1,3,0,0,8.99,Tier-3,Urban,Civil Engineering,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S038,INT028,0,0,0.267,0.0,0,3,0,0,6.11,Tier-2,Rural,Computer Science,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S038,INT080,0,0,0.2,0.0,0,2,0,0,6.11,Tier-2,Rural,Computer Science,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S038,INT010,0,0,0.433,0.095,1,6,0,0,6.11,Tier-2,Rural,Computer Science,Web Development,0.2,14,0.467,Remote,0.4,0,1.0,0
+S039,INT091,0,0,0.35,0.25,1,4,0,0,9.75,Tier-3,Rural,IT,Business Analysis,0.4,8,0.267,Remote,1.0,0,0.0,0
+S039,INT104,0,0,0.2,0.0,0,2,0,0,9.75,Tier-3,Rural,IT,Digital Marketing,0.32,18,0.6,On-site,0.4,0,0.0,1
+S039,INT116,0,0,0.133,0.0,0,6,0,0,9.75,Tier-3,Rural,IT,Network Security,0.2,6,0.2,On-site,1.0,0,0.0,1
+S043,INT049,0,0,0.133,0.0,0,3,0,0,5.3,Tier-2,Urban,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S043,INT109,0,0,0.0,0.0,0,2,0,0,5.3,Tier-2,Urban,Electronics & Communication,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S043,INT003,0,0,0.0,0.0,0,5,0,0,5.3,Tier-2,Urban,Electronics & Communication,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S044,INT081,0,0,0.16,0.0,0,5,0,0,5.36,Tier-2,Rural,Architecture,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S044,INT125,0,0,0.16,0.0,0,5,0,0,5.36,Tier-2,Rural,Architecture,Financial Services,0.4,22,0.733,Remote,1.0,0,0.0,0
+S044,INT106,0,0,0.08,0.0,0,5,0,0,5.36,Tier-2,Rural,Architecture,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,1
+S045,INT011,0,0,0.267,0.0,0,6,0,0,8.96,Tier-2,Urban,Computer Science,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S045,INT112,0,0,0.2,0.0,0,2,0,0,8.96,Tier-2,Urban,Computer Science,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S045,INT001,0,0,0.333,0.333,1,3,0,0,8.96,Tier-2,Urban,Computer Science,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S046,INT033,0,0,0.5,0.5,1,2,0,0,9.81,Tier-3,Urban,Computer Science,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,1.0,0
+S046,INT043,0,0,0.2,0.0,0,2,0,0,9.81,Tier-3,Urban,Computer Science,Product Management,0.32,6,0.2,On-site,0.7,0,0.0,0
+S046,INT058,0,0,0.233,0.167,1,6,0,0,9.81,Tier-3,Urban,Computer Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S047,INT083,0,0,0.333,0.333,1,3,0,0,6.67,Tier-1,Urban,Civil Engineering,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S047,INT028,0,0,0.4,0.0,0,3,0,0,6.67,Tier-1,Urban,Civil Engineering,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S047,INT063,0,0,0.3,0.0,0,4,0,0,6.67,Tier-1,Urban,Civil Engineering,Web Development,0.48,16,0.533,Remote,0.4,0,0.14,0
+S048,INT143,0,0,0.44,0.2,1,5,0,0,7.59,Tier-1,Urban,Electrical Engineering,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S048,INT046,0,0,0.0,0.0,0,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S048,INT034,0,0,0.4,0.0,0,3,0,0,7.59,Tier-1,Urban,Electrical Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S049,INT054,0,0,0.0,0.0,0,2,0,0,9.21,Tier-3,Urban,IT,App Development,0.48,6,0.2,Remote,1.0,0,0.0,0
+S049,INT068,0,0,0.08,0.0,0,5,0,0,9.21,Tier-3,Urban,IT,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,1,1.0,0
+S049,INT091,0,0,0.0,0.0,0,4,0,0,9.21,Tier-3,Urban,IT,Business Analysis,0.4,8,0.267,Remote,1.0,0,0.0,0
+S050,INT011,0,0,0.3,0.167,1,6,0,0,5.72,Tier-2,Urban,AI,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S050,INT135,0,0,0.5,0.5,2,4,0,0,5.72,Tier-2,Urban,AI,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S050,INT128,0,0,0.133,0.0,0,3,0,0,5.72,Tier-2,Urban,AI,Cybersecurity,0.48,18,0.6,Remote,0.4,0,0.38,0
+S051,INT069,0,0,0.233,0.167,1,6,0,0,7.42,Tier-2,Urban,Data Science,Finance,0.6,4,0.133,On-site,1.0,0,0.76,0
+S051,INT048,0,0,0.2,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,Machine Learning,0.32,6,0.2,On-site,0.7,1,0.0,0
+S051,INT062,0,0,0.2,0.0,0,2,0,0,7.42,Tier-2,Urban,Data Science,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,1,0.95,0
+S052,INT132,0,0,1.0,1.0,2,2,0,0,6.91,Tier-1,Urban,Finance,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S052,INT150,0,0,0.0,0.0,0,3,0,0,6.91,Tier-1,Urban,Finance,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S052,INT081,0,0,0.52,0.2,1,5,0,0,6.91,Tier-1,Urban,Finance,Finance,0.72,14,0.467,Remote,0.4,0,1.0,0
+S053,INT048,0,0,0.4,0.0,0,2,0,0,8.46,Tier-1,Urban,AI,Machine Learning,0.32,6,0.2,On-site,0.4,0,1.0,0
+S053,INT115,0,0,0.36,0.2,1,5,0,0,8.46,Tier-1,Urban,AI,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.38,0
+S053,INT074,0,0,0.44,0.2,1,5,0,0,8.46,Tier-1,Urban,AI,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S054,INT006,0,0,0.133,0.0,0,3,0,0,6.5,Tier-1,Rural,Electrical Engineering,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,1
+S054,INT018,0,0,0.1,0.0,0,4,0,0,6.5,Tier-1,Rural,Electrical Engineering,Finance,0.72,16,0.533,Hybrid,0.4,0,0.18,0
+S054,INT146,0,0,0.0,0.0,0,4,0,0,6.5,Tier-1,Rural,Electrical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S056,INT058,0,0,0.333,0.0,0,6,0,0,8.45,Tier-2,Urban,Biotechnology,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S056,INT052,0,0,0.333,0.0,0,6,0,0,8.45,Tier-2,Urban,Biotechnology,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.2,0
+S056,INT026,0,0,0.44,0.2,1,5,0,0,8.45,Tier-2,Urban,Biotechnology,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S057,INT046,0,0,0.267,0.0,0,3,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S057,INT146,0,0,0.1,0.0,0,4,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S057,INT116,0,0,0.0,0.0,0,6,0,0,8.89,Tier-2,Urban,Mechanical Engineering,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,0
+S058,INT024,0,0,0.233,0.167,1,6,0,0,8.84,Tier-3,Urban,Architecture,Mobile Development,0.2,16,0.533,Remote,1.0,0,0.16,0
+S058,INT035,0,0,0.467,0.333,1,3,0,0,8.84,Tier-3,Urban,Architecture,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,0
+S058,INT044,0,0,0.24,0.0,0,5,0,0,8.84,Tier-3,Urban,Architecture,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S059,INT108,0,0,0.4,0.0,0,2,0,0,9.12,Tier-1,Urban,Data Science,Cloud Services,0.6,10,0.333,Hybrid,0.7,0,0.0,0
+S059,INT069,0,0,0.433,0.167,1,6,0,0,9.12,Tier-1,Urban,Data Science,Finance,0.6,4,0.133,On-site,1.0,0,0.76,0
+S059,INT094,0,0,0.267,0.0,0,3,0,0,9.12,Tier-1,Urban,Data Science,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S060,INT046,0,0,0.467,0.333,1,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S060,INT143,0,0,0.32,0.0,0,5,0,0,8.36,Tier-1,Urban,Electronics & Communication,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S060,INT001,0,0,0.333,0.333,1,3,0,0,8.36,Tier-1,Urban,Electronics & Communication,Financial Services,0.72,18,0.6,Remote,1.0,0,0.0,0
+S061,INT042,0,0,0.0,0.0,0,4,0,0,5.58,Tier-3,Urban,Electronics & Communication,Cloud Services,0.8,16,0.533,Hybrid,0.4,0,0.0,0
+S061,INT017,0,0,0.133,0.0,0,3,0,0,5.58,Tier-3,Urban,Electronics & Communication,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S061,INT106,0,0,0.4,0.4,2,5,0,0,5.58,Tier-3,Urban,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.7,0,0.0,0
+S064,INT033,0,0,0.4,0.0,0,2,0,0,5.74,Tier-1,Rural,AI,Cloud Computing,0.4,10,0.333,Hybrid,0.4,1,0.64,0
+S064,INT044,0,0,0.24,0.0,0,5,0,0,5.74,Tier-1,Rural,AI,Cloud Services,0.2,6,0.2,Remote,0.4,1,0.0,0
+S064,INT117,0,0,0.0,0.0,0,2,0,0,5.74,Tier-1,Rural,AI,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S066,INT058,0,0,0.367,0.167,1,6,0,0,9.33,Tier-2,Rural,Finance,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S066,INT078,0,0,0.5,0.5,1,2,0,0,9.33,Tier-2,Rural,Finance,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S066,INT139,0,0,0.28,0.2,1,5,0,0,9.33,Tier-2,Rural,Finance,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S067,INT098,0,0,0.3,0.0,0,4,0,0,7.65,Tier-3,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S067,INT114,0,0,0.0,0.0,0,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S067,INT106,0,0,0.16,0.0,0,5,0,0,7.65,Tier-3,Urban,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S068,INT083,0,0,0.0,0.0,0,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,1
+S068,INT089,0,0,0.133,0.0,0,3,0,0,6.56,Tier-2,Rural,Electrical Engineering,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.26,1
+S068,INT105,0,0,0.133,0.0,0,6,0,0,6.56,Tier-2,Rural,Electrical Engineering,App Development,0.48,30,1.0,On-site,0.4,0,0.0,1
+S069,INT058,0,0,0.2,0.0,0,6,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S069,INT038,0,0,0.633,0.5,3,6,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S069,INT075,0,0,0.36,0.2,1,5,0,0,9.78,Tier-3,Rural,Mechanical Engineering,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.1,0
+S070,INT094,0,0,0.267,0.0,0,3,0,0,7.78,Tier-2,Rural,IT,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S070,INT146,0,0,0.1,0.0,0,4,0,0,7.78,Tier-2,Rural,IT,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S070,INT143,0,0,0.16,0.0,0,5,0,0,7.78,Tier-2,Rural,IT,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S072,INT060,0,0,0.133,0.0,0,3,0,0,9.71,Tier-3,Urban,Finance,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S072,INT080,0,0,0.2,0.0,0,2,0,0,9.71,Tier-3,Urban,Finance,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S072,INT136,0,0,0.3,0.0,0,4,0,0,9.71,Tier-3,Urban,Finance,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S073,INT012,0,0,0.2,0.0,0,4,0,0,6.42,Tier-1,Urban,Electronics & Communication,Cloud Computing,0.32,6,0.2,Hybrid,0.4,1,0.38,0
+S073,INT139,0,0,0.36,0.2,1,5,0,0,6.42,Tier-1,Urban,Electronics & Communication,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S073,INT082,0,0,0.667,0.667,2,3,0,0,6.42,Tier-1,Urban,Electronics & Communication,Financial Services,0.48,24,0.8,Hybrid,1.0,0,0.0,0
+S075,INT113,0,0,0.1,0.0,0,4,0,0,6.45,Tier-3,Urban,Finance,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S075,INT132,0,0,0.0,0.0,0,2,0,0,6.45,Tier-3,Urban,Finance,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S075,INT121,0,0,0.5,0.5,1,2,0,1,6.45,Tier-3,Urban,Finance,Data Engineering,0.72,18,0.6,On-site,0.7,0,0.0,0
+S076,INT075,0,0,0.24,0.0,0,5,0,0,6.67,Tier-1,Urban,Finance,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.12,0
+S076,INT142,0,0,0.5,0.5,1,2,0,0,6.67,Tier-1,Urban,Finance,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S076,INT131,0,0,0.133,0.0,0,3,0,0,6.67,Tier-1,Urban,Finance,Finance,0.32,16,0.533,Remote,1.0,0,1.0,0
+S077,INT108,0,0,0.2,0.0,0,2,0,0,5.76,Tier-3,Urban,AI,Cloud Services,0.6,10,0.333,Hybrid,1.0,0,0.0,0
+S077,INT088,0,0,0.433,0.167,1,6,0,0,5.76,Tier-3,Urban,AI,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S077,INT131,0,0,0.333,0.3,1,3,0,0,5.76,Tier-3,Urban,AI,Finance,0.32,16,0.533,Remote,1.0,0,0.34,0
+S078,INT131,0,0,0.333,0.114,1,3,0,0,6.37,Tier-2,Urban,Biotechnology,Finance,0.32,16,0.533,Remote,0.4,1,0.14,0
+S078,INT102,0,0,0.0,0.0,0,6,0,0,6.37,Tier-2,Urban,Biotechnology,Finance,0.32,10,0.333,Hybrid,0.4,1,0.14,0
+S078,INT038,0,0,0.3,0.167,1,6,0,0,6.37,Tier-2,Urban,Biotechnology,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S079,INT103,0,0,0.5,0.5,1,2,0,0,9.28,Tier-1,Rural,Biotechnology,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,1,0.5,0
+S079,INT022,0,0,0.3,0.167,1,6,0,0,9.28,Tier-1,Rural,Biotechnology,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S079,INT103,0,0,0.5,0.5,1,2,0,0,9.28,Tier-1,Rural,Biotechnology,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,1,0.5,0
+S080,INT138,0,0,0.267,0.0,0,6,0,0,8.23,Tier-3,Urban,Finance,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S080,INT033,0,0,0.2,0.0,0,2,0,0,8.23,Tier-3,Urban,Finance,Cloud Computing,0.4,10,0.333,Hybrid,0.4,0,0.18,0
+S080,INT138,0,0,0.267,0.0,0,6,0,0,8.23,Tier-3,Urban,Finance,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S081,INT031,0,0,0.4,0.0,0,3,0,0,5.26,Tier-1,Urban,Electronics & Communication,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.42,0
+S081,INT098,0,0,0.2,0.0,0,4,0,0,5.26,Tier-1,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S081,INT013,0,0,0.08,0.0,0,5,0,0,5.26,Tier-1,Urban,Electronics & Communication,Analytics,0.48,28,0.933,Hybrid,1.0,0,0.0,0
+S082,INT125,0,0,0.28,0.2,1,5,0,0,8.96,Tier-2,Rural,Mechanical Engineering,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S082,INT138,0,0,0.067,0.0,0,6,0,0,8.96,Tier-2,Rural,Mechanical Engineering,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S082,INT052,0,0,0.133,0.0,0,6,0,0,8.96,Tier-2,Rural,Mechanical Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.16,0
+S083,INT142,0,0,0.0,0.0,0,2,0,0,8.83,Tier-1,Rural,AI,DevOps,0.32,30,1.0,On-site,1.0,0,0.0,1
+S083,INT098,0,0,0.1,0.0,0,4,0,0,8.83,Tier-1,Rural,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,1
+S083,INT023,0,0,0.5,0.5,1,2,0,0,8.83,Tier-1,Rural,AI,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S084,INT057,0,0,0.2,0.0,0,2,0,0,8.86,Tier-2,Urban,Data Science,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S084,INT082,0,0,0.0,0.0,0,3,0,0,8.86,Tier-2,Urban,Data Science,Financial Services,0.48,24,0.8,Hybrid,0.7,0,0.0,0
+S084,INT070,0,0,0.0,0.0,0,6,0,0,8.86,Tier-2,Urban,Data Science,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S085,INT120,0,0,0.467,0.333,1,3,0,0,5.97,Tier-1,Urban,Civil Engineering,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S085,INT064,0,0,0.467,0.333,1,3,0,0,5.97,Tier-1,Urban,Civil Engineering,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S085,INT098,0,0,0.45,0.25,1,4,0,0,5.97,Tier-1,Urban,Civil Engineering,UI/UX Design,0.6,12,0.4,On-site,0.7,0,0.28,0
+S086,INT054,0,0,0.0,0.0,0,2,0,0,5.8,Tier-2,Rural,AI,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S086,INT055,0,0,0.2,0.0,0,2,0,0,5.8,Tier-2,Rural,AI,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,1
+S086,INT150,0,0,0.0,0.0,0,3,0,0,5.8,Tier-2,Rural,AI,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S088,INT050,0,0,0.08,0.0,0,5,0,0,6.19,Tier-3,Urban,IT,Software Engineering,0.2,30,1.0,On-site,0.4,0,1.0,0
+S088,INT059,0,0,0.133,0.0,0,3,0,0,6.19,Tier-3,Urban,IT,Data Engineering,0.72,14,0.467,On-site,0.4,0,1.0,0
+S088,INT088,0,0,0.133,0.0,0,6,0,0,6.19,Tier-3,Urban,IT,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S089,INT008,0,0,0.08,0.0,0,5,0,0,6.21,Tier-3,Urban,Biotechnology,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S089,INT044,0,0,0.08,0.0,0,5,0,0,6.21,Tier-3,Urban,Biotechnology,Cloud Services,0.2,6,0.2,Remote,0.7,0,0.0,0
+S089,INT142,0,0,0.2,0.0,0,2,0,0,6.21,Tier-3,Urban,Biotechnology,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S091,INT080,0,0,0.2,0.0,0,2,0,0,8.48,Tier-1,Rural,Architecture,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S091,INT076,0,0,0.0,0.0,0,4,0,0,8.48,Tier-1,Rural,Architecture,Finance,0.6,30,1.0,On-site,1.0,0,0.18,1
+S091,INT103,0,0,0.5,0.5,1,2,0,0,8.48,Tier-1,Rural,Architecture,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,0.22,0
+S092,INT109,0,0,0.0,0.0,0,2,0,0,6.84,Tier-1,Urban,AI,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S092,INT102,0,0,0.133,0.0,0,6,0,0,6.84,Tier-1,Urban,AI,Finance,0.32,10,0.333,Hybrid,0.4,0,0.34,0
+S092,INT052,0,0,0.367,0.1,1,6,0,0,6.84,Tier-1,Urban,AI,Cloud Computing,0.4,24,0.8,Hybrid,1.0,0,0.64,0
+S093,INT125,0,0,0.08,0.0,0,5,0,0,6.64,Tier-1,Urban,Electronics & Communication,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S093,INT106,0,0,0.48,0.4,2,5,0,0,6.64,Tier-1,Urban,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S093,INT063,0,0,0.1,0.0,0,4,0,0,6.64,Tier-1,Urban,Electronics & Communication,Web Development,0.48,16,0.533,Remote,0.4,0,0.24,0
+S094,INT113,0,0,0.2,0.0,0,4,0,0,6.82,Tier-1,Rural,Biotechnology,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S094,INT058,0,0,0.533,0.333,2,6,0,0,6.82,Tier-1,Rural,Biotechnology,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S094,INT098,0,0,0.3,0.0,0,4,0,0,6.82,Tier-1,Rural,Biotechnology,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.12,1
+S095,INT114,0,0,0.0,0.0,0,5,0,0,6.57,Tier-2,Urban,Mechanical Engineering,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S095,INT090,0,0,0.267,0.0,0,3,0,0,6.57,Tier-2,Urban,Mechanical Engineering,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S095,INT132,0,0,0.2,0.0,0,2,0,0,6.57,Tier-2,Urban,Mechanical Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S096,INT108,0,0,0.2,0.0,0,2,0,0,9.26,Tier-2,Urban,AI,Cloud Services,0.6,10,0.333,Hybrid,0.7,0,0.0,0
+S096,INT038,0,0,0.2,0.0,0,6,0,0,9.26,Tier-2,Urban,AI,Security,0.48,8,0.267,Hybrid,0.7,0,0.0,0
+S096,INT027,0,0,0.1,0.0,0,4,0,0,9.26,Tier-2,Urban,AI,Machine Learning,0.4,16,0.533,Remote,0.7,0,1.0,0
+S097,INT082,0,0,0.0,0.0,0,3,0,0,6.18,Tier-3,Urban,AI,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S097,INT098,0,0,0.35,0.25,1,4,0,0,6.18,Tier-3,Urban,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,0
+S097,INT130,0,0,0.0,0.0,0,4,0,0,6.18,Tier-3,Urban,AI,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S098,INT058,0,0,0.2,0.0,0,6,0,0,5.37,Tier-1,Urban,Electrical Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S098,INT130,0,0,0.0,0.0,0,4,0,0,5.37,Tier-1,Urban,Electrical Engineering,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S098,INT132,0,0,0.2,0.0,0,2,0,0,5.37,Tier-1,Urban,Electrical Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S099,INT046,0,0,0.133,0.0,0,3,0,0,9.67,Tier-1,Rural,Data Science,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S099,INT055,0,0,0.0,0.0,0,2,0,0,9.67,Tier-1,Rural,Data Science,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,1
+S099,INT150,0,0,0.267,0.0,0,3,0,0,9.67,Tier-1,Rural,Data Science,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S100,INT028,0,0,0.0,0.0,0,3,0,0,9.51,Tier-1,Urban,Biotechnology,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S100,INT008,0,0,0.0,0.0,0,5,0,0,9.51,Tier-1,Urban,Biotechnology,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S100,INT024,0,0,0.067,0.0,0,6,0,0,9.51,Tier-1,Urban,Biotechnology,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.08,0
+S101,INT123,0,0,0.32,0.0,0,5,0,0,8.21,Tier-2,Rural,Biotechnology,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S101,INT021,0,0,0.2,0.0,0,6,0,0,8.21,Tier-2,Rural,Biotechnology,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S101,INT042,0,0,0.2,0.0,0,4,0,0,8.21,Tier-2,Rural,Biotechnology,Cloud Services,0.8,16,0.533,Hybrid,0.4,0,0.0,0
+S102,INT060,0,0,0.133,0.0,0,3,0,0,6.6,Tier-1,Urban,Electronics & Communication,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S102,INT076,0,0,0.0,0.0,0,4,0,0,6.6,Tier-1,Urban,Electronics & Communication,Finance,0.6,30,1.0,On-site,1.0,0,0.18,0
+S102,INT082,0,0,0.133,0.0,0,3,0,0,6.6,Tier-1,Urban,Electronics & Communication,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S103,INT013,0,0,0.16,0.0,0,5,0,0,6.92,Tier-3,Rural,Computer Science,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S103,INT062,0,0,0.5,0.842,1,2,0,1,6.92,Tier-3,Rural,Computer Science,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,1.0,0
+S103,INT009,0,0,0.24,0.0,0,5,0,0,6.92,Tier-3,Rural,Computer Science,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,1.0,0
+S104,INT082,0,0,0.133,0.0,0,3,0,0,5.24,Tier-3,Urban,AI,Financial Services,0.48,24,0.8,Hybrid,0.4,1,0.0,0
+S104,INT089,0,0,0.133,0.0,0,3,0,0,5.24,Tier-3,Urban,AI,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.64,0
+S104,INT035,0,0,0.0,0.0,0,3,0,0,5.24,Tier-3,Urban,AI,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.38,0
+S105,INT021,0,0,0.2,0.0,0,6,0,0,6.81,Tier-2,Rural,Mechanical Engineering,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S105,INT112,0,0,0.0,0.0,0,2,0,0,6.81,Tier-2,Rural,Mechanical Engineering,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S105,INT035,0,0,0.267,0.0,0,3,0,0,6.81,Tier-2,Rural,Mechanical Engineering,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,1
+S106,INT109,0,0,0.2,0.0,0,2,0,0,8.01,Tier-1,Urban,Finance,Analytics,0.4,16,0.533,Hybrid,0.7,0,0.0,0
+S106,INT004,0,0,0.2,0.0,0,2,0,0,8.01,Tier-1,Urban,Finance,Fintech,0.48,4,0.133,On-site,0.4,0,0.92,0
+S106,INT148,0,0,0.28,0.2,1,5,0,0,8.01,Tier-1,Urban,Finance,Testing,0.4,14,0.467,On-site,0.4,0,0.0,0
+S107,INT045,0,0,0.0,0.0,0,2,0,0,6.5,Tier-2,Urban,Chemical Engineering,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S107,INT009,0,0,0.16,0.0,0,5,0,0,6.5,Tier-2,Urban,Chemical Engineering,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.08,0
+S107,INT146,0,0,0.2,0.0,0,4,0,0,6.5,Tier-2,Urban,Chemical Engineering,Analytics,0.4,18,0.6,Hybrid,0.7,0,0.0,0
+S108,INT046,0,0,0.0,0.0,0,3,0,0,9.84,Tier-1,Rural,Chemical Engineering,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S108,INT089,0,0,0.333,0.131,1,3,0,0,9.84,Tier-1,Rural,Chemical Engineering,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.16,1
+S108,INT003,0,0,0.08,0.0,0,5,0,0,9.84,Tier-1,Rural,Chemical Engineering,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S109,INT009,0,0,0.08,0.0,0,5,0,0,7.09,Tier-3,Urban,Computer Science,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,1.0,0
+S109,INT069,0,0,0.133,0.0,0,6,0,0,7.09,Tier-3,Urban,Computer Science,Finance,0.6,4,0.133,On-site,1.0,0,0.45,0
+S109,INT143,0,0,0.24,0.0,0,5,0,0,7.09,Tier-3,Urban,Computer Science,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S110,INT078,0,0,0.0,0.0,0,2,0,0,7.3,Tier-2,Urban,Electronics & Communication,Software Development,0.2,28,0.933,Remote,0.4,1,0.0,0
+S110,INT056,0,0,0.133,0.0,0,6,0,0,7.3,Tier-2,Urban,Electronics & Communication,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.24,0
+S110,INT144,0,0,0.067,0.0,0,6,0,0,7.3,Tier-2,Urban,Electronics & Communication,Analytics,0.48,14,0.467,Hybrid,1.0,0,0.0,0
+S111,INT024,0,0,0.133,0.0,0,6,0,0,8.45,Tier-1,Rural,AI,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.24,0
+S111,INT089,0,0,0.0,0.0,0,3,0,0,8.45,Tier-1,Rural,AI,Cloud Computing,0.48,6,0.2,On-site,1.0,0,0.64,1
+S111,INT109,0,0,0.2,0.0,0,2,0,0,8.45,Tier-1,Rural,AI,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S112,INT094,0,0,0.333,0.333,1,3,0,0,8.74,Tier-3,Rural,Electrical Engineering,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S112,INT038,0,0,0.0,0.0,0,6,0,0,8.74,Tier-3,Rural,Electrical Engineering,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S112,INT115,0,0,0.2,0.2,1,5,0,0,8.74,Tier-3,Rural,Electrical Engineering,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.0,0
+S114,INT003,0,0,0.28,0.2,1,5,0,0,6.16,Tier-3,Urban,IT,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S114,INT101,0,0,0.467,0.333,1,3,0,0,6.16,Tier-3,Urban,IT,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,0
+S114,INT023,0,0,0.0,0.0,0,2,0,0,6.16,Tier-3,Urban,IT,Security,0.4,12,0.4,Remote,1.0,0,0.0,0
+S115,INT018,0,0,0.1,0.0,0,4,0,0,7.34,Tier-2,Rural,Data Science,Finance,0.72,16,0.533,Hybrid,0.4,0,0.76,0
+S115,INT137,0,0,0.25,0.116,1,4,0,0,7.34,Tier-2,Rural,Data Science,Data Engineering,0.2,12,0.4,On-site,1.0,0,0.96,1
+S115,INT007,0,0,0.267,0.0,0,3,0,0,7.34,Tier-2,Rural,Data Science,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,1
+S116,INT101,0,0,0.133,0.0,0,3,0,0,8.19,Tier-2,Rural,Data Science,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,1
+S116,INT112,0,0,0.0,0.0,0,2,0,0,8.19,Tier-2,Rural,Data Science,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S116,INT123,0,0,0.28,0.2,1,5,0,0,8.19,Tier-2,Rural,Data Science,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S119,INT094,0,0,0.133,0.0,0,3,0,0,8.52,Tier-3,Urban,Mechanical Engineering,Business Analysis,0.6,16,0.533,Remote,0.7,0,0.0,0
+S119,INT001,0,0,0.133,0.0,0,3,0,0,8.52,Tier-3,Urban,Mechanical Engineering,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S119,INT082,0,0,0.0,0.0,0,3,0,0,8.52,Tier-3,Urban,Mechanical Engineering,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S120,INT024,0,0,0.133,0.0,0,6,0,0,8.58,Tier-3,Urban,IT,Mobile Development,0.2,16,0.533,Remote,0.4,0,1.0,0
+S120,INT080,0,0,0.2,0.0,0,2,0,0,8.58,Tier-3,Urban,IT,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S120,INT130,0,0,0.0,0.0,0,4,0,0,8.58,Tier-3,Urban,IT,Database Management,1.0,14,0.467,Remote,0.7,0,0.0,0
+S121,INT023,0,0,0.0,0.0,0,2,0,0,7.89,Tier-1,Urban,Computer Science,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S121,INT029,0,0,0.0,0.0,0,2,0,0,7.89,Tier-1,Urban,Computer Science,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S121,INT031,0,0,0.133,0.0,0,3,0,0,7.89,Tier-1,Urban,Computer Science,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,1,1.0,0
+S122,INT027,0,0,0.0,0.0,0,4,0,0,6.91,Tier-1,Urban,Electronics & Communication,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S122,INT142,0,0,0.2,0.0,0,2,0,0,6.91,Tier-1,Urban,Electronics & Communication,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S122,INT064,0,0,0.8,0.667,2,3,0,0,6.91,Tier-1,Urban,Electronics & Communication,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S123,INT055,0,0,0.2,0.0,0,2,0,0,8.6,Tier-1,Urban,Electronics & Communication,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S123,INT125,0,0,0.2,0.2,1,5,0,0,8.6,Tier-1,Urban,Electronics & Communication,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S123,INT038,0,0,0.433,0.167,1,6,0,0,8.6,Tier-1,Urban,Electronics & Communication,Security,0.48,8,0.267,Hybrid,1.0,0,0.0,0
+S124,INT060,0,0,0.133,0.0,0,3,0,0,8.52,Tier-2,Rural,Electrical Engineering,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S124,INT084,0,0,0.0,0.0,0,4,0,0,8.52,Tier-2,Rural,Electrical Engineering,Mobile Development,0.72,22,0.733,Hybrid,0.4,0,0.14,0
+S124,INT057,0,0,0.0,0.0,0,2,0,0,8.52,Tier-2,Rural,Electrical Engineering,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S126,INT023,0,0,0.0,0.0,0,2,0,0,7.08,Tier-3,Urban,Mechanical Engineering,Security,0.4,12,0.4,Remote,0.7,0,0.0,0
+S126,INT026,0,0,0.24,0.0,0,5,0,0,7.08,Tier-3,Urban,Mechanical Engineering,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S126,INT024,0,0,0.2,0.0,0,6,0,0,7.08,Tier-3,Urban,Mechanical Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.1,0
+S128,INT031,0,0,0.0,0.0,0,3,0,0,8.81,Tier-3,Rural,Computer Science,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,1.0,0
+S128,INT041,0,0,0.0,0.0,0,3,0,0,8.81,Tier-3,Rural,Computer Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S128,INT085,0,0,0.6,0.505,2,4,0,0,8.81,Tier-3,Rural,Computer Science,Web Development,0.8,8,0.267,On-site,0.4,0,1.0,1
+S129,INT045,0,0,0.2,0.0,0,2,0,0,7.56,Tier-3,Urban,Electronics & Communication,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S129,INT115,0,0,0.36,0.2,1,5,0,0,7.56,Tier-3,Urban,Electronics & Communication,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.56,0
+S129,INT070,0,0,0.133,0.0,0,6,0,0,7.56,Tier-3,Urban,Electronics & Communication,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S130,INT082,0,0,0.133,0.0,0,3,0,0,6.65,Tier-3,Urban,AI,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S130,INT011,0,0,0.067,0.0,0,6,0,0,6.65,Tier-3,Urban,AI,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S130,INT064,0,0,0.0,0.0,0,3,0,0,6.65,Tier-3,Urban,AI,Security,0.32,28,0.933,Hybrid,0.4,1,0.0,0
+S133,INT054,0,0,0.0,0.0,0,2,0,0,6.98,Tier-1,Urban,Electronics & Communication,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S133,INT128,0,0,0.333,0.333,1,3,0,0,6.98,Tier-1,Urban,Electronics & Communication,Cybersecurity,0.48,18,0.6,Remote,0.4,0,0.56,0
+S133,INT070,0,0,0.133,0.0,0,6,0,0,6.98,Tier-1,Urban,Electronics & Communication,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S134,INT022,0,0,0.4,0.333,2,6,0,0,7.5,Tier-3,Urban,Architecture,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S134,INT068,0,0,0.24,0.0,0,5,0,0,7.5,Tier-3,Urban,Architecture,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.22,0
+S134,INT081,0,0,0.44,0.2,1,5,0,0,7.5,Tier-3,Urban,Architecture,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S135,INT022,0,0,0.067,0.0,0,6,0,0,6.57,Tier-3,Rural,Data Science,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S135,INT083,0,0,0.133,0.0,0,3,0,0,6.57,Tier-3,Rural,Data Science,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,1
+S135,INT023,0,0,0.2,0.0,0,2,0,0,6.57,Tier-3,Rural,Data Science,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S136,INT136,0,0,0.3,0.0,0,4,0,0,5.7,Tier-3,Urban,Electronics & Communication,Testing,0.4,24,0.8,On-site,0.7,0,0.0,0
+S136,INT111,0,0,0.1,0.0,0,4,0,0,5.7,Tier-3,Urban,Electronics & Communication,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,0
+S136,INT001,0,0,0.133,0.0,0,3,0,0,5.7,Tier-3,Urban,Electronics & Communication,Financial Services,0.72,18,0.6,Remote,0.4,1,0.0,0
+S137,INT004,0,0,0.0,0.0,0,2,0,0,8.3,Tier-3,Rural,Data Science,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,1
+S137,INT052,0,0,0.333,0.2,2,6,0,0,8.3,Tier-3,Rural,Data Science,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.66,0
+S137,INT102,0,0,0.0,0.0,0,6,0,0,8.3,Tier-3,Rural,Data Science,Finance,0.32,10,0.333,Hybrid,0.4,0,0.76,0
+S138,INT049,0,0,0.0,0.0,0,3,0,0,6.8,Tier-3,Urban,Finance,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S138,INT032,0,0,0.28,0.2,1,5,0,0,6.8,Tier-3,Urban,Finance,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S138,INT028,0,0,0.133,0.0,0,3,0,0,6.8,Tier-3,Urban,Finance,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S139,INT010,0,0,0.067,0.0,0,6,0,0,7.04,Tier-1,Rural,Mechanical Engineering,Web Development,0.2,14,0.467,Remote,0.4,0,0.12,0
+S139,INT023,0,0,0.2,0.0,0,2,0,0,7.04,Tier-1,Rural,Mechanical Engineering,Security,0.4,12,0.4,Remote,0.4,0,0.0,0
+S139,INT116,0,0,0.0,0.0,0,6,0,0,7.04,Tier-1,Rural,Mechanical Engineering,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S140,INT110,0,0,0.0,0.0,0,4,0,0,8.43,Tier-2,Rural,Mechanical Engineering,Cybersecurity,0.6,14,0.467,On-site,0.4,0,0.0,1
+S140,INT130,0,0,0.1,0.0,0,4,0,0,8.43,Tier-2,Rural,Mechanical Engineering,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S140,INT062,0,0,0.0,0.0,0,2,0,0,8.43,Tier-2,Rural,Mechanical Engineering,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,0,0.34,0
+S142,INT106,0,0,0.68,0.6,3,5,0,0,9.74,Tier-2,Urban,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S142,INT100,0,0,0.133,0.0,0,3,0,0,9.74,Tier-2,Urban,Electronics & Communication,Cloud Computing,0.2,28,0.933,Hybrid,0.4,1,0.38,0
+S142,INT141,0,0,0.7,0.9,1,2,0,1,9.74,Tier-2,Urban,Electronics & Communication,Cybersecurity,0.4,4,0.133,On-site,0.4,0,0.56,0
+S143,INT148,0,0,0.36,0.2,1,5,0,0,7.82,Tier-1,Urban,Electronics & Communication,Testing,0.4,14,0.467,On-site,0.7,0,0.0,0
+S143,INT029,0,0,0.4,0.0,0,2,0,0,7.82,Tier-1,Urban,Electronics & Communication,Product Management,0.48,20,0.667,Remote,0.7,0,0.0,0
+S143,INT117,0,0,0.0,0.0,0,2,0,0,7.82,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S145,INT009,0,0,0.08,0.0,0,5,0,0,5.22,Tier-1,Urban,Data Science,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.22,0
+S145,INT028,0,0,0.267,0.0,0,3,0,0,5.22,Tier-1,Urban,Data Science,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S145,INT006,0,0,0.6,0.342,1,3,0,1,5.22,Tier-1,Urban,Data Science,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S146,INT115,0,0,0.36,0.2,1,5,0,0,5.43,Tier-1,Rural,Electrical Engineering,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.0,0
+S146,INT112,0,0,0.2,0.0,0,2,0,0,5.43,Tier-1,Rural,Electrical Engineering,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S146,INT012,0,0,0.3,0.0,0,4,0,0,5.43,Tier-1,Rural,Electrical Engineering,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.26,0
+S148,INT146,0,0,0.1,0.0,0,4,0,0,6.94,Tier-2,Urban,Electrical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S148,INT131,0,0,0.133,0.0,0,3,0,0,6.94,Tier-2,Urban,Electrical Engineering,Finance,0.32,16,0.533,Remote,0.4,0,0.18,0
+S148,INT055,0,0,0.0,0.0,0,2,0,0,6.94,Tier-2,Urban,Electrical Engineering,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S149,INT104,0,0,0.0,0.0,0,2,0,0,5.57,Tier-2,Urban,Chemical Engineering,Digital Marketing,0.32,18,0.6,On-site,0.4,0,0.0,0
+S149,INT114,0,0,0.28,0.114,1,5,0,0,5.57,Tier-2,Urban,Chemical Engineering,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S149,INT135,0,0,0.35,0.25,1,4,0,0,5.57,Tier-2,Urban,Chemical Engineering,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S150,INT100,0,0,0.0,0.0,0,3,0,0,5.71,Tier-3,Urban,Data Science,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.66,0
+S150,INT058,0,0,0.2,0.0,0,6,0,0,5.71,Tier-3,Urban,Data Science,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S150,INT128,0,0,0.267,0.0,0,3,0,0,5.71,Tier-3,Urban,Data Science,Cybersecurity,0.48,18,0.6,Remote,0.4,0,0.34,0
+S152,INT048,0,0,0.7,0.5,1,2,0,0,5.16,Tier-3,Rural,Finance,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,1
+S152,INT110,0,0,0.1,0.0,0,4,0,0,5.16,Tier-3,Rural,Finance,Cybersecurity,0.6,14,0.467,On-site,0.4,0,0.36,1
+S152,INT021,0,0,0.3,0.167,1,6,0,0,5.16,Tier-3,Rural,Finance,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S154,INT025,0,0,0.133,0.0,0,6,0,0,8.92,Tier-3,Urban,Data Science,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S154,INT069,0,0,0.0,0.0,0,6,0,0,8.92,Tier-3,Urban,Data Science,Finance,0.6,4,0.133,On-site,1.0,0,0.76,0
+S154,INT072,0,0,0.0,0.0,0,3,0,0,8.92,Tier-3,Urban,Data Science,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.96,0
+S155,INT001,0,0,0.133,0.0,0,3,0,0,5.63,Tier-3,Urban,AI,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S155,INT140,0,0,0.08,0.0,0,5,0,0,5.63,Tier-3,Urban,AI,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S155,INT070,0,0,0.133,0.0,0,6,0,0,5.63,Tier-3,Urban,AI,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S156,INT021,0,0,0.133,0.0,0,6,0,0,9.4,Tier-3,Rural,Computer Science,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S156,INT080,0,0,0.0,0.0,0,2,0,0,9.4,Tier-3,Rural,Computer Science,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S156,INT054,0,0,0.0,0.0,0,2,0,0,9.4,Tier-3,Rural,Computer Science,App Development,0.48,6,0.2,Remote,1.0,0,0.0,0
+S157,INT091,0,0,0.1,0.0,0,4,0,0,6.99,Tier-3,Urban,Computer Science,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S157,INT113,0,0,0.1,0.0,0,4,0,0,6.99,Tier-3,Urban,Computer Science,Design,0.6,8,0.267,Hybrid,1.0,0,0.0,0
+S157,INT132,0,0,0.0,0.0,0,2,0,0,6.99,Tier-3,Urban,Computer Science,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S158,INT017,0,0,0.133,0.0,0,3,0,0,5.79,Tier-1,Urban,IT,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S158,INT108,0,0,0.7,0.5,1,2,0,0,5.79,Tier-1,Urban,IT,Cloud Services,0.6,10,0.333,Hybrid,0.4,0,0.0,0
+S158,INT029,0,0,0.2,0.0,0,2,0,0,5.79,Tier-1,Urban,IT,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S159,INT074,0,0,0.44,0.2,1,5,0,0,8.63,Tier-2,Urban,Electrical Engineering,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S159,INT009,0,0,0.16,0.0,0,5,0,0,8.63,Tier-2,Urban,Electrical Engineering,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.14,0
+S159,INT008,0,0,0.08,0.0,0,5,0,0,8.63,Tier-2,Urban,Electrical Engineering,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S161,INT023,0,0,0.5,0.5,1,2,0,0,7.2,Tier-2,Urban,Chemical Engineering,Security,0.4,12,0.4,Remote,0.4,1,0.0,0
+S161,INT028,0,0,0.267,0.0,0,3,0,0,7.2,Tier-2,Urban,Chemical Engineering,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S161,INT055,0,0,0.7,0.5,1,2,0,0,7.2,Tier-2,Urban,Chemical Engineering,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S162,INT045,0,0,0.7,0.167,1,2,0,0,8.0,Tier-1,Rural,AI,DevOps,0.2,6,0.2,Remote,0.4,0,0.0,0
+S162,INT078,0,0,0.4,0.0,0,2,0,0,8.0,Tier-1,Rural,AI,Software Development,0.2,28,0.933,Remote,1.0,0,0.0,0
+S162,INT009,0,0,0.28,0.2,1,5,0,0,8.0,Tier-1,Rural,AI,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.24,0
+S163,INT084,0,0,0.1,0.0,0,4,0,0,5.36,Tier-1,Urban,Civil Engineering,Mobile Development,0.72,22,0.733,Hybrid,0.4,0,0.12,0
+S163,INT008,0,0,0.08,0.0,0,5,0,0,5.36,Tier-1,Urban,Civil Engineering,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S163,INT032,0,0,0.08,0.0,0,5,0,0,5.36,Tier-1,Urban,Civil Engineering,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S165,INT004,0,0,0.2,0.0,0,2,0,0,8.08,Tier-2,Urban,Biotechnology,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,0
+S165,INT007,0,0,0.267,0.0,0,3,0,0,8.08,Tier-2,Urban,Biotechnology,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S165,INT125,0,0,0.16,0.0,0,5,0,0,8.08,Tier-2,Urban,Biotechnology,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S166,INT038,0,0,0.3,0.167,1,6,0,0,7.17,Tier-2,Urban,AI,Security,0.48,8,0.267,Hybrid,0.7,0,0.0,0
+S166,INT026,0,0,0.08,0.0,0,5,0,0,7.17,Tier-2,Urban,AI,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S166,INT123,0,0,0.24,0.0,0,5,0,0,7.17,Tier-2,Urban,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S167,INT146,0,0,0.35,0.25,1,4,0,0,8.75,Tier-2,Urban,Data Science,Analytics,0.4,18,0.6,Hybrid,1.0,0,0.0,0
+S167,INT010,0,0,0.067,0.0,0,6,0,0,8.75,Tier-2,Urban,Data Science,Web Development,0.2,14,0.467,Remote,0.4,0,0.36,0
+S167,INT082,0,0,0.0,0.0,0,3,0,0,8.75,Tier-2,Urban,Data Science,Financial Services,0.48,24,0.8,Hybrid,0.7,0,0.0,0
+S168,INT100,0,0,0.0,0.0,0,3,0,0,5.83,Tier-1,Urban,Civil Engineering,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.18,0
+S168,INT106,0,0,0.16,0.0,0,5,0,0,5.83,Tier-1,Urban,Civil Engineering,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S168,INT018,0,0,0.2,0.0,0,4,0,0,5.83,Tier-1,Urban,Civil Engineering,Finance,0.72,16,0.533,Hybrid,0.4,0,0.26,0
+S169,INT062,0,0,0.0,0.0,0,2,0,0,5.75,Tier-2,Urban,Electronics & Communication,Artificial Intelligence,0.32,22,0.733,Hybrid,1.0,1,0.54,0
+S169,INT001,0,0,0.0,0.0,0,3,0,0,5.75,Tier-2,Urban,Electronics & Communication,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S169,INT098,0,0,0.0,0.0,0,4,0,0,5.75,Tier-2,Urban,Electronics & Communication,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.24,0
+S170,INT130,0,0,0.0,0.0,0,4,0,0,5.6,Tier-2,Rural,Computer Science,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S170,INT089,0,0,0.467,0.131,1,3,0,0,5.6,Tier-2,Rural,Computer Science,Cloud Computing,0.48,6,0.2,On-site,0.4,0,1.0,1
+S170,INT142,0,0,0.2,0.0,0,2,0,0,5.6,Tier-2,Rural,Computer Science,DevOps,0.32,30,1.0,On-site,0.4,0,1.0,1
+S172,INT121,0,0,0.2,0.0,0,2,0,0,5.52,Tier-3,Urban,Finance,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,0
+S172,INT121,0,0,0.2,0.0,0,2,0,0,5.52,Tier-3,Urban,Finance,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,0
+S172,INT072,0,0,0.267,0.0,0,3,0,0,5.52,Tier-3,Urban,Finance,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,0
+S173,INT100,0,0,0.0,0.0,0,3,0,0,7.17,Tier-2,Urban,Chemical Engineering,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.16,0
+S173,INT082,0,0,0.133,0.0,0,3,0,0,7.17,Tier-2,Urban,Chemical Engineering,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S173,INT035,0,0,0.0,0.0,0,3,0,0,7.17,Tier-2,Urban,Chemical Engineering,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,0
+S174,INT083,0,0,0.0,0.0,0,3,0,0,8.85,Tier-2,Urban,AI,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S174,INT132,0,0,0.2,0.0,0,2,0,0,8.85,Tier-2,Urban,AI,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S174,INT128,0,0,0.333,0.333,1,3,0,0,8.85,Tier-2,Urban,AI,Cybersecurity,0.48,18,0.6,Remote,1.0,0,0.38,0
+S175,INT049,0,0,0.0,0.0,0,3,0,0,9.26,Tier-1,Rural,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,1,0.0,0
+S175,INT084,0,0,0.35,0.25,1,4,0,0,9.26,Tier-1,Rural,Electronics & Communication,Mobile Development,0.72,22,0.733,Hybrid,0.4,0,0.22,0
+S175,INT103,0,0,0.2,0.0,0,2,0,0,9.26,Tier-1,Rural,Electronics & Communication,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,0.54,0
+S176,INT143,0,0,0.44,0.2,1,5,0,0,5.24,Tier-1,Urban,Electronics & Communication,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S176,INT060,0,0,0.0,0.0,0,3,0,0,5.24,Tier-1,Urban,Electronics & Communication,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S176,INT058,0,0,0.367,0.167,1,6,0,0,5.24,Tier-1,Urban,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,0
+S177,INT150,0,0,0.0,0.0,0,3,0,0,9.12,Tier-2,Urban,AI,Security,1.0,22,0.733,Remote,0.4,1,0.0,0
+S177,INT138,0,0,0.067,0.0,0,6,0,0,9.12,Tier-2,Urban,AI,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S177,INT083,0,0,0.133,0.0,0,3,0,0,9.12,Tier-2,Urban,AI,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S179,INT146,0,0,0.55,0.25,1,4,0,0,7.06,Tier-3,Rural,Biotechnology,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S179,INT043,0,0,0.5,0.5,1,2,0,0,7.06,Tier-3,Rural,Biotechnology,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S179,INT052,0,0,0.333,0.0,0,6,0,0,7.06,Tier-3,Rural,Biotechnology,Cloud Computing,0.4,24,0.8,Hybrid,1.0,0,0.2,0
+S180,INT119,0,0,0.16,0.0,0,5,0,0,6.94,Tier-2,Rural,Mechanical Engineering,UI/UX Design,0.48,6,0.2,On-site,0.7,0,0.18,1
+S180,INT034,0,0,0.0,0.0,0,3,0,0,6.94,Tier-2,Rural,Mechanical Engineering,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S180,INT009,0,0,0.08,0.0,0,5,0,0,6.94,Tier-2,Rural,Mechanical Engineering,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.1,0
+S181,INT070,0,0,0.3,0.167,1,6,0,0,8.96,Tier-1,Urban,AI,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,0
+S181,INT141,0,0,0.0,0.0,0,2,0,0,8.96,Tier-1,Urban,AI,Cybersecurity,0.4,4,0.133,On-site,0.4,0,0.38,0
+S181,INT055,0,0,0.2,0.0,0,2,0,0,8.96,Tier-1,Urban,AI,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S182,INT006,0,0,0.0,0.0,0,3,0,0,6.16,Tier-1,Rural,Computer Science,DevOps,0.32,8,0.267,On-site,0.4,1,1.0,1
+S182,INT148,0,0,0.2,0.2,1,5,0,0,6.16,Tier-1,Rural,Computer Science,Testing,0.4,14,0.467,On-site,1.0,0,0.0,1
+S182,INT069,0,0,0.167,0.167,1,6,0,0,6.16,Tier-1,Rural,Computer Science,Finance,0.6,4,0.133,On-site,1.0,0,0.45,1
+S183,INT131,0,0,0.0,0.0,0,3,0,0,5.71,Tier-2,Rural,Chemical Engineering,Finance,0.32,16,0.533,Remote,0.4,0,0.2,0
+S183,INT089,0,0,0.333,0.738,1,3,0,1,5.71,Tier-2,Rural,Chemical Engineering,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.16,1
+S183,INT035,0,0,0.267,0.0,0,3,0,0,5.71,Tier-2,Rural,Chemical Engineering,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.0,1
+S184,INT074,0,0,0.28,0.2,1,5,0,0,7.18,Tier-1,Urban,Data Science,Testing,0.2,10,0.333,On-site,1.0,0,0.0,0
+S184,INT088,0,0,0.233,0.167,1,6,0,0,7.18,Tier-1,Urban,Data Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,0
+S184,INT024,0,0,0.3,0.167,1,6,0,0,7.18,Tier-1,Urban,Data Science,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.22,0
+S186,INT106,0,0,0.28,0.2,1,5,0,0,6.75,Tier-3,Rural,AI,Network Security,0.72,4,0.133,On-site,0.7,0,0.0,1
+S186,INT117,0,0,0.0,0.0,0,2,0,0,6.75,Tier-3,Rural,AI,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S186,INT044,0,0,0.08,0.0,0,5,0,0,6.75,Tier-3,Rural,AI,Cloud Services,0.2,6,0.2,Remote,0.7,0,0.0,0
+S187,INT032,0,0,0.16,0.0,0,5,0,0,9.14,Tier-3,Rural,Mechanical Engineering,Database Management,0.8,4,0.133,Hybrid,0.4,0,0.0,0
+S187,INT100,0,0,0.0,0.0,0,3,0,0,9.14,Tier-3,Rural,Mechanical Engineering,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.16,0
+S187,INT048,0,0,0.2,0.0,0,2,0,0,9.14,Tier-3,Rural,Mechanical Engineering,Machine Learning,0.32,6,0.2,On-site,0.4,0,0.0,1
+S189,INT044,0,0,0.08,0.0,0,5,0,0,6.66,Tier-1,Urban,Data Science,Cloud Services,0.2,6,0.2,Remote,0.7,0,0.0,0
+S189,INT117,0,0,0.7,0.5,1,2,0,0,6.66,Tier-1,Urban,Data Science,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S189,INT064,0,0,0.267,0.0,0,3,0,0,6.66,Tier-1,Urban,Data Science,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S191,INT028,0,0,0.267,0.0,0,3,0,0,5.58,Tier-3,Urban,IT,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S191,INT138,0,0,0.3,0.167,1,6,0,0,5.58,Tier-3,Urban,IT,Analytics,0.6,8,0.267,Remote,0.4,0,0.0,0
+S191,INT140,0,0,0.16,0.0,0,5,0,0,5.58,Tier-3,Urban,IT,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S192,INT017,0,0,0.333,0.333,1,3,0,0,6.34,Tier-3,Urban,AI,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S192,INT064,0,0,0.133,0.0,0,3,0,0,6.34,Tier-3,Urban,AI,Security,0.32,28,0.933,Hybrid,0.4,0,0.0,0
+S192,INT018,0,0,0.0,0.0,0,4,0,0,6.34,Tier-3,Urban,AI,Finance,0.72,16,0.533,Hybrid,0.4,0,0.34,0
+S193,INT094,0,0,0.4,0.0,0,3,0,0,7.09,Tier-2,Rural,Electronics & Communication,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S193,INT106,0,0,0.64,0.4,2,5,0,0,7.09,Tier-2,Rural,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,1
+S193,INT049,0,0,0.267,0.0,0,3,0,0,7.09,Tier-2,Rural,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,1,0.0,0
+S194,INT008,0,0,0.08,0.0,0,5,0,0,9.94,Tier-3,Urban,Computer Science,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S194,INT045,0,0,0.0,0.0,0,2,0,0,9.94,Tier-3,Urban,Computer Science,DevOps,0.2,6,0.2,Remote,0.4,0,1.0,0
+S194,INT059,0,0,0.0,0.0,0,3,0,0,9.94,Tier-3,Urban,Computer Science,Data Engineering,0.72,14,0.467,On-site,0.4,0,1.0,0
+S196,INT115,0,0,0.08,0.0,0,5,0,0,5.19,Tier-2,Urban,Mechanical Engineering,Cybersecurity,0.2,4,0.133,Remote,0.4,0,0.0,0
+S196,INT123,0,0,0.16,0.0,0,5,0,0,5.19,Tier-2,Urban,Mechanical Engineering,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S196,INT050,0,0,0.08,0.0,0,5,0,0,5.19,Tier-2,Urban,Mechanical Engineering,Software Engineering,0.2,30,1.0,On-site,0.4,0,0.0,0
+S197,INT114,0,0,0.0,0.0,0,5,0,0,6.52,Tier-3,Urban,Electronics & Communication,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S197,INT055,0,0,0.0,0.0,0,2,0,0,6.52,Tier-3,Urban,Electronics & Communication,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,0
+S197,INT106,0,0,0.16,0.0,0,5,0,0,6.52,Tier-3,Urban,Electronics & Communication,Network Security,0.72,4,0.133,On-site,0.4,0,0.0,0
+S198,INT017,0,0,0.0,0.0,0,3,0,0,6.87,Tier-1,Rural,Finance,Data Science,0.72,28,0.933,Remote,0.4,0,0.0,0
+S198,INT042,0,0,0.0,0.0,0,4,0,0,6.87,Tier-1,Rural,Finance,Cloud Services,0.8,16,0.533,Hybrid,0.4,0,0.0,0
+S198,INT059,0,0,0.0,0.0,0,3,0,0,6.87,Tier-1,Rural,Finance,Data Engineering,0.72,14,0.467,On-site,0.4,0,0.0,1
+S201,INT068,0,0,0.24,0.0,0,5,0,0,8.9,Tier-1,Urban,Data Science,Artificial Intelligence,0.4,8,0.267,Hybrid,0.4,0,0.95,0
+S201,INT044,0,0,0.24,0.0,0,5,0,0,8.9,Tier-1,Urban,Data Science,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S201,INT023,0,0,0.2,0.0,0,2,0,0,8.9,Tier-1,Urban,Data Science,Security,0.4,12,0.4,Remote,0.4,1,0.0,0
+S202,INT004,0,0,0.0,0.0,0,2,0,0,9.03,Tier-3,Urban,AI,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,0
+S202,INT139,0,0,0.08,0.0,0,5,0,0,9.03,Tier-3,Urban,AI,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S202,INT142,0,0,0.5,0.5,1,2,0,0,9.03,Tier-3,Urban,AI,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S203,INT078,0,0,0.2,0.0,0,2,0,0,7.56,Tier-2,Urban,Chemical Engineering,Software Development,0.2,28,0.933,Remote,0.4,0,0.0,0
+S203,INT003,0,0,0.44,0.2,1,5,0,0,7.56,Tier-2,Urban,Chemical Engineering,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S203,INT022,0,0,0.2,0.0,0,6,0,0,7.56,Tier-2,Urban,Chemical Engineering,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S205,INT023,0,0,0.0,0.0,0,2,0,0,6.11,Tier-2,Rural,Electronics & Communication,Security,0.4,12,0.4,Remote,0.4,1,0.0,0
+S205,INT134,0,0,0.36,0.2,1,5,0,0,6.11,Tier-2,Rural,Electronics & Communication,Security,0.6,6,0.2,On-site,1.0,1,0.0,1
+S205,INT072,0,0,0.0,0.0,0,3,0,0,6.11,Tier-2,Rural,Electronics & Communication,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,1
+S206,INT060,0,0,0.133,0.0,0,3,0,0,8.27,Tier-1,Urban,Architecture,Software Development,0.48,12,0.4,Remote,1.0,0,0.0,0
+S206,INT056,0,0,0.133,0.0,0,6,0,0,8.27,Tier-1,Urban,Architecture,UI/UX Design,1.0,30,1.0,Remote,1.0,1,0.74,0
+S206,INT010,0,0,0.067,0.0,0,6,0,0,8.27,Tier-1,Urban,Architecture,Web Development,0.2,14,0.467,Remote,0.4,0,0.22,0
+S207,INT135,0,0,0.45,0.25,1,4,0,0,7.92,Tier-1,Rural,Computer Science,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,1
+S207,INT084,0,0,0.1,0.0,0,4,0,0,7.92,Tier-1,Rural,Computer Science,Mobile Development,0.72,22,0.733,Hybrid,0.4,1,1.0,0
+S207,INT100,0,0,0.0,0.0,0,3,0,0,7.92,Tier-1,Rural,Computer Science,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,1.0,0
+S209,INT060,0,0,0.333,0.333,1,3,0,0,7.39,Tier-1,Rural,Electrical Engineering,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S209,INT085,0,0,0.0,0.0,0,4,0,0,7.39,Tier-1,Rural,Electrical Engineering,Web Development,0.8,8,0.267,On-site,0.4,0,0.16,1
+S209,INT100,0,0,0.133,0.0,0,3,0,0,7.39,Tier-1,Rural,Electrical Engineering,Cloud Computing,0.2,28,0.933,Hybrid,0.4,0,0.26,0
+S210,INT054,0,0,0.0,0.0,0,2,0,0,6.72,Tier-3,Rural,AI,App Development,0.48,6,0.2,Remote,1.0,0,0.0,0
+S210,INT003,0,0,0.08,0.0,0,5,0,0,6.72,Tier-3,Rural,AI,Database Management,0.48,22,0.733,Hybrid,0.4,0,0.0,0
+S210,INT148,0,0,0.0,0.0,0,5,0,0,6.72,Tier-3,Rural,AI,Testing,0.4,14,0.467,On-site,0.4,0,0.0,1
+S211,INT022,0,0,0.067,0.0,0,6,0,0,9.98,Tier-1,Rural,Electrical Engineering,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,1
+S211,INT056,0,0,0.0,0.0,0,6,0,0,9.98,Tier-1,Rural,Electrical Engineering,UI/UX Design,1.0,30,1.0,Remote,1.0,0,0.16,0
+S211,INT081,0,0,0.08,0.0,0,5,0,0,9.98,Tier-1,Rural,Electrical Engineering,Finance,0.72,14,0.467,Remote,1.0,0,0.18,0
+S213,INT001,0,0,0.133,0.0,0,3,0,0,7.08,Tier-1,Urban,Computer Science,Financial Services,0.72,18,0.6,Remote,0.4,0,0.0,0
+S213,INT140,0,0,0.16,0.0,0,5,0,0,7.08,Tier-1,Urban,Computer Science,Analytics,0.48,20,0.667,Remote,0.4,0,0.0,0
+S213,INT150,0,0,0.0,0.0,0,3,0,0,7.08,Tier-1,Urban,Computer Science,Security,1.0,22,0.733,Remote,0.4,0,0.0,0
+S214,INT125,0,0,0.24,0.0,0,5,0,0,8.09,Tier-3,Urban,IT,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S214,INT083,0,0,0.0,0.0,0,3,0,0,8.09,Tier-3,Urban,IT,Cloud Services,0.6,14,0.467,On-site,0.4,1,0.0,0
+S214,INT063,0,0,0.6,0.758,2,4,0,1,8.09,Tier-3,Urban,IT,Web Development,0.48,16,0.533,Remote,0.4,0,1.0,0
+S215,INT143,0,0,0.16,0.0,0,5,0,0,7.4,Tier-1,Urban,AI,Marketing,0.72,30,1.0,Remote,1.0,0,0.0,0
+S215,INT011,0,0,0.3,0.167,1,6,0,0,7.4,Tier-1,Urban,AI,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S215,INT011,0,0,0.3,0.167,1,6,0,0,7.4,Tier-1,Urban,AI,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S216,INT043,0,0,0.5,0.5,1,2,0,0,9.94,Tier-1,Urban,Biotechnology,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S216,INT008,0,0,0.28,0.2,1,5,0,0,9.94,Tier-1,Urban,Biotechnology,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S216,INT004,0,0,0.2,0.0,0,2,0,0,9.94,Tier-1,Urban,Biotechnology,Fintech,0.48,4,0.133,On-site,0.7,0,0.0,0
+S217,INT098,0,0,0.2,0.0,0,4,0,0,5.85,Tier-3,Urban,Data Science,UI/UX Design,0.6,12,0.4,On-site,0.4,1,0.32,0
+S217,INT059,0,0,0.0,0.0,0,3,0,0,5.85,Tier-3,Urban,Data Science,Data Engineering,0.72,14,0.467,On-site,0.4,0,0.96,0
+S217,INT034,0,0,0.4,0.0,0,3,0,0,5.85,Tier-3,Urban,Data Science,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S218,INT084,0,0,0.0,0.0,0,4,0,0,8.98,Tier-3,Rural,Electrical Engineering,Mobile Development,0.72,22,0.733,Hybrid,1.0,0,0.14,0
+S218,INT109,0,0,0.0,0.0,0,2,0,0,8.98,Tier-3,Rural,Electrical Engineering,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S218,INT046,0,0,0.133,0.0,0,3,0,0,8.98,Tier-3,Rural,Electrical Engineering,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S220,INT112,0,0,0.0,0.0,0,2,0,0,7.79,Tier-3,Urban,Data Science,Marketing,0.32,6,0.2,Hybrid,0.4,0,0.0,0
+S220,INT035,0,0,0.333,0.333,1,3,0,0,7.79,Tier-3,Urban,Data Science,Cybersecurity,0.48,18,0.6,On-site,0.4,0,0.34,0
+S220,INT013,0,0,0.0,0.0,0,5,0,0,7.79,Tier-3,Urban,Data Science,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S221,INT023,0,0,0.2,0.0,0,2,0,0,5.39,Tier-1,Urban,Electrical Engineering,Security,0.4,12,0.4,Remote,1.0,0,0.0,0
+S221,INT056,0,0,0.233,0.167,1,6,0,0,5.39,Tier-1,Urban,Electrical Engineering,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.16,0
+S221,INT052,0,0,0.267,0.0,0,6,0,0,5.39,Tier-1,Urban,Electrical Engineering,Cloud Computing,0.4,24,0.8,Hybrid,0.4,0,0.26,0
+S222,INT056,0,0,0.133,0.0,0,6,0,0,8.19,Tier-1,Urban,Chemical Engineering,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.12,0
+S222,INT075,0,0,0.08,0.0,0,5,0,0,8.19,Tier-1,Urban,Chemical Engineering,Mobile Development,0.72,20,0.667,Hybrid,1.0,0,0.08,0
+S222,INT006,0,0,0.6,0.342,1,3,0,1,8.19,Tier-1,Urban,Chemical Engineering,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S226,INT072,0,0,0.467,0.333,1,3,0,0,9.85,Tier-2,Rural,Electrical Engineering,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,1
+S226,INT098,0,0,0.35,0.25,1,4,0,0,9.85,Tier-2,Rural,Electrical Engineering,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.16,1
+S226,INT017,0,0,0.133,0.0,0,3,0,0,9.85,Tier-2,Rural,Electrical Engineering,Data Science,0.72,28,0.933,Remote,1.0,0,0.0,0
+S227,INT060,0,0,0.0,0.0,0,3,0,0,8.55,Tier-3,Urban,Architecture,Software Development,0.48,12,0.4,Remote,1.0,0,0.0,0
+S227,INT134,0,0,0.0,0.0,0,5,0,0,8.55,Tier-3,Urban,Architecture,Security,0.6,6,0.2,On-site,1.0,0,0.0,0
+S227,INT046,0,0,0.333,0.333,1,3,0,0,8.55,Tier-3,Urban,Architecture,Testing,0.6,24,0.8,Hybrid,0.4,0,0.0,0
+S228,INT029,0,0,0.2,0.0,0,2,0,0,7.61,Tier-2,Rural,Electrical Engineering,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S228,INT025,0,0,0.133,0.0,0,6,0,0,7.61,Tier-2,Rural,Electrical Engineering,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S228,INT105,0,0,0.2,0.0,0,6,0,0,7.61,Tier-2,Rural,Electrical Engineering,App Development,0.48,30,1.0,On-site,0.4,0,0.0,1
+S229,INT146,0,0,0.2,0.0,0,4,0,0,6.48,Tier-3,Rural,Computer Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S229,INT113,0,0,0.2,0.0,0,4,0,0,6.48,Tier-3,Rural,Computer Science,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S229,INT027,0,0,0.0,0.0,0,4,0,0,6.48,Tier-3,Rural,Computer Science,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S230,INT146,0,0,0.1,0.0,0,4,0,0,8.72,Tier-1,Urban,Mechanical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S230,INT031,0,0,0.133,0.0,0,3,0,0,8.72,Tier-1,Urban,Mechanical Engineering,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.3,0
+S230,INT098,0,0,0.3,0.0,0,4,0,0,8.72,Tier-1,Urban,Mechanical Engineering,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.18,0
+S231,INT146,0,0,0.1,0.0,0,4,0,0,8.68,Tier-1,Urban,Data Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S231,INT082,0,0,0.0,0.0,0,3,0,0,8.68,Tier-1,Urban,Data Science,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S231,INT142,0,0,0.2,0.0,0,2,0,0,8.68,Tier-1,Urban,Data Science,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,0
+S232,INT120,0,0,0.4,0.0,0,3,0,0,7.98,Tier-3,Urban,Data Science,Network Security,0.48,22,0.733,Remote,0.4,0,0.0,0
+S232,INT041,0,0,0.467,0.333,1,3,0,0,7.98,Tier-3,Urban,Data Science,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S232,INT146,0,0,0.4,0.0,0,4,0,0,7.98,Tier-3,Urban,Data Science,Analytics,0.4,18,0.6,Hybrid,0.7,0,0.0,0
+S234,INT027,0,0,0.0,0.0,0,4,0,0,6.6,Tier-2,Rural,Computer Science,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S234,INT110,0,0,0.1,0.0,0,4,0,0,6.6,Tier-2,Rural,Computer Science,Cybersecurity,0.6,14,0.467,On-site,0.4,1,1.0,1
+S234,INT146,0,0,0.1,0.0,0,4,0,0,6.6,Tier-2,Rural,Computer Science,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S235,INT080,0,0,0.0,0.0,0,2,0,0,9.74,Tier-3,Urban,Electronics & Communication,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S235,INT131,0,0,0.0,0.0,0,3,0,0,9.74,Tier-3,Urban,Electronics & Communication,Finance,0.32,16,0.533,Remote,0.4,0,0.18,0
+S235,INT084,0,0,0.1,0.0,0,4,0,0,9.74,Tier-3,Urban,Electronics & Communication,Mobile Development,0.72,22,0.733,Hybrid,0.4,0,0.22,0
+S236,INT090,0,0,0.333,0.333,1,3,0,0,5.36,Tier-1,Urban,Biotechnology,Fintech,0.72,12,0.4,On-site,0.7,0,0.0,0
+S236,INT008,0,0,0.08,0.0,0,5,0,0,5.36,Tier-1,Urban,Biotechnology,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S236,INT121,0,0,0.2,0.0,0,2,0,0,5.36,Tier-1,Urban,Biotechnology,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,0
+S238,INT091,0,0,0.1,0.0,0,4,0,0,6.1,Tier-1,Urban,Civil Engineering,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S238,INT105,0,0,0.233,0.167,1,6,0,0,6.1,Tier-1,Urban,Civil Engineering,App Development,0.48,30,1.0,On-site,0.4,0,0.0,0
+S238,INT079,0,0,0.6,0.325,1,3,0,1,6.1,Tier-1,Urban,Civil Engineering,Cloud Computing,0.4,30,1.0,Remote,0.4,0,0.18,0
+S240,INT085,0,0,0.6,0.505,2,4,0,0,6.25,Tier-3,Urban,AI,Web Development,0.8,8,0.267,On-site,0.4,0,0.34,0
+S240,INT123,0,0,0.2,0.2,1,5,0,0,6.25,Tier-3,Urban,AI,Marketing,0.6,4,0.133,Hybrid,0.4,0,0.0,0
+S240,INT119,0,0,0.0,0.0,0,5,0,0,6.25,Tier-3,Urban,AI,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.28,0
+S241,INT133,0,0,0.56,0.4,2,5,0,0,6.53,Tier-3,Rural,Electronics & Communication,App Development,0.32,18,0.6,On-site,0.4,0,0.0,1
+S241,INT119,0,0,0.32,0.0,0,5,0,0,6.53,Tier-3,Rural,Electronics & Communication,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.24,1
+S241,INT070,0,0,0.2,0.0,0,6,0,0,6.53,Tier-3,Rural,Electronics & Communication,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S242,INT102,0,0,0.167,0.506,1,6,0,1,5.54,Tier-2,Urban,Electronics & Communication,Finance,0.32,10,0.333,Hybrid,0.7,0,0.18,0
+S242,INT034,0,0,0.0,0.0,0,3,0,0,5.54,Tier-2,Urban,Electronics & Communication,AI,0.2,4,0.133,Remote,0.4,0,0.0,0
+S242,INT113,0,0,0.2,0.0,0,4,0,0,5.54,Tier-2,Urban,Electronics & Communication,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S243,INT063,0,0,0.1,0.0,0,4,0,0,6.83,Tier-1,Rural,Biotechnology,Web Development,0.48,16,0.533,Remote,0.4,0,0.1,0
+S243,INT072,0,0,0.333,0.333,1,3,0,0,6.83,Tier-1,Rural,Biotechnology,Data Engineering,0.2,18,0.6,On-site,0.4,0,0.0,1
+S243,INT133,0,0,0.28,0.2,1,5,0,0,6.83,Tier-1,Rural,Biotechnology,App Development,0.32,18,0.6,On-site,0.4,0,0.0,1
+S244,INT114,0,0,0.0,0.0,0,5,0,0,7.83,Tier-3,Urban,Electrical Engineering,Product Management,0.2,28,0.933,Hybrid,1.0,0,0.0,0
+S244,INT119,0,0,0.44,0.2,1,5,0,0,7.83,Tier-3,Urban,Electrical Engineering,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.16,0
+S244,INT132,0,0,0.2,0.0,0,2,0,0,7.83,Tier-3,Urban,Electrical Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S245,INT090,0,0,0.133,0.0,0,3,0,0,6.62,Tier-3,Urban,Computer Science,Fintech,0.72,12,0.4,On-site,0.4,0,0.62,0
+S245,INT004,0,0,0.7,0.5,1,2,0,0,6.62,Tier-3,Urban,Computer Science,Fintech,0.48,4,0.133,On-site,1.0,0,0.62,0
+S245,INT106,0,0,0.24,0.0,0,5,0,0,6.62,Tier-3,Urban,Computer Science,Network Security,0.72,4,0.133,On-site,0.7,0,0.0,0
+S246,INT110,0,0,0.0,0.0,0,4,0,0,7.2,Tier-2,Urban,Civil Engineering,Cybersecurity,0.6,14,0.467,On-site,0.4,0,0.0,0
+S246,INT056,0,0,0.133,0.0,0,6,0,0,7.2,Tier-2,Urban,Civil Engineering,UI/UX Design,1.0,30,1.0,Remote,0.4,0,0.28,0
+S246,INT010,0,0,0.067,0.0,0,6,0,0,7.2,Tier-2,Urban,Civil Engineering,Web Development,0.2,14,0.467,Remote,0.4,0,0.14,0
+S247,INT024,0,0,0.4,0.333,2,6,0,0,7.4,Tier-1,Urban,Civil Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.12,0
+S247,INT024,0,0,0.4,0.333,2,6,0,0,7.4,Tier-1,Urban,Civil Engineering,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.12,0
+S247,INT044,0,0,0.36,0.2,1,5,0,0,7.4,Tier-1,Urban,Civil Engineering,Cloud Services,0.2,6,0.2,Remote,0.4,1,0.0,0
+S250,INT043,0,0,0.2,0.0,0,2,0,0,5.59,Tier-3,Urban,Mechanical Engineering,Product Management,0.32,6,0.2,On-site,0.7,0,0.0,0
+S250,INT009,0,0,0.2,0.2,1,5,0,0,5.59,Tier-3,Urban,Mechanical Engineering,Mobile Development,0.4,4,0.133,Hybrid,0.4,0,0.1,0
+S250,INT125,0,0,0.44,0.2,1,5,0,0,5.59,Tier-3,Urban,Mechanical Engineering,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S251,INT114,0,0,0.28,0.114,1,5,0,0,8.71,Tier-1,Urban,Electronics & Communication,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S251,INT059,0,0,0.0,0.0,0,3,0,0,8.71,Tier-1,Urban,Electronics & Communication,Data Engineering,0.72,14,0.467,On-site,0.4,0,0.0,0
+S251,INT134,0,0,0.24,0.0,0,5,0,0,8.71,Tier-1,Urban,Electronics & Communication,Security,0.6,6,0.2,On-site,1.0,0,0.0,0
+S253,INT004,0,0,0.0,0.0,0,2,0,0,7.77,Tier-1,Rural,Data Science,Fintech,0.48,4,0.133,On-site,0.4,0,0.0,1
+S253,INT119,0,0,0.16,0.0,0,5,0,0,7.77,Tier-1,Rural,Data Science,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.32,1
+S253,INT142,0,0,0.2,0.0,0,2,0,0,7.77,Tier-1,Rural,Data Science,DevOps,0.32,30,1.0,On-site,0.4,0,0.0,1
+S254,INT113,0,0,0.2,0.0,0,4,0,0,6.69,Tier-2,Rural,Civil Engineering,Design,0.6,8,0.267,Hybrid,0.4,0,0.0,0
+S254,INT137,0,0,0.2,0.0,0,4,0,0,6.69,Tier-2,Rural,Civil Engineering,Data Engineering,0.2,12,0.4,On-site,1.0,0,0.0,1
+S254,INT043,0,0,0.0,0.0,0,2,0,0,6.69,Tier-2,Rural,Civil Engineering,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S256,INT013,0,0,0.0,0.0,0,5,0,0,5.18,Tier-3,Urban,Chemical Engineering,Analytics,0.48,28,0.933,Hybrid,0.4,0,0.0,0
+S256,INT082,0,0,0.133,0.0,0,3,0,0,5.18,Tier-3,Urban,Chemical Engineering,Financial Services,0.48,24,0.8,Hybrid,0.4,0,0.0,0
+S256,INT109,0,0,0.0,0.0,0,2,0,0,5.18,Tier-3,Urban,Chemical Engineering,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S257,INT109,0,0,0.2,0.0,0,2,0,0,9.6,Tier-3,Urban,Finance,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S257,INT063,0,0,0.0,0.0,0,4,0,0,9.6,Tier-3,Urban,Finance,Web Development,0.48,16,0.533,Remote,0.4,1,0.14,0
+S257,INT049,0,0,0.0,0.0,0,3,0,0,9.6,Tier-3,Urban,Finance,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S259,INT085,0,0,0.45,0.248,1,4,0,0,5.34,Tier-3,Rural,Civil Engineering,Web Development,0.8,8,0.267,On-site,0.4,0,0.14,1
+S259,INT012,0,0,0.3,0.0,0,4,0,0,5.34,Tier-3,Rural,Civil Engineering,Cloud Computing,0.32,6,0.2,Hybrid,0.4,0,0.18,0
+S259,INT088,0,0,0.2,0.0,0,6,0,0,5.34,Tier-3,Rural,Civil Engineering,Analytics,0.48,14,0.467,On-site,1.0,0,0.0,1
+S260,INT058,0,0,0.133,0.0,0,6,0,0,7.87,Tier-2,Rural,Electronics & Communication,Quality Assurance,0.2,20,0.667,On-site,1.0,0,0.0,1
+S260,INT080,0,0,0.2,0.0,0,2,0,0,7.87,Tier-2,Rural,Electronics & Communication,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0
+S260,INT028,0,0,0.0,0.0,0,3,0,0,7.87,Tier-2,Rural,Electronics & Communication,CI/CD,0.6,28,0.933,Remote,0.4,0,0.0,0
+S261,INT042,0,0,0.0,0.0,0,4,0,0,8.89,Tier-2,Urban,Chemical Engineering,Cloud Services,0.8,16,0.533,Hybrid,0.4,0,0.0,0
+S261,INT103,0,0,0.0,0.0,0,2,0,0,8.89,Tier-2,Urban,Chemical Engineering,Artificial Intelligence,0.6,12,0.4,Hybrid,1.0,0,0.24,0
+S261,INT013,0,0,0.0,0.0,0,5,0,0,8.89,Tier-2,Urban,Chemical Engineering,Analytics,0.48,28,0.933,Hybrid,1.0,0,0.0,0
+S262,INT056,0,0,0.067,0.0,0,6,0,0,7.45,Tier-1,Urban,Mechanical Engineering,UI/UX Design,1.0,30,1.0,Remote,1.0,0,0.18,0
+S262,INT011,0,0,0.367,0.167,1,6,0,0,7.45,Tier-1,Urban,Mechanical Engineering,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S262,INT114,0,0,0.16,0.0,0,5,0,0,7.45,Tier-1,Urban,Mechanical Engineering,Product Management,0.2,28,0.933,Hybrid,0.4,0,0.0,0
+S263,INT057,0,0,0.0,0.0,0,2,0,0,7.3,Tier-3,Urban,IT,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S263,INT025,0,0,0.133,0.0,0,6,0,0,7.3,Tier-3,Urban,IT,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S263,INT136,0,0,0.3,0.0,0,4,0,0,7.3,Tier-3,Urban,IT,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S264,INT091,0,0,0.1,0.0,0,4,0,0,8.76,Tier-3,Rural,AI,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S264,INT083,0,0,0.0,0.0,0,3,0,0,8.76,Tier-3,Rural,AI,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,1
+S264,INT098,0,0,0.3,0.0,0,4,0,0,8.76,Tier-3,Rural,AI,UI/UX Design,0.6,12,0.4,On-site,0.4,0,0.28,1
+S265,INT024,0,0,0.3,0.167,1,6,0,0,8.69,Tier-1,Urban,Data Science,Mobile Development,0.2,16,0.533,Remote,0.4,0,0.22,0
+S265,INT026,0,0,0.32,0.0,0,5,0,0,8.69,Tier-1,Urban,Data Science,Product Management,0.2,14,0.467,On-site,0.4,0,0.0,0
+S265,INT110,0,0,0.2,0.0,0,4,0,0,8.69,Tier-1,Urban,Data Science,Cybersecurity,0.6,14,0.467,On-site,1.0,0,0.34,0
+S266,INT025,0,0,0.367,0.167,1,6,0,0,7.38,Tier-2,Urban,AI,Testing,0.72,18,0.6,Remote,0.4,0,0.0,0
+S266,INT021,0,0,0.3,0.167,1,6,0,0,7.38,Tier-2,Urban,AI,Quality Assurance,0.6,6,0.2,Remote,1.0,0,0.0,0
+S266,INT090,0,0,0.333,0.333,1,3,0,0,7.38,Tier-2,Urban,AI,Fintech,0.72,12,0.4,On-site,0.4,0,0.0,0
+S267,INT044,0,0,0.24,0.0,0,5,0,0,5.39,Tier-2,Urban,Finance,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S267,INT006,0,0,0.467,0.317,1,3,0,1,5.39,Tier-2,Urban,Finance,DevOps,0.32,8,0.267,On-site,0.4,0,0.0,0
+S267,INT026,0,0,0.32,0.0,0,5,0,0,5.39,Tier-2,Urban,Finance,Product Management,0.2,14,0.467,On-site,0.7,0,0.0,0
+S268,INT007,0,0,0.133,0.0,0,3,0,0,8.22,Tier-2,Urban,Finance,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S268,INT102,0,0,0.4,0.198,2,6,0,0,8.22,Tier-2,Urban,Finance,Finance,0.32,10,0.333,Hybrid,0.4,0,1.0,0
+S268,INT104,0,0,0.5,0.5,1,2,0,0,8.22,Tier-2,Urban,Finance,Digital Marketing,0.32,18,0.6,On-site,0.4,0,0.0,0
+S269,INT128,0,0,0.267,0.0,0,3,0,0,5.4,Tier-1,Urban,Finance,Cybersecurity,0.48,18,0.6,Remote,0.4,0,0.36,0
+S269,INT083,0,0,0.0,0.0,0,3,0,0,5.4,Tier-1,Urban,Finance,Cloud Services,0.6,14,0.467,On-site,0.4,0,0.0,0
+S269,INT128,0,0,0.267,0.0,0,3,0,0,5.4,Tier-1,Urban,Finance,Cybersecurity,0.48,18,0.6,Remote,0.4,0,0.36,0
+S270,INT091,0,0,0.1,0.0,0,4,0,0,5.42,Tier-3,Urban,AI,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S270,INT029,0,0,0.7,0.5,1,2,0,0,5.42,Tier-3,Urban,AI,Product Management,0.48,20,0.667,Remote,0.4,0,0.0,0
+S270,INT148,0,0,0.28,0.2,1,5,0,0,5.42,Tier-3,Urban,AI,Testing,0.4,14,0.467,On-site,0.4,0,0.0,0
+S271,INT070,0,0,0.233,0.167,1,6,0,0,9.85,Tier-2,Rural,Mechanical Engineering,Software Engineering,0.4,14,0.467,On-site,0.4,0,0.0,1
+S271,INT058,0,0,0.3,0.167,1,6,0,0,9.85,Tier-2,Rural,Mechanical Engineering,Quality Assurance,0.2,20,0.667,On-site,0.4,0,0.0,1
+S271,INT130,0,0,0.0,0.0,0,4,0,0,9.85,Tier-2,Rural,Mechanical Engineering,Database Management,1.0,14,0.467,Remote,0.4,0,0.0,0
+S272,INT069,0,0,0.067,0.0,0,6,0,0,6.52,Tier-1,Urban,Electrical Engineering,Finance,0.6,4,0.133,On-site,1.0,0,0.18,0
+S272,INT026,0,0,0.24,0.0,0,5,0,0,6.52,Tier-1,Urban,Electrical Engineering,Product Management,0.2,14,0.467,On-site,0.7,0,0.0,0
+S272,INT146,0,0,0.1,0.0,0,4,0,0,6.52,Tier-1,Urban,Electrical Engineering,Analytics,0.4,18,0.6,Hybrid,0.4,0,0.0,0
+S274,INT031,0,0,0.4,0.0,0,3,0,0,7.66,Tier-1,Urban,AI,Data Science & Analytics,0.6,12,0.4,Hybrid,0.4,0,0.95,0
+S274,INT132,0,0,0.2,0.0,0,2,0,0,7.66,Tier-1,Urban,AI,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S274,INT021,0,0,0.2,0.0,0,6,0,0,7.66,Tier-1,Urban,AI,Quality Assurance,0.6,6,0.2,Remote,0.4,0,0.0,0
+S276,INT074,0,0,0.36,0.2,1,5,0,0,6.56,Tier-2,Urban,AI,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S276,INT060,0,0,0.133,0.0,0,3,0,0,6.56,Tier-2,Urban,AI,Software Development,0.48,12,0.4,Remote,0.4,0,0.0,0
+S276,INT132,0,0,0.2,0.0,0,2,0,0,6.56,Tier-2,Urban,AI,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S277,INT011,0,0,0.067,0.0,0,6,0,0,8.84,Tier-2,Urban,Computer Science,Data Science,0.48,4,0.133,Remote,0.4,0,0.0,0
+S277,INT141,0,0,0.2,0.0,0,2,0,0,8.84,Tier-2,Urban,Computer Science,Cybersecurity,0.4,4,0.133,On-site,0.4,0,1.0,0
+S277,INT057,0,0,0.2,0.0,0,2,0,0,8.84,Tier-2,Urban,Computer Science,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S278,INT103,0,0,0.0,0.0,0,2,0,0,6.56,Tier-1,Rural,Electronics & Communication,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,0.54,0
+S278,INT038,0,0,0.167,0.167,1,6,0,0,6.56,Tier-1,Rural,Electronics & Communication,Security,0.48,8,0.267,Hybrid,0.4,0,0.0,0
+S278,INT081,0,0,0.28,0.2,1,5,0,0,6.56,Tier-1,Rural,Electronics & Communication,Finance,0.72,14,0.467,Remote,0.4,0,0.18,0
+S279,INT119,0,0,0.08,0.0,0,5,0,0,7.17,Tier-1,Rural,IT,UI/UX Design,0.48,6,0.2,On-site,0.4,0,0.62,1
+S279,INT136,0,0,0.1,0.0,0,4,0,0,7.17,Tier-1,Rural,IT,Testing,0.4,24,0.8,On-site,0.4,0,0.0,1
+S279,INT056,0,0,0.0,0.0,0,6,0,0,7.17,Tier-1,Rural,IT,UI/UX Design,1.0,30,1.0,Remote,1.0,0,0.62,0
+S280,INT018,0,0,0.2,0.0,0,4,0,0,8.43,Tier-2,Urban,Data Science,Finance,0.72,16,0.533,Hybrid,0.4,0,0.76,0
+S280,INT144,0,0,0.133,0.0,0,6,0,0,8.43,Tier-2,Urban,Data Science,Analytics,0.48,14,0.467,Hybrid,0.4,0,0.0,0
+S280,INT027,0,0,0.2,0.0,0,4,0,0,8.43,Tier-2,Urban,Data Science,Machine Learning,0.4,16,0.533,Remote,0.4,0,0.0,0
+S282,INT022,0,0,0.133,0.0,0,6,0,0,7.25,Tier-1,Urban,Computer Science,Product Management,0.32,12,0.4,On-site,0.4,0,0.0,0
+S282,INT012,0,0,0.35,0.145,1,4,0,0,7.25,Tier-1,Urban,Computer Science,Cloud Computing,0.32,6,0.2,Hybrid,1.0,1,1.0,0
+S282,INT109,0,0,0.0,0.0,0,2,0,0,7.25,Tier-1,Urban,Computer Science,Analytics,0.4,16,0.533,Hybrid,0.4,0,0.0,0
+S283,INT091,0,0,0.1,0.0,0,4,0,0,7.49,Tier-1,Urban,AI,Business Analysis,0.4,8,0.267,Remote,0.4,0,0.0,0
+S283,INT135,0,0,0.1,0.0,0,4,0,0,7.49,Tier-1,Urban,AI,Quality Assurance,0.8,30,1.0,On-site,0.4,0,0.0,0
+S283,INT074,0,0,0.44,0.2,1,5,0,0,7.49,Tier-1,Urban,AI,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S286,INT132,0,0,0.2,0.0,0,2,0,0,7.85,Tier-1,Urban,Mechanical Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S286,INT049,0,0,0.467,0.333,1,3,0,0,7.85,Tier-1,Urban,Mechanical Engineering,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S286,INT057,0,0,0.0,0.0,0,2,0,0,7.85,Tier-1,Urban,Mechanical Engineering,App Development,0.32,4,0.133,Remote,0.4,0,0.0,0
+S287,INT008,0,0,0.2,0.2,1,5,0,0,5.79,Tier-2,Rural,Civil Engineering,Business Analysis,0.2,28,0.933,Remote,1.0,0,0.0,0
+S287,INT111,0,0,0.2,0.0,0,4,0,0,5.79,Tier-2,Rural,Civil Engineering,Digital Marketing,0.32,22,0.733,On-site,0.4,0,0.0,1
+S287,INT044,0,0,0.16,0.0,0,5,0,0,5.79,Tier-2,Rural,Civil Engineering,Cloud Services,0.2,6,0.2,Remote,0.4,0,0.0,0
+S288,INT055,0,0,0.0,0.0,0,2,0,0,6.99,Tier-2,Rural,Electrical Engineering,Fintech,0.32,6,0.2,On-site,1.0,0,0.0,1
+S288,INT007,0,0,0.133,0.0,0,3,0,0,6.99,Tier-2,Rural,Electrical Engineering,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,1
+S288,INT134,0,0,0.2,0.2,1,5,0,0,6.99,Tier-2,Rural,Electrical Engineering,Security,0.6,6,0.2,On-site,0.4,0,0.0,1
+S289,INT103,0,0,0.0,0.0,0,2,0,0,9.45,Tier-3,Urban,Data Science,Artificial Intelligence,0.6,12,0.4,Hybrid,0.4,0,0.95,0
+S289,INT007,0,0,0.667,0.667,2,3,0,0,9.45,Tier-3,Urban,Data Science,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S289,INT007,0,0,0.667,0.667,2,3,0,0,9.45,Tier-3,Urban,Data Science,Business Analysis,0.2,24,0.8,On-site,0.4,0,0.0,0
+S290,INT074,0,0,0.44,0.2,1,5,0,0,5.19,Tier-3,Urban,Chemical Engineering,Testing,0.2,10,0.333,On-site,0.4,0,0.0,0
+S290,INT139,0,0,0.32,0.0,0,5,0,0,5.19,Tier-3,Urban,Chemical Engineering,Design,0.72,12,0.4,Hybrid,0.4,0,0.0,0
+S290,INT130,0,0,0.1,0.0,0,4,0,0,5.19,Tier-3,Urban,Chemical Engineering,Database Management,1.0,14,0.467,Remote,1.0,0,0.0,0
+S291,INT049,0,0,0.133,0.0,0,3,0,0,5.75,Tier-1,Rural,Electronics & Communication,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S291,INT054,0,0,0.0,0.0,0,2,0,0,5.75,Tier-1,Rural,Electronics & Communication,App Development,0.48,6,0.2,Remote,0.4,0,0.0,0
+S291,INT143,0,0,0.64,0.4,2,5,0,0,5.75,Tier-1,Rural,Electronics & Communication,Marketing,0.72,30,1.0,Remote,0.4,0,0.0,0
+S292,INT125,0,0,0.24,0.0,0,5,0,0,8.73,Tier-2,Urban,IT,Financial Services,0.4,22,0.733,Remote,0.4,0,0.0,0
+S292,INT117,0,0,0.7,0.5,1,2,0,0,8.73,Tier-2,Urban,IT,Quality Assurance,0.6,10,0.333,Remote,0.4,0,0.0,0
+S292,INT105,0,0,0.067,0.0,0,6,0,0,8.73,Tier-2,Urban,IT,App Development,0.48,30,1.0,On-site,0.4,0,0.0,0
+S293,INT089,0,0,0.133,0.0,0,3,0,0,7.88,Tier-1,Urban,Electronics & Communication,Cloud Computing,0.48,6,0.2,On-site,0.4,0,0.38,0
+S293,INT136,0,0,0.0,0.0,0,4,0,0,7.88,Tier-1,Urban,Electronics & Communication,Testing,0.4,24,0.8,On-site,0.4,0,0.0,0
+S293,INT043,0,0,0.0,0.0,0,2,0,0,7.88,Tier-1,Urban,Electronics & Communication,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,0
+S294,INT059,0,0,0.133,0.0,0,3,0,0,8.08,Tier-2,Urban,Data Science,Data Engineering,0.72,14,0.467,On-site,0.4,0,0.96,0
+S294,INT094,0,0,0.467,0.333,1,3,0,0,8.08,Tier-2,Urban,Data Science,Business Analysis,0.6,16,0.533,Remote,0.4,0,0.0,0
+S294,INT081,0,0,0.16,0.0,0,5,0,0,8.08,Tier-2,Urban,Data Science,Finance,0.72,14,0.467,Remote,0.4,0,0.76,0
+S296,INT041,0,0,0.133,0.0,0,3,0,0,6.42,Tier-1,Rural,AI,Cloud Services,0.32,6,0.2,Remote,0.4,0,0.0,0
+S296,INT101,0,0,0.467,0.333,1,3,0,0,6.42,Tier-1,Rural,AI,Database Management,0.72,18,0.6,On-site,0.4,0,0.0,1
+S296,INT116,0,0,0.267,0.0,0,6,0,0,6.42,Tier-1,Rural,AI,Network Security,0.2,6,0.2,On-site,0.4,0,0.0,1
+S297,INT132,0,0,0.5,0.5,1,2,0,0,7.66,Tier-3,Rural,Civil Engineering,App Development,0.32,12,0.4,Hybrid,0.4,0,0.0,0
+S297,INT018,0,0,0.1,0.0,0,4,0,0,7.66,Tier-3,Rural,Civil Engineering,Finance,0.72,16,0.533,Hybrid,0.4,0,0.26,0
+S297,INT072,0,0,0.133,0.0,0,3,0,0,7.66,Tier-3,Rural,Civil Engineering,Data Engineering,0.2,18,0.6,On-site,0.7,0,0.0,1
+S298,INT011,0,0,0.133,0.0,0,6,0,0,6.76,Tier-3,Rural,Computer Science,Data Science,0.48,4,0.133,Remote,1.0,0,0.0,0
+S298,INT043,0,0,0.2,0.0,0,2,0,0,6.76,Tier-3,Rural,Computer Science,Product Management,0.32,6,0.2,On-site,0.4,0,0.0,1
+S298,INT088,0,0,0.133,0.0,0,6,0,0,6.76,Tier-3,Rural,Computer Science,Analytics,0.48,14,0.467,On-site,0.4,0,0.0,1
+S299,INT076,0,0,0.0,0.0,0,4,0,0,5.76,Tier-1,Rural,Electrical Engineering,Finance,0.6,30,1.0,On-site,1.0,0,0.18,1
+S299,INT121,0,0,0.2,0.0,0,2,0,0,5.76,Tier-1,Rural,Electrical Engineering,Data Engineering,0.72,18,0.6,On-site,0.4,0,0.0,1
+S299,INT080,0,0,0.7,0.5,1,2,0,0,5.76,Tier-1,Rural,Electrical Engineering,AI,0.72,22,0.733,Hybrid,0.4,0,0.0,0

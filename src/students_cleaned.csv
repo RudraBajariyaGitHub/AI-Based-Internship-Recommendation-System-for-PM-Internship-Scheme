@@ -1,0 +1,238 @@
+Student ID,Branch,CGPA,Skills,Interests,Location,College Tier,Region
+S001,Biotechnology,8.71,"Computer Vision, FastAPI, Flask, Node JS",Web Development,Delhi,Tier-2,Rural
+S002,Civil Engineering,7.81,"Apache Kafka, Computer Vision, Financial Modeling, GitHub, Google Cloud Platform, MATLAB, Project Management, Statistical Analysis",Product Management,Delhi,Tier-1,Urban
+S003,IT,6.72,"Apache Hive, C++, Express.js, Linux, ROS",Backend Dev,Bangalore,Tier-1,Urban
+S004,Biotechnology,6.45,"Kubernetes, React, TensorFlow",Mobile Apps,Lucknow,Tier-2,Urban
+S005,Chemical Engineering,7.67,"Bash, Data Analysis, Kubernetes, Machine Learning",Game Dev,Nagpur,Tier-1,Rural
+S006,Electrical Engineering,6.05,"AWS, Blockchain, Bloomberg Terminal, Gel Electrophoresis, Hadoop, NLP, Power BI",Finance,Hyderabad,Tier-1,Urban
+S008,Architecture,8.75,"GitLab, Hadoop, Linux, Machine Learning, MongoDB, Node.js, Python, Tableau",Blockchain,Kolkata,Tier-1,Urban
+S010,AI,8.78,"API, Apache Spark, Financial Modeling, GitLab, Kubernetes, Microsoft Azure, NLP, Power BI",Frontend,Hyderabad,Tier-1,Urban
+S011,Finance,6.14,"Ethereum, HTML, MongoDB",IoT,Other City,Tier-3,Urban
+S012,AI,8.29,"Apache Hive, Bash, C++, Google Cloud Platform",IoT,Bangalore,Tier-2,Urban
+S013,Data Science,6.39,"GitHub, HTML, MATLAB, React",Network Security,Hyderabad,Tier-3,Urban
+S015,Finance,5.25,"Blockchain, CSS, Ethereum, Machine Learning, Robotics, SQL",Cybersecurity,Gurgaon,Tier-2,Urban
+S016,Chemical Engineering,8.29,"API, Data Analysis, Hadoop, IoT, NLP, Power BI, PyTorch",Full Stack Development,Hyderabad,Tier-3,Urban
+S017,Data Science,9.4,"Data Visualization, GitLab, Kubernetes, Machine Learning",Manufacturing,Delhi,Tier-1,Urban
+S018,IT,8.71,"Data Analysis, Data Visualization, Embedded Systems, NLP",IoT,Other City,Tier-1,Urban
+S019,Biotechnology,6.38,"Data Engineering, Django, MongoDB",Full Stack,Other City,Tier-3,Urban
+S020,IT,9.42,"JavaScript, Kubernetes, MATLAB, Project Management",Finance,Other City,Tier-1,Rural
+S022,AI,8.51,"Computer Vision, JavaScript, Linux, NLP, PostgreSQL, Shell Scripting",Product Management,Chennai,Tier-1,Urban
+S023,Electronics & Communication,7.0,"Data Analysis, JavaScript, Machine Learning, MongoDB, Node JS, Project Management",Backend Dev,Bangalore,Tier-2,Urban
+S025,Electronics & Communication,6.48,"Deep Learning, Google Cloud Platform, Kubernetes, REST API",Full Stack,Other City,Tier-1,Urban
+S026,AI,8.93,"API, Bash, Bloomberg Terminal, Ethereum, Excel, GitHub, NLP",Gaming,Lucknow,Tier-2,Rural
+S027,AI,5.23,"Aspen Plus, Circuit Design, Data Engineering, Google Cloud Platform, HTML, Linux",Manufacturing,Other City,Tier-1,Urban
+S028,Electrical Engineering,9.02,"Bash, C++, Django, Express.js, IoT, Linux, PyTorch, Simulink",Databases,Jaipur,Tier-2,Rural
+S029,Biotechnology,8.89,"ANSYS, Apache Spark, GitLab, HTML, PyTorch, Statistical Analysis",Research,Other City,Tier-1,Rural
+S030,Computer Science,6.65,"AWS, Data Engineering, Google Cloud Platform, NLP, SQL",Data Engineering,Visakhapatnam,Tier-3,Urban
+S032,IT,5.68,"C++, Data Analysis, Deep Learning, Excel, Kubernetes, NLP",Databases,Mumbai,Tier-3,Urban
+S034,Electronics & Communication,9.54,"AWS, Deep Learning, HTML, Hadoop, Redis, VHDL",Product Mgmt,Gurgaon,Tier-3,Rural
+S036,Electronics & Communication,9.15,"Linux, PyTorch, Statistical Analysis",Web Development,Noida,Tier-2,Rural
+S037,Civil Engineering,8.99,"Apache Kafka, Simulink, Statistical Analysis, VHDL",Structural Engineering,Other City,Tier-3,Urban
+S038,Computer Science,6.11,"Cybersecurity, Kubernetes, Power BI, Project Management, PyTorch, REST API, Robotics, Simulink",Cybersecurity,Other City,Tier-2,Rural
+S039,IT,9.75,"Apache Hive, Computer Vision, Cyber Security, Deep Learning, FastAPI, Project Management, Statistical Analysis",Data Science,Other City,Tier-3,Rural
+S043,Electronics & Communication,5.3,"AI, ANSYS, CSS, Data Analysis, NLP, REST API, React",Web Development,Hyderabad,Tier-2,Urban
+S044,Architecture,5.36,"ANSYS, Data Analysis, Project Management, REST API",Structural Engineering,Bangalore,Tier-2,Rural
+S045,Computer Science,8.96,"AutoCAD, Bash, Data Visualization, Express.js, Fintech, GitLab, Redis",Computer Vision,Other City,Tier-2,Urban
+S046,Computer Science,9.81,"AI, API, Data Analysis, Java, JavaScript, Project Management, SolidWorks",Structural Engineering,Nagpur,Tier-3,Urban
+S047,Civil Engineering,6.67,"Apache Kafka, Data Visualization, Ethical Hacking, Google Cloud Platform, Machine Learning, MongoDB, Node JS, REST API",Competitive Coding,Nagpur,Tier-1,Urban
+S048,Electrical Engineering,7.59,"AI, ANSYS, Blockchain, C++, Fintech, GitHub, NLP",DevOps,Gurgaon,Tier-1,Urban
+S049,IT,9.21,"Bash, Express JS, Financial Modeling",NLP,Other City,Tier-3,Urban
+S050,AI,5.72,"Django, Embedded Systems, Ethereum, Fintech",Data Science,Chennai,Tier-2,Urban
+S051,Data Science,7.42,"AI, Kubernetes, Linux, MATLAB, Simulink",NLP,Mumbai,Tier-2,Urban
+S052,Finance,6.91,"Blockchain, Ethical Hacking, Express.js, Financial Modeling, JavaScript, MongoDB, Spring Boot, VHDL",Manufacturing,Bangalore,Tier-1,Urban
+S053,AI,8.46,"ANSYS, API, CSS, Excel, Hadoop, Kubernetes, MongoDB, Robotics",Machine Learning,Ahmedabad,Tier-1,Urban
+S054,Electrical Engineering,6.5,"C++, Excel, SQL",Backend,Lucknow,Tier-1,Rural
+S056,Biotechnology,8.45,"AWS, Cyber Security, Deep Learning, Node.js, Power BI, TensorFlow",Manufacturing,Ahmedabad,Tier-2,Urban
+S057,Mechanical Engineering,8.89,"Blockchain, Circuit Design, FastAPI",Game Development,Indore,Tier-2,Urban
+S058,Architecture,8.84,"ANSYS, Financial Modeling, Flask, GitLab, JavaScript, Power BI, React",Full Stack,Kolkata,Tier-3,Urban
+S059,Data Science,9.12,"Bash, Fintech, HTML, MongoDB, Node JS, Tableau",IoT,Gurgaon,Tier-1,Urban
+S060,Electronics & Communication,8.36,"API, Kubernetes, Node.js, PCR, Shell Scripting, TensorFlow",Deep Learning,Bangalore,Tier-1,Urban
+S061,Electronics & Communication,5.58,"AWS, Django, Linux, ROS",Manufacturing,Delhi,Tier-3,Urban
+S064,AI,5.74,"Django, Keras, MATLAB, Machine Learning, Python, Spring Boot, Statistical Analysis",Cloud Services,Chennai,Tier-1,Rural
+S066,Finance,9.33,"Cybersecurity, Gel Electrophoresis, JavaScript, Linux, Microsoft Azure, Power BI, SQL",AI,Bangalore,Tier-2,Rural
+S067,Electronics & Communication,7.65,"Apache Kafka, Blockchain, Embedded Systems, Jenkins, Node JS, React",NLP,Pune,Tier-3,Urban
+S068,Electrical Engineering,6.56,"Keras, Kubernetes, REST API, Redis, Spring Boot",Machine Learning,Other City,Tier-2,Rural
+S069,Mechanical Engineering,9.78,"API, Express.js, Fintech, Google Cloud Platform, MongoDB, PostgreSQL, REST API",Blockchain,Lucknow,Tier-3,Rural
+S070,IT,7.78,"AI, SolidWorks, Statistical Analysis",Mobile Development,Chennai,Tier-2,Rural
+S072,Finance,9.71,"C++, CSS, Fintech, Machine Learning, STAAD.Pro, Spring Boot",Robotics,Hyderabad,Tier-3,Urban
+S073,Electronics & Communication,6.42,"AWS, C++, Computer Vision, Cybersecurity, IoT, Power BI, REST API, VHDL",CI/CD,Delhi,Tier-1,Urban
+S075,Finance,6.45,"Excel, Java, Linux, Machine Learning, Redis, STAAD.Pro",Software Engineering,Delhi,Tier-3,Urban
+S076,Finance,6.67,"Aspen Plus, Ethereum, HTML, Node JS",Gaming,Delhi,Tier-1,Urban
+S077,AI,5.76,"ANSYS, AutoCAD, Bash, Data Engineering, Ethical Hacking, Fintech, HTML, Machine Learning",Computer Vision,Delhi,Tier-3,Urban
+S078,Biotechnology,6.37,"Blockchain, HTML, PostgreSQL",Fintech,Other City,Tier-2,Urban
+S079,Biotechnology,9.28,"AWS, Bash, Blockchain, FastAPI, Project Management, Simulink, VHDL",AI,Jaipur,Tier-1,Rural
+S080,Finance,8.23,"Apache Spark, GitLab, PyTorch",Fintech,Chennai,Tier-3,Urban
+S081,Electronics & Communication,5.26,"AWS, Financial Modeling, GraphQL, MongoDB, MySQL, React, Simulink",Frontend Dev,Other City,Tier-1,Urban
+S082,Mechanical Engineering,8.96,"API, Apache Kafka, FastAPI, Redis",Data Science,Kolkata,Tier-2,Rural
+S083,AI,8.83,"Computer Vision, Flask, HTML, Spring Boot",Frontend Dev,Kolkata,Tier-1,Rural
+S084,Data Science,8.86,"C++, GitLab, Google Cloud Platform, Hadoop",Game Dev,Gurgaon,Tier-2,Urban
+S085,Civil Engineering,5.97,"Bash, Blockchain, Data Engineering, Data Visualization, DevOps, GitLab, Kubernetes, SolidWorks",Fintech,Gurgaon,Tier-1,Urban
+S086,AI,5.8,"Computer Vision, Ethereum, GitLab, Linux, React, Spring Boot",Research,Delhi,Tier-2,Rural
+S088,IT,6.19,"C++, Google Cloud Platform, PyTorch",Deep Learning,Other City,Tier-3,Urban
+S089,Biotechnology,6.21,"Jenkins, Python, STAAD.Pro, Tableau",AI,Noida,Tier-3,Urban
+S091,Architecture,8.48,"Deep Learning, DevOps, Django, Hadoop, JavaScript, Linux, MySQL, Tableau",Data Engineering,Kolkata,Tier-1,Rural
+S092,AI,6.84,"AWS, Blockchain, Deep Learning, FastAPI, GitLab, MongoDB",Computer Vision,Other City,Tier-1,Urban
+S093,Electronics & Communication,6.64,"Embedded Systems, GitHub, Hadoop, Jenkins, Power BI",Robotics,Indore,Tier-1,Urban
+S094,Biotechnology,6.82,"Circuit Design, DevOps, Flask, GitLab, GraphQL, JavaScript, Machine Learning",Fintech,Jaipur,Tier-1,Rural
+S095,Mechanical Engineering,6.57,"Deep Learning, FastAPI, Java, Node JS, PyTorch",Game Development,Other City,Tier-2,Urban
+S096,AI,9.26,"Apache Spark, Excel, GitHub, GraphQL, Machine Learning, React",Finance,Noida,Tier-2,Urban
+S097,AI,6.18,"Bash, Docker, Java, Kubernetes, Simulink, SolidWorks",Data Analysis,Other City,Tier-3,Urban
+S098,Electrical Engineering,5.37,"Bash, Gel Electrophoresis, GraphQL, HTML, Linux",Cybersecurity,Noida,Tier-1,Urban
+S099,Data Science,9.67,"CSS, Data Visualization, IoT, PostgreSQL",Frontend,Gurgaon,Tier-1,Rural
+S100,Biotechnology,9.51,"AutoCAD, C++, CSS, JavaScript",Power Systems,Indore,Tier-1,Urban
+S101,Biotechnology,8.21,"Cyber Security, Microsoft Azure, PyTorch, Redis, Tableau",Database Design,Hyderabad,Tier-2,Rural
+S102,Electronics & Communication,6.6,"AI, Django, Ethereum, Kubernetes, Microsoft Azure",Computer Vision,Hyderabad,Tier-1,Urban
+S103,Computer Science,6.92,"Excel, Google Cloud Platform, Hadoop, Machine Learning, Power BI, PyTorch, SolidWorks",Research,Noida,Tier-3,Rural
+S104,AI,5.24,"API, Bloomberg Terminal, Ethical Hacking, Shell Scripting, VHDL",Finance,Mumbai,Tier-3,Urban
+S105,Mechanical Engineering,6.81,"AI, AWS, Blockchain, HTML, Linux",Fintech,Other City,Tier-2,Rural
+S106,Finance,8.01,"Apache Spark, Blockchain, C++, Flask, JavaScript",Embedded Systems,Pune,Tier-1,Urban
+S107,Chemical Engineering,6.5,"Apache Spark, Blockchain, Ethereum, Ethical Hacking, Robotics",NLP,Gurgaon,Tier-2,Urban
+S108,Chemical Engineering,9.84,"C++, Cybersecurity, Hadoop, Machine Learning, Project Management, SolidWorks, TensorFlow",Backend Dev,Other City,Tier-1,Rural
+S109,Computer Science,7.09,"Blockchain, Circuit Design, DevOps, Google Cloud Platform, NLP, Redis",Manufacturing,Jaipur,Tier-3,Urban
+S110,Electronics & Communication,7.3,"Data Engineering, GraphQL, Hadoop, MATLAB, MongoDB, PostgreSQL",Backend Development,Pune,Tier-2,Urban
+S111,AI,8.45,"AutoCAD, Cybersecurity, Excel, Hadoop, PostgreSQL, Statistical Analysis",Web Development,Chennai,Tier-1,Rural
+S112,Electrical Engineering,8.74,"AutoCAD, Data Analysis, NLP, ROS",Web Dev,Lucknow,Tier-3,Rural
+S114,IT,6.16,"AWS, Apache Hive, Deep Learning, Ethical Hacking, Google Cloud Platform, JavaScript, Machine Learning",Structural Engineering,Gurgaon,Tier-3,Urban
+S115,Data Science,7.34,"FastAPI, Machine Learning, MongoDB, Node.js",Product Management,Other City,Tier-2,Rural
+S116,Data Science,8.19,"API, Ethereum, Excel, Jenkins, Microsoft Azure, React",Computer Vision,Visakhapatnam,Tier-2,Rural
+S119,Mechanical Engineering,8.52,"AutoCAD, Node.js, SQL",Cloud Computing,Pune,Tier-3,Urban
+S120,IT,8.58,"Django, Ethereum, GitHub, Linux, React, SQL",Data Analysis,Mumbai,Tier-3,Urban
+S121,Computer Science,7.89,"Apache Kafka, Google Cloud Platform, PostgreSQL",NLP,Bangalore,Tier-1,Urban
+S122,Electronics & Communication,6.91,"CSS, Django, GraphQL, Kubernetes, MATLAB, REST API",Game Development,Other City,Tier-1,Urban
+S123,Electronics & Communication,8.6,"Kubernetes, Linux, PostgreSQL, PyTorch, Robotics, TensorFlow",Mobile Apps,Delhi,Tier-1,Urban
+S124,Electrical Engineering,8.52,"C++, FastAPI, PyTorch",Cyber Security,Noida,Tier-2,Rural
+S126,Mechanical Engineering,7.08,"Deep Learning, Fintech, Kubernetes, Tableau",Database Design,Delhi,Tier-3,Urban
+S128,Computer Science,8.81,"API, AutoCAD, Computer Vision, Cybersecurity, MongoDB, NLP, Power BI, Python",Data Engineering,Kolkata,Tier-3,Rural
+S129,Electronics & Communication,7.56,"AI, Bash, Excel, Hadoop, React, Shell Scripting",Data Science,Chennai,Tier-3,Urban
+S130,AI,6.65,"AutoCAD, Blockchain, Bloomberg Terminal, MATLAB, PyTorch, Redis",Cyber Security,Other City,Tier-3,Urban
+S133,Electronics & Communication,6.98,"Apache Kafka, AutoCAD, Linux, Microsoft Azure, PyTorch",Full Stack,Jaipur,Tier-1,Urban
+S134,Architecture,7.5,"AutoCAD, DevOps, Financial Modeling, MongoDB, React, Robotics",Renewable Energy,Chennai,Tier-3,Urban
+S135,Data Science,6.57,"Apache Spark, Fintech, Flask, Project Management",Backend,Other City,Tier-3,Rural
+S136,Electronics & Communication,5.7,"Apache Hive, Blockchain, C++, CSS, FastAPI, GitLab, PostgreSQL, React",Finance,Gurgaon,Tier-3,Urban
+S137,Data Science,8.3,"Data Engineering, STAAD.Pro, Tableau",Robotics,Bangalore,Tier-3,Rural
+S138,Finance,6.8,"GitHub, Power BI, Python",Machine Learning,Bangalore,Tier-3,Urban
+S139,Mechanical Engineering,7.04,"PostgreSQL, React, Simulink",NLP,Kolkata,Tier-1,Rural
+S140,Mechanical Engineering,8.43,"Data Analysis, Ethical Hacking, Flask, Power BI",Artificial Intelligence,Kolkata,Tier-2,Rural
+S142,Electronics & Communication,9.74,"AWS, Cybersecurity, Machine Learning, Power BI",CI/CD,Kolkata,Tier-2,Urban
+S143,Electronics & Communication,7.82,"Apache Hive, Data Engineering, Deep Learning, GraphQL, Java, MATLAB",Automation,Noida,Tier-1,Urban
+S145,Data Science,5.22,"Financial Modeling, Fintech, GraphQL, Jenkins, Microsoft Azure, MongoDB, Node.js, Python",Web Development,Jaipur,Tier-1,Urban
+S146,Electrical Engineering,5.43,"DevOps, Flask, IoT, Linux, MongoDB, NLP, PostgreSQL, Power BI",Project Management,Delhi,Tier-1,Rural
+S148,Electrical Engineering,6.94,"Apache Spark, Fintech, MySQL, NLP, Node JS, SolidWorks, Statistical Analysis",Software Engineering,Indore,Tier-2,Urban
+S149,Chemical Engineering,5.57,"API, Apache Spark, Linux, Machine Learning, STAAD.Pro",Cybersecurity,Hyderabad,Tier-2,Urban
+S150,Data Science,5.71,"AWS, Flask, Google Cloud Platform, SolidWorks, VHDL",Mobile Development,Pune,Tier-3,Urban
+S152,Finance,5.16,"Data Visualization, DevOps, Machine Learning, ROS",Robotics,Other City,Tier-3,Rural
+S154,Data Science,8.92,"AutoCAD, PostgreSQL, Robotics, SQL",Cyber Security,Visakhapatnam,Tier-3,Urban
+S155,AI,5.63,"Apache Spark, Excel, PyTorch, Spring Boot",Power Systems,Ahmedabad,Tier-3,Urban
+S156,Computer Science,9.4,"Ethereum, Fintech, Microsoft Azure",Machine Learning,Other City,Tier-3,Rural
+S157,Computer Science,6.99,"Data Analysis, Data Visualization, Ethical Hacking, Excel, MongoDB, NLP",Machine Learning,Indore,Tier-3,Urban
+S158,IT,5.79,"Django, Financial Modeling, Jenkins, NLP, Python, Redis",Automation,Indore,Tier-1,Urban
+S159,Electrical Engineering,8.63,"Apache Spark, Bloomberg Terminal, Jenkins, React",Data Science,Mumbai,Tier-2,Urban
+S161,Chemical Engineering,7.2,"ANSYS, Fintech, GitHub, Google Cloud Platform, NLP, Redis, STAAD.Pro, Spring Boot",Cyber Security,Hyderabad,Tier-2,Urban
+S162,AI,8.0,"Bloomberg Terminal, Data Visualization, DevOps, Java, NLP, Power BI, Redis",Competitive Programming,Kolkata,Tier-1,Rural
+S163,Civil Engineering,5.36,"Django, Docker, Excel",Full Stack,Lucknow,Tier-1,Urban
+S165,Biotechnology,8.08,"CSS, Ethereum, NLP, Power BI",Project Management,Ahmedabad,Tier-2,Urban
+S166,AI,7.17,"Circuit Design, FastAPI, Power BI, REST API, SQL",Cloud Computing,Noida,Tier-2,Urban
+S167,Data Science,8.75,"Data Engineering, Express JS, FastAPI, JavaScript, MongoDB",Database Design,Noida,Tier-2,Urban
+S168,Civil Engineering,5.83,"Data Engineering, Keras, Node JS, SolidWorks",Data Science,Hyderabad,Tier-1,Urban
+S169,Electronics & Communication,5.75,"Apache Spark, FastAPI, Simulink",NLP,Other City,Tier-2,Urban
+S170,Computer Science,5.6,"Bash, C++, Computer Vision, IoT, Machine Learning, Microsoft Azure, MySQL",Data Engineering,Gurgaon,Tier-2,Rural
+S172,Finance,5.52,"Apache Spark, Ethical Hacking, Flask, Google Cloud Platform, SQL, Statistical Analysis, TensorFlow",Structural Engineering,Nagpur,Tier-3,Urban
+S173,Chemical Engineering,7.17,"Data Analysis, Power BI, Tableau, TensorFlow",Computer Vision,Chennai,Tier-2,Urban
+S174,AI,8.85,"Machine Learning, Node.js, Spring Boot",Full Stack Development,Kolkata,Tier-2,Urban
+S175,Electronics & Communication,9.26,"Machine Learning, Power BI, Redis",CI/CD,Bangalore,Tier-1,Rural
+S176,Electronics & Communication,5.24,"Data Analysis, JavaScript, Linux, Machine Learning, Microsoft Azure",Cyber Security,Delhi,Tier-1,Urban
+S177,AI,9.12,"Aspen Plus, CSS, Financial Modeling, Project Management, Redis",Cybersecurity,Delhi,Tier-2,Urban
+S179,Biotechnology,7.06,"AWS, Cybersecurity, Flask, Google Cloud Platform, React, SQL, Statistical Analysis",Full Stack,Other City,Tier-3,Rural
+S180,Mechanical Engineering,6.94,"Computer Vision, Excel, Java, VHDL",Cloud Computing,Delhi,Tier-2,Rural
+S181,AI,8.96,"AI, AWS, Computer Vision, Machine Learning, PostgreSQL, SQL, SolidWorks",Full Stack,Pune,Tier-1,Urban
+S182,Computer Science,6.16,"Cybersecurity, IoT, Java, Python",CI/CD,Delhi,Tier-1,Rural
+S183,Chemical Engineering,5.71,"Docker, HTML, IoT",Product Management,Pune,Tier-2,Rural
+S184,Data Science,7.18,"Apache Kafka, Apache Spark, AutoCAD, Cybersecurity, Excel, Financial Modeling, Machine Learning, STAAD.Pro",Cloud Services,Other City,Tier-1,Urban
+S186,AI,6.75,"C++, Hadoop, Python",NLP,Noida,Tier-3,Rural
+S187,Mechanical Engineering,9.14,"AI, Computer Vision, Financial Modeling, HTML, Linux, Machine Learning, Redis",Product Management,Bangalore,Tier-3,Rural
+S189,Data Science,6.66,"Apache Kafka, Hadoop, Microsoft Azure, Simulink",Gaming,Delhi,Tier-1,Urban
+S191,IT,5.58,"Data Analysis, Ethical Hacking, Gel Electrophoresis, REST API, React, Shell Scripting",Web Development,Chennai,Tier-3,Urban
+S192,AI,6.34,"Apache Kafka, Fintech, Spring Boot",Frontend,Hyderabad,Tier-3,Urban
+S193,Electronics & Communication,7.09,"AWS, CSS, Cybersecurity, Redis, SolidWorks, Tableau, TensorFlow",Cloud Computing,Hyderabad,Tier-2,Rural
+S194,Computer Science,9.94,"ANSYS, Data Analysis, Excel, NLP, Spring Boot, VHDL",Robotics,Noida,Tier-3,Urban
+S196,Mechanical Engineering,5.19,"Circuit Design, Flask, GraphQL, Microsoft Azure, STAAD.Pro",Databases,Chennai,Tier-2,Urban
+S197,Electronics & Communication,6.52,"Apache Kafka, Ethical Hacking, React, Redis, TensorFlow",Computer Vision,Hyderabad,Tier-3,Urban
+S198,Finance,6.87,"Ethereum, Machine Learning, MySQL",Software Engineering,Gurgaon,Tier-1,Rural
+S201,Data Science,8.9,"Computer Vision, Financial Modeling, GraphQL",Cybersecurity,Indore,Tier-1,Urban
+S202,AI,9.03,"Apache Spark, Gel Electrophoresis, Google Cloud Platform, Statistical Analysis",Data Engineering,Lucknow,Tier-3,Urban
+S203,Chemical Engineering,7.56,"AutoCAD, Circuit Design, Data Visualization, Financial Modeling, Kubernetes, Redis, Tableau, VHDL",Blockchain,Noida,Tier-2,Urban
+S205,Electronics & Communication,6.11,"API, Blockchain, Cybersecurity, DevOps, Docker, PCR, Tableau",Cybersecurity,Other City,Tier-2,Rural
+S206,Architecture,8.27,"Computer Vision, FastAPI, PostgreSQL, Power BI",Database Design,Other City,Tier-1,Urban
+S207,Computer Science,7.92,"Blockchain, Deep Learning, Express JS, GraphQL, HTML, Kubernetes, Shell Scripting",Backend,Jaipur,Tier-1,Rural
+S209,Electrical Engineering,7.39,"JavaScript, NLP, Robotics",Data Science,Lucknow,Tier-1,Rural
+S210,AI,6.72,"AWS, Blockchain, Node JS, Project Management",Database Design,Other City,Tier-3,Rural
+S211,Electrical Engineering,9.98,"Deep Learning, Docker, Ethical Hacking, Fintech, Machine Learning",Game Development,Other City,Tier-1,Rural
+S213,Computer Science,7.08,"Apache Kafka, Cybersecurity, Express.js, Keras, MATLAB, Spring Boot",Power Systems,Other City,Tier-1,Urban
+S214,IT,8.09,"Blockchain, Deep Learning, DevOps, Node JS, Node.js",Cloud Computing,Mumbai,Tier-3,Urban
+S215,AI,7.4,"API, Python, React",Data Analysis,Other City,Tier-1,Urban
+S216,Biotechnology,9.94,"Bash, C++, Data Analysis, Machine Learning, React",Deep Learning,Delhi,Tier-1,Urban
+S217,Data Science,5.85,"ANSYS, Data Analysis, FastAPI, GitLab, React",Database Design,Chennai,Tier-3,Urban
+S218,Electrical Engineering,8.98,"Apache Hive, Apache Kafka, Django",Mobile Development,Other City,Tier-3,Rural
+S220,Data Science,7.79,"Blockchain, C++, Ethical Hacking, Gel Electrophoresis, Machine Learning, Python, Shell Scripting",Competitive Coding,Hyderabad,Tier-3,Urban
+S221,Electrical Engineering,5.39,"Blockchain, Express JS, GitHub, Power BI, React, SolidWorks",Backend Development,Gurgaon,Tier-1,Urban
+S222,Chemical Engineering,8.19,"API, AutoCAD, Bloomberg Terminal, Docker, Linux, MongoDB, NLP",Data Analysis,Jaipur,Tier-1,Urban
+S226,Electrical Engineering,9.85,"Apache Kafka, Django, Embedded Systems, Fintech, Flask, Google Cloud Platform",Mobile Apps,Other City,Tier-2,Rural
+S227,Architecture,8.55,"Apache Kafka, Blockchain, MATLAB, PCR",Automation,Other City,Tier-3,Urban
+S228,Electrical Engineering,7.61,"C++, Kubernetes, Spring Boot",Data Engineering,Lucknow,Tier-2,Rural
+S229,Computer Science,6.48,"API, Docker, FastAPI, JavaScript, Linux, Node JS, STAAD.Pro",Fintech,Kolkata,Tier-3,Rural
+S230,Mechanical Engineering,8.72,"Computer Vision, DevOps, GitHub, STAAD.Pro",Data Engineering,Jaipur,Tier-1,Urban
+S231,Data Science,8.68,"JavaScript, Jenkins, Kubernetes",Product Management,Jaipur,Tier-1,Urban
+S232,Data Science,7.98,"Docker, Ethical Hacking, HTML, MATLAB, Power BI, REST API, STAAD.Pro, SolidWorks",Full Stack,Gurgaon,Tier-3,Urban
+S234,Computer Science,6.6,"AWS, Keras, MATLAB",Network Security,Mumbai,Tier-2,Rural
+S235,Electronics & Communication,9.74,"Data Engineering, Python, ROS, Robotics",Deep Learning,Hyderabad,Tier-3,Urban
+S236,Biotechnology,5.36,"HTML, Hadoop, Java, JavaScript, Linux, MongoDB, React, Spring Boot",Computer Vision,Pune,Tier-1,Urban
+S238,Civil Engineering,6.1,"AWS, Apache Hive, Aspen Plus, Flask, GraphQL, MATLAB, Tableau",Full Stack Development,Gurgaon,Tier-1,Urban
+S240,AI,6.25,"Apache Hive, Cybersecurity, MongoDB, Project Management",Mobile Development,Pune,Tier-3,Urban
+S241,Electronics & Communication,6.53,"AutoCAD, Docker, Jenkins, Machine Learning, Power BI, Spring Boot",Network Security,Jaipur,Tier-3,Rural
+S242,Electronics & Communication,5.54,"CSS, Circuit Design, Data Analysis, Deep Learning, FastAPI, Flask, ROS, Statistical Analysis",Web Development,Gurgaon,Tier-2,Urban
+S243,Biotechnology,6.83,"Data Engineering, FastAPI, Project Management, Tableau",Embedded Systems,Lucknow,Tier-1,Rural
+S244,Electrical Engineering,7.83,"Bloomberg Terminal, Cyber Security, Docker, FastAPI, JavaScript, Spring Boot",Research,Jaipur,Tier-3,Urban
+S245,Computer Science,6.62,"Aspen Plus, AutoCAD, Data Analysis, FastAPI, IoT, MATLAB, Project Management, Statistical Analysis",Product Mgmt,Noida,Tier-3,Urban
+S246,Civil Engineering,7.2,"Ethereum, Gel Electrophoresis, HTML, Statistical Analysis",NLP,Nagpur,Tier-2,Urban
+S247,Civil Engineering,7.4,"C++, Express.js, Financial Modeling, Google Cloud Platform, Java, Machine Learning, PyTorch",Cloud Computing,Chennai,Tier-1,Urban
+S250,Mechanical Engineering,5.59,"Bloomberg Terminal, DevOps, Django, Embedded Systems, MATLAB, Python",Game Dev,Nagpur,Tier-3,Urban
+S251,Electronics & Communication,8.71,"Cybersecurity, Data Engineering, Django, Google Cloud Platform, Keras, React, SolidWorks, TensorFlow",Project Management,Other City,Tier-1,Urban
+S253,Data Science,7.77,"Apache Spark, DevOps, PostgreSQL, Power BI, SolidWorks",Project Management,Bangalore,Tier-1,Rural
+S254,Civil Engineering,6.69,"AWS, Apache Kafka, Apache Spark, C++, Machine Learning, Redis, STAAD.Pro",AI,Chennai,Tier-2,Rural
+S256,Chemical Engineering,5.18,"Bloomberg Terminal, Machine Learning, Python, React",Frontend,Bangalore,Tier-3,Urban
+S257,Finance,9.6,"Apache Hive, AutoCAD, Data Visualization, PostgreSQL, Project Management, Statistical Analysis",Backend Development,Delhi,Tier-3,Urban
+S259,Civil Engineering,5.34,"Apache Kafka, Computer Vision, Google Cloud Platform, GraphQL, IoT, PostgreSQL, Power BI, TensorFlow",Full Stack,Bangalore,Tier-3,Rural
+S260,Electronics & Communication,7.87,"Blockchain, Deep Learning, Fintech, GraphQL",Mobile Apps,Hyderabad,Tier-2,Rural
+S261,Chemical Engineering,8.89,"CSS, GraphQL, REST API",Fintech,Other City,Tier-2,Urban
+S262,Mechanical Engineering,7.45,"AWS, C++, Computer Vision, Express.js, Fintech, SolidWorks, Statistical Analysis",Renewable Energy,Other City,Tier-1,Urban
+S263,IT,7.3,"API, Excel, Kubernetes, NLP, Project Management, Python, React",Finance,Bangalore,Tier-3,Urban
+S264,AI,8.76,"Deep Learning, Linux, Microsoft Azure, SolidWorks, Statistical Analysis",Backend Development,Ahmedabad,Tier-3,Rural
+S265,Data Science,8.69,"Aspen Plus, Blockchain, Django, Google Cloud Platform, Machine Learning, Python",Research,Delhi,Tier-1,Urban
+S266,AI,7.38,"AutoCAD, Data Analysis, Docker, FastAPI, Linux, MongoDB, React, Simulink",Data Engineering,Kolkata,Tier-2,Urban
+S267,Finance,5.39,"Aspen Plus, Bash, Data Visualization, Machine Learning, MongoDB, PCR, Spring Boot",Game Dev,Pune,Tier-2,Urban
+S268,Finance,8.22,"DevOps, Docker, Fintech, GitHub, Project Management",Cybersecurity,Other City,Tier-2,Urban
+S269,Finance,5.4,"AWS, MySQL, Node JS, React",Research,Noida,Tier-1,Urban
+S270,AI,5.42,"Data Visualization, FastAPI, GitHub, Power BI, PyTorch, TensorFlow",CI/CD,Jaipur,Tier-3,Urban
+S271,Mechanical Engineering,9.85,"Aspen Plus, Fintech, Linux, MATLAB, Machine Learning, VHDL",Machine Learning,Jaipur,Tier-2,Rural
+S272,Electrical Engineering,6.52,"AI, Django, IoT",Network Security,Pune,Tier-1,Urban
+S274,AI,7.66,"Deep Learning, Django, Google Cloud Platform, MySQL",CI/CD,Mumbai,Tier-1,Urban
+S276,AI,6.56,"Apache Kafka, Bash, CSS, JavaScript, Kubernetes, MongoDB",Mobile Development,Bangalore,Tier-2,Urban
+S277,Computer Science,8.84,"AWS, Data Engineering, GitHub, PyTorch",Software Engineering,Lucknow,Tier-2,Urban
+S278,Electronics & Communication,6.56,"Apache Hive, Aspen Plus, FastAPI, JavaScript, Machine Learning",App Development,Kolkata,Tier-1,Rural
+S279,IT,7.17,"Machine Learning, Project Management, Statistical Analysis",Fintech,Other City,Tier-1,Rural
+S280,Data Science,8.43,"AI, ANSYS, Docker, Financial Modeling, SQL",Computer Vision,Other City,Tier-2,Urban
+S282,Computer Science,7.25,"DevOps, Docker, Linux, MATLAB, Python",CI/CD,Other City,Tier-1,Urban
+S283,AI,7.49,"Circuit Design, Data Visualization, Excel, Gel Electrophoresis, Microsoft Azure, Node.js, Spring Boot",Mobile Development,Delhi,Tier-1,Urban
+S286,Mechanical Engineering,7.85,"Fintech, Google Cloud Platform, Node.js, Simulink",Deep Learning,Bangalore,Tier-1,Urban
+S287,Civil Engineering,5.79,"Excel, GitHub, Google Cloud Platform, Kubernetes, MATLAB, PostgreSQL, Power BI",Full Stack,Other City,Tier-2,Rural
+S288,Electrical Engineering,6.99,"Data Visualization, Django, IoT, Java, JavaScript, Power BI, Python, VHDL",Web Development,Jaipur,Tier-2,Rural
+S289,Data Science,9.45,"Keras, React, Tableau, TensorFlow",Network Security,Bangalore,Tier-3,Urban
+S290,Chemical Engineering,5.19,"CSS, Data Engineering, DevOps, Kubernetes, MongoDB, PostgreSQL, SQL",Web Dev,Pune,Tier-3,Urban
+S291,Electronics & Communication,5.75,"API, AWS, Apache Kafka, C++, Computer Vision, FastAPI, Spring Boot",Research,Bangalore,Tier-1,Rural
+S292,IT,8.73,"Apache Kafka, Blockchain, CSS, Data Analysis, DevOps, GitLab, Microsoft Azure",IoT,Delhi,Tier-2,Urban
+S293,Electronics & Communication,7.88,"API, Google Cloud Platform",Frontend Dev,Indore,Tier-1,Urban
+S294,Data Science,8.08,"ANSYS, C++, GitLab, NLP, Spring Boot, TensorFlow",Power Systems,Bangalore,Tier-2,Urban
+S296,AI,6.42,"AWS, Bash, Bloomberg Terminal, C++, Data Analysis, MySQL, Python, STAAD.Pro",Fintech,Noida,Tier-1,Rural
+S297,Civil Engineering,7.66,"AutoCAD, Blockchain, Deep Learning, Linux",Product Management,Noida,Tier-3,Rural
+S298,Computer Science,6.76,"ANSYS, AWS, Blockchain, Keras, Power BI, SQL, Statistical Analysis, TensorFlow",Machine Learning,Other City,Tier-3,Rural
+S299,Electrical Engineering,5.76,"Django, Embedded Systems, GitHub, MATLAB, MongoDB",Computer Vision,Other City,Tier-1,Rural

@@ -1,0 +1,112 @@
+Internship ID,Title,Company,Domain,Required Skills,Location,Stipend (INR),Description,Duration,Work Type
+INT001,Finance Intern,LG Electronics,Financial Services,"Redis, TensorFlow, VHDL",Bangalore,18000,Analyze business requirements and create technical specifications.,18,Remote
+INT002,Data Engineer Intern,Wipro,Software Development,"AI, Microsoft Azure",Hyderabad,15000,End-to-end development of features using MERN stack.,30,Remote
+INT003,ML Intern,Infosys,Database Management,"Ethical Hacking, Excel, Linux, Redis, STAAD.Pro",Ahmedabad,12000,Optimize frontend performance and accessibility.,22,Hybrid
+INT004,Quality Analyst Intern,Qualcomm India,Fintech,"IoT, Node.js",Noida,12000,Optimize frontend performance and accessibility.,4,On-site
+INT006,Machine Learning Intern,Sharechat,DevOps,"Bash, Financial Modeling, Linux",Ahmedabad,8000,Work on exciting data projects and build ML models.,8,On-site
+INT007,Business Analyst Intern,Hashedin,Business Analysis,"Keras, Linux, React",Delhi,5000,Collaborate with cross-functional teams on product features.,24,On-site
+INT008,AI Research Intern,Qualcomm India,Business Analysis,"Apache Hive, Circuit Design, Ethereum, Kubernetes, Machine Learning",Remote,5000,Implement machine learning models in production.,28,Remote
+INT009,DevOps Engineer Intern,EY,Mobile Development,"ANSYS, Data Visualization, Deep Learning, Django, Express JS",Other City,10000,Work on big data processing and analytics pipelines.,4,Hybrid
+INT010,Database Administrator Intern,Cognizant,Web Development,"Bloomberg Terminal, CSS, Cybersecurity, GitHub, Linux, Microsoft Azure",Bangalore,5000,Work with cutting-edge AI technologies and research.,14,Remote
+INT011,Computer Vision Intern,Zoho Corporation,Data Science,"C++, Embedded Systems, MongoDB, Node.js, React, Tableau",Other City,12000,Research and implement new technologies and frameworks.,4,Remote
+INT012,Full Stack Engineer Intern,KPMG,Cloud Computing,"AI, Jenkins, MATLAB, MySQL",Other City,8000,Develop scalable web applications and RESTful APIs.,6,Hybrid
+INT013,Marketing Intern,Qualcomm India,Analytics,"Apache Hive, Apache Spark, Data Visualization, Embedded Systems, Redis",Other City,12000,Test software applications and report defects.,28,Hybrid
+INT017,Network Engineer Intern,MakeMyTrip,Data Science,"ANSYS, Cyber Security, Spring Boot",Other City,18000,Research and implement new technologies and frameworks.,28,Remote
+INT018,Test Engineer Intern,EY,Finance,"Java, NLP, ROS, Simulink",Chennai,18000,Assist in cloud infrastructure setup and maintenance.,16,Hybrid
+INT021,Network Engineer Intern,Dunzo,Quality Assurance,"Data Engineering, DevOps, Excel, Flask, Power BI, React",Kolkata,15000,Test software applications and report defects.,6,Remote
+INT022,Full Stack Engineer Intern,Microsoft India,Product Management,"Bash, C++, IoT, MongoDB, Node JS, React",Pune,8000,Development of scalable web applications and bug fixing.,12,On-site
+INT023,Web Developer Intern,Nykaa,Security,"Data Analysis, Spring Boot",Gurgaon,10000,Assist in cloud infrastructure setup and maintenance.,12,Remote
+INT024,Design Intern,MakeMyTrip,Mobile Development,"Circuit Design, HTML, Machine Learning, MongoDB, Power BI, PyTorch",Kolkata,5000,Design and implement database schemas and queries.,16,Remote
+INT025,Design Intern,Siemens India,Testing,"Apache Kafka, Aspen Plus, Docker, GitHub, Redis, STAAD.Pro",Nagpur,18000,Develop and maintain backend services and APIs.,18,Remote
+INT026,Security Analyst Intern,EY,Product Management,"Computer Vision, Flask, STAAD.Pro, Shell Scripting, TensorFlow",Mumbai,5000,Managing server-side logic and database integrations.,14,On-site
+INT027,Security Analyst Intern,Zoho Corporation,Machine Learning,"Data Engineering, Embedded Systems, PostgreSQL, SolidWorks",Gurgaon,10000,Design user interfaces and improve user experience.,16,Remote
+INT028,Financial Analyst Intern,Cognizant,CI/CD,"AWS, Cyber Security, MySQL",Gurgaon,15000,Create marketing campaigns and analyze performance metrics.,28,Remote
+INT029,Software Engineer Intern,Razorpay,Product Management,"Apache Spark, FastAPI",Gurgaon,12000,Assist in cloud infrastructure setup and maintenance.,20,Remote
+INT031,Marketing Intern,MakeMyTrip,Data Science & Analytics,"Linux, REST API, Spring Boot",Hyderabad,15000,Assist in cloud infrastructure setup and maintenance.,12,Hybrid
+INT032,UI/UX Designer Intern,EY,Database Management,"Hadoop, PostgreSQL, Project Management, Python, React",Kolkata,20000,Develop scalable web applications and RESTful APIs.,4,Hybrid
+INT033,Product Manager Intern,Oyo,Cloud Computing,"Data Visualization, JavaScript",Ahmedabad,10000,Create marketing campaigns and analyze performance metrics.,10,Hybrid
+INT034,Software Engineer Intern,SAP Labs India,AI,"AWS, Docker, Simulink",Bangalore,5000,Work with cutting-edge AI technologies and research.,4,Remote
+INT035,Database Administrator Intern,Razorpay,Cybersecurity,"CSS, Flask, Gel Electrophoresis",Jaipur,12000,Create marketing campaigns and analyze performance metrics.,18,On-site
+INT038,Data Science Intern,SAP Labs India,Security,"FastAPI, Google Cloud Platform, MongoDB, PostgreSQL, Shell Scripting, SolidWorks",Delhi,12000,Design user interfaces and improve user experience.,8,Hybrid
+INT041,DevOps Engineer Intern,Nykaa,Cloud Services,"Apache Hive, GitLab, REST API",Indore,8000,Support DevOps team with automation and deployment.,6,Remote
+INT042,Data Engineer Intern,Oracle India,Cloud Services,"Cybersecurity, Fintech, Power BI, Robotics",Chennai,20000,Collaborate with cross-functional teams on product features.,16,Hybrid
+INT043,Web Developer Intern,Qualcomm India,Product Management,"React, Robotics",Pune,8000,Work on big data processing and analytics pipelines.,6,On-site
+INT044,Digital Marketing Intern,Bosch India,Cloud Services,"API, Data Engineering, FastAPI, Fintech, PyTorch",Gurgaon,5000,Work on exciting data projects and build ML models.,6,Remote
+INT045,DevOps Engineer Intern,Paytm,DevOps,"GitHub, Redis",Bangalore,5000,Write engaging content for blogs and social media.,6,Remote
+INT046,Finance Intern,Razorpay,Testing,"Embedded Systems, Express.js, PCR",Kolkata,15000,Participate in code reviews and agile development cycles.,24,Hybrid
+INT048,Web Developer Intern,Accenture,Machine Learning,"DevOps, Statistical Analysis",Nagpur,8000,Collaborate with cross-functional teams on product features.,6,On-site
+INT049,Software Development Intern,Schneider Electric,Cloud Services,"Ethical Hacking, Financial Modeling, Node.js",Other City,8000,Develop scalable web applications and RESTful APIs.,6,Remote
+INT050,Product Management Intern,Dunzo,Software Engineering,"Blockchain, Bloomberg Terminal, Java, PCR, Spring Boot",Gurgaon,5000,Develop and maintain backend services and APIs.,30,On-site
+INT052,Digital Marketing Intern,Zomato,Cloud Computing,"AI, CSS, Data Engineering, Linux, MongoDB, Tableau",Other City,10000,Managing server-side logic and database integrations.,24,Hybrid
+INT054,Data Scientist Intern,Microsoft India,App Development,"Hadoop, MongoDB",Other City,12000,Research and implement new technologies and frameworks.,6,Remote
+INT055,Computer Vision Intern,Cisco India,Fintech,"STAAD.Pro, Shell Scripting",Remote,8000,Work on big data processing and analytics pipelines.,6,On-site
+INT056,Financial Analyst Intern,Tata Consultancy Services,UI/UX Design,"Blockchain, MySQL, Node JS, Node.js, STAAD.Pro, VHDL",Other City,25000,End-to-end development of features using MERN stack.,30,Remote
+INT057,Business Analyst Intern,Infosys,App Development,"Express JS, Statistical Analysis",Jaipur,8000,Design user interfaces and improve user experience.,4,Remote
+INT058,AI/ML Intern,PolicyBazaar,Quality Assurance,"CSS, Cybersecurity, DevOps, Java, Kubernetes, Machine Learning",Hyderabad,5000,Supporting the accounts team with financial modeling and audits.,20,On-site
+INT059,DevOps Engineer Intern,Cognizant,Data Engineering,"Apache Kafka, Circuit Design, JavaScript",Indore,18000,Development of scalable web applications and bug fixing.,14,On-site
+INT060,Data Science Intern,Samsung India,Software Development,"Express JS, React, Robotics",Other City,12000,End-to-end development of features using MERN stack.,12,Remote
+INT062,Security Analyst Intern,Microsoft India,Artificial Intelligence,"Machine Learning, ROS",Remote,8000,Collaborate with cross-functional teams on product features.,22,Hybrid
+INT063,Web Developer Intern,Bharti Airtel,Web Development,"DevOps, Excel, Node.js, TensorFlow",Jaipur,12000,Develop scalable web applications and RESTful APIs.,16,Remote
+INT064,SDE Intern,Schneider Electric,Security,"AWS, Django, Kubernetes",Bangalore,8000,Develop scalable web applications and RESTful APIs.,28,Hybrid
+INT068,Graphic Designer Intern,Oyo,Artificial Intelligence,"CSS, Ethical Hacking, Fintech, PyTorch, Simulink",Mumbai,10000,Development of scalable web applications and bug fixing.,8,Hybrid
+INT069,Security Analyst Intern,Zoho Corporation,Finance,"Apache Spark, Bash, Data Engineering, Flask, Java, Linux",Remote,15000,Test software applications and report defects.,4,On-site
+INT070,DevOps Intern,Myntra,Software Engineering,"CSS, MATLAB, NLP, Redis, STAAD.Pro, SolidWorks",Kolkata,10000,Develop scalable web applications and RESTful APIs.,14,On-site
+INT072,Business Analyst Intern,Postman,Data Engineering,"AI, FastAPI, Fintech",Delhi,5000,Help with CI/CD pipeline configuration and monitoring.,18,On-site
+INT074,ML Intern,Wipro,Testing,"AWS, CSS, Data Visualization, Machine Learning, React",Other City,5000,Applying statistical models and ML algorithms to business data.,10,On-site
+INT075,Marketing Intern,Amazon India,Mobile Development,"Cybersecurity, Django, GraphQL, MATLAB, PostgreSQL",Remote,18000,Support DevOps team with automation and deployment.,20,Hybrid
+INT076,Web Development Intern,Bharti Airtel,Finance,"Bloomberg Terminal, Cybersecurity, Excel, Financial Modeling",Remote,15000,Developing prototypes for NLP and Computer Vision projects.,30,On-site
+INT078,Computer Vision Intern,Tata Consultancy Services,Software Development,"Excel, JavaScript",Kolkata,5000,Create marketing campaigns and analyze performance metrics.,28,Remote
+INT079,Content Writer Intern,KPMG,Cloud Computing,"GitHub, Kubernetes, MATLAB",Mumbai,10000,Analyze business requirements and create technical specifications.,30,Remote
+INT080,Security Analyst Intern,KPMG,AI,"FastAPI, MATLAB",Jaipur,18000,Implement machine learning models in production.,22,Hybrid
+INT081,Computer Vision Intern,MakeMyTrip,Finance,"Cybersecurity, FastAPI, MongoDB, Node.js, Redis",Other City,18000,Collaborate with cross-functional teams on product features.,14,Remote
+INT082,Web Developer Intern,Flipkart,Financial Services,"Computer Vision, IoT, Project Management",Delhi,12000,Collaborate with cross-functional teams on product features.,24,Hybrid
+INT083,AI Research Intern,Intel India,Cloud Services,"Embedded Systems, Ethical Hacking, Excel",Bangalore,15000,Design and implement database schemas and queries.,14,On-site
+INT084,Android Developer Intern,Google India,Mobile Development,"AutoCAD, GitHub, PostgreSQL, Power BI",Other City,18000,Applying statistical models and ML algorithms to business data.,22,Hybrid
+INT085,AI Research Intern,TCS,Web Development,"Cybersecurity, IoT, MongoDB, MySQL",Indore,20000,Design and implement database schemas and queries.,8,On-site
+INT088,Frontend Engineer Intern,Cisco India,Analytics,"AutoCAD, Cyber Security, Docker, FastAPI, GitLab, Project Management",Bangalore,12000,Applying statistical models and ML algorithms to business data.,14,On-site
+INT089,Graphic Designer Intern,Uber India,Cloud Computing,"C++, Data Analysis, Docker",Chennai,12000,Research and implement new technologies and frameworks.,6,On-site
+INT090,Software Development Intern,Nykaa,Fintech,"AI, Embedded Systems, React",Nagpur,18000,Work on big data processing and analytics pipelines.,12,On-site
+INT091,UI/UX Designer Intern,Sharechat,Business Analysis,"PostgreSQL, Project Management, React, Robotics",Other City,10000,Assist in cloud infrastructure setup and maintenance.,8,Remote
+INT094,Graphic Designer Intern,TCS,Business Analysis,"Express.js, NLP, Power BI",Mumbai,15000,Implement machine learning models in production.,16,Remote
+INT098,AI/ML Intern,Infosys,UI/UX Design,"Ethereum, Google Cloud Platform, Kubernetes, NLP",Noida,15000,Develop and maintain backend services and APIs.,12,On-site
+INT100,Network Engineer Intern,Zerodha,Cloud Computing,"API, Ethical Hacking, Python",Delhi,5000,Conduct security audits and vulnerability assessments.,28,Hybrid
+INT101,AI/ML Intern,BigBasket,Database Management,"Deep Learning, Docker, MySQL",Hyderabad,18000,Optimize frontend performance and accessibility.,18,On-site
+INT102,Design Intern,Nykaa,Finance,"Cybersecurity, Data Analysis, Docker, Fintech, Gel Electrophoresis, Microsoft Azure",Delhi,8000,Analyze business requirements and create technical specifications.,10,Hybrid
+INT103,NLP Intern,Amazon India,Artificial Intelligence,"Blockchain, MySQL",Other City,15000,Applying statistical models and ML algorithms to business data.,12,Hybrid
+INT104,Financial Analyst Intern,Paytm,Digital Marketing,"Fintech, REST API",Bangalore,8000,Analyze business requirements and create technical specifications.,18,On-site
+INT105,Frontend Developer Intern,NVIDIA India,App Development,"AI, Express JS, Java, JavaScript, Jenkins, MATLAB",Bangalore,12000,Contribute to open-source projects and internal tools.,30,On-site
+INT106,Design Intern,Tata Consultancy Services,Network Security,"AWS, Cybersecurity, Django, Hadoop, Power BI",Gurgaon,18000,Test software applications and report defects.,4,On-site
+INT108,Marketing Intern,ICICI Bank,Cloud Services,"Jenkins, PostgreSQL",Delhi,15000,Cleaning data and creating visualizations for stakeholder reports.,10,Hybrid
+INT109,Full Stack Engineer Intern,Bosch India,Analytics,"Node JS, Power BI",Mumbai,10000,Contribute to open-source projects and internal tools.,16,Hybrid
+INT110,QA Engineer Intern,Hashedin,Cybersecurity,"Apache Kafka, Java, Project Management, Shell Scripting",Delhi,15000,End-to-end development of features using MERN stack.,14,On-site
+INT111,QA Engineer Intern,MakeMyTrip,Digital Marketing,"Docker, Machine Learning, STAAD.Pro, Tableau",Chennai,8000,Development of scalable web applications and bug fixing.,22,On-site
+INT112,Backend Developer Intern,Schneider Electric,Marketing,"Hadoop, Project Management",Ahmedabad,8000,Work on big data processing and analytics pipelines.,6,Hybrid
+INT113,Full Stack Engineer Intern,Intel India,Design,"Jenkins, MATLAB, Power BI, REST API",Indore,15000,Contribute to open-source projects and internal tools.,8,Hybrid
+INT114,Database Administrator Intern,Tech Mahindra,Product Management,"Data Analysis, Data Engineering, PCR, Robotics, STAAD.Pro",Jaipur,5000,Applying statistical models and ML algorithms to business data.,28,Hybrid
+INT115,Full Stack Engineer Intern,Zoho Corporation,Cybersecurity,"Aspen Plus, Excel, Google Cloud Platform, MySQL, NLP",Hyderabad,5000,End-to-end development of features using MERN stack.,4,Remote
+INT116,Full Stack Engineer Intern,Oracle India,Network Security,"Financial Modeling, GitLab, Google Cloud Platform, JavaScript, Machine Learning, NLP",Other City,5000,Contribute to open-source projects and internal tools.,6,On-site
+INT117,Finance Intern,EY,Quality Assurance,"Docker, Microsoft Azure",Other City,15000,Applying statistical models and ML algorithms to business data.,10,Remote
+INT119,Web Developer Intern,ICICI Bank,UI/UX Design,"AWS, FastAPI, Fintech, Google Cloud Platform, TensorFlow",Noida,12000,Develop and maintain backend services and APIs.,6,On-site
+INT120,Quality Analyst Intern,Adobe India,Network Security,"DevOps, Spring Boot, Statistical Analysis",Mumbai,12000,Participate in code reviews and agile development cycles.,22,Remote
+INT121,Content Writer Intern,MakeMyTrip,Data Engineering,"API, Redis",Gurgaon,18000,Contribute to open-source projects and internal tools.,18,On-site
+INT123,Database Administrator Intern,SAP Labs India,Marketing,"Google Cloud Platform, Hadoop, Machine Learning, MongoDB, React",Jaipur,15000,Implement machine learning models in production.,4,Hybrid
+INT125,NLP Intern,Zoho Corporation,Financial Services,"Cybersecurity, Django, Excel, FastAPI, Linux",Bangalore,10000,Conduct security audits and vulnerability assessments.,22,Remote
+INT128,UI/UX Designer Intern,Wipro,Cybersecurity,"JavaScript, Microsoft Azure, Spring Boot",Kolkata,12000,Work with cutting-edge AI technologies and research.,18,Remote
+INT130,Backend Engineer Intern,SAP Labs India,Database Management,"API, Apache Spark, Circuit Design, Embedded Systems",Pune,25000,Build mobile applications for iOS and Android platforms.,14,Remote
+INT131,Product Manager Intern,Microsoft India,Finance,"Blockchain, Data Analysis, Machine Learning",Delhi,8000,Test software applications and report defects.,16,Remote
+INT132,Frontend Developer Intern,Ola,App Development,"Blockchain, Express.js",Ahmedabad,8000,Participate in code reviews and agile development cycles.,12,Hybrid
+INT133,Frontend Developer Intern,Qualcomm India,App Development,"AI, Ethical Hacking, FastAPI, Machine Learning, Power BI",Delhi,8000,Develop scalable web applications and RESTful APIs.,18,On-site
+INT134,Data Engineer Intern,Meesho,Security,"Docker, Ethical Hacking, GitHub, JavaScript, Node JS",Other City,15000,Applying statistical models and ML algorithms to business data.,6,On-site
+INT135,AI Research Intern,Tech Mahindra,Quality Assurance,"Deep Learning, Ethereum, Fintech, Machine Learning",Ahmedabad,20000,Cleaning data and creating visualizations for stakeholder reports.,30,On-site
+INT136,UI/UX Designer Intern,Paytm,Testing,"Data Visualization, Express.js, GraphQL, Java",Delhi,10000,Develop and maintain backend services and APIs.,24,On-site
+INT137,Security Analyst Intern,PhonePe,Data Engineering,"Bloomberg Terminal, MongoDB, Python, VHDL",Remote,5000,Work with cutting-edge AI technologies and research.,12,On-site
+INT138,Machine Learning Intern,BigBasket,Analytics,"Embedded Systems, Keras, Kubernetes, Machine Learning, Microsoft Azure, React",Indore,15000,Work with cutting-edge AI technologies and research.,8,Remote
+INT139,Full Stack Engineer Intern,Cisco India,Design,"Django, Embedded Systems, FastAPI, Power BI, Redis",Jaipur,18000,Analyze business requirements and create technical specifications.,12,Hybrid
+INT140,Finance Intern,Adobe India,Analytics,"Aspen Plus, Deep Learning, GitLab, Kubernetes, STAAD.Pro",Noida,12000,Work with cutting-edge AI technologies and research.,20,Remote
+INT141,Full Stack Developer Intern,Oracle India,Cybersecurity,"Cybersecurity, Tableau",Noida,10000,Design user interfaces and improve user experience.,4,On-site
+INT142,ML Intern,Microsoft India,DevOps,"Ethereum, Google Cloud Platform",Kolkata,8000,Building responsive UI components using modern frameworks.,30,On-site
+INT143,Data Scientist Intern,Ola,Marketing,"AWS, C++, CSS, Deep Learning, Machine Learning",Other City,18000,Assist in cloud infrastructure setup and maintenance.,30,Remote
+INT144,SDE Intern,Infosys,Analytics,"API, Data Analysis, GitLab, Java, Node.js, Robotics",Pune,12000,Write engaging content for blogs and social media.,14,Hybrid
+INT146,Quality Analyst Intern,Wipro,Analytics,"Bash, Cybersecurity, Data Engineering, Spring Boot",Noida,10000,Contribute to open-source projects and internal tools.,18,Hybrid
+INT148,Financial Analyst Intern,Zerodha,Testing,"Apache Spark, Java, Robotics, SQL, TensorFlow",Delhi,10000,Work with cutting-edge AI technologies and research.,14,On-site
+INT150,Design Intern,Razorpay,Security,"Apache Hive, Apache Spark, Tableau",Nagpur,25000,Developing prototypes for NLP and Computer Vision projects.,22,Remote

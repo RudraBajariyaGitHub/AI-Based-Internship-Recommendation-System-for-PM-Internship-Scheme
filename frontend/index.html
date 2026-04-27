@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Internship Recommendation Engine</title>
+    <script>
+      (function () {
+        var isLocalHost = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
+        var servedByFastApi = isLocalHost && window.location.port === "8000";
+        var assetBase = servedByFastApi ? "/assets/" : "";
+        document.write('<link rel="stylesheet" href="' + assetBase + 'styles.css" />');
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="app-header">
+      <nav class="nav-shell" aria-label="Main navigation">
+        <a class="brand" href="#top" aria-label="AI Internship Recommendation Engine">
+          <span class="brand-mark" aria-hidden="true">IR</span>
+          <span>
+            <strong>Internship Recommender</strong>
+            <small>PM Scheme guidance layer</small>
+          </span>
+        </a>
+        <div class="status-pill" id="systemStatus">Connecting</div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Fair, explainable, student-first recommendations</p>
+          <h1>Find internships that match your skills, interests, and constraints.</h1>
+          <p class="hero-text">
+            Fill one profile form and the ML engine ranks opportunities by skill fit,
+            career relevance, location/work-mode preference, compensation, diversity,
+            and transparent improvement guidance.
+          </p>
+          <div class="hero-metrics" aria-label="System highlights">
+            <span><strong id="studentCount">--</strong> student profiles</span>
+            <span><strong id="internshipCount">--</strong> internships</span>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <div class="visual-board">
+            <div class="visual-card top-card">
+              <span class="dot teal"></span>
+              <b>Python + ML</b>
+              <small>Strong skill match</small>
+            </div>
+            <div class="visual-card mid-card">
+              <span class="dot coral"></span>
+              <b>Remote eligible</b>
+              <small>Location friendly</small>
+            </div>
+            <div class="visual-card low-card">
+              <span class="dot gold"></span>
+              <b>Explainable score</b>
+              <small>Why this internship?</small>
+            </div>
+            <div class="visual-line line-one"></div>
+            <div class="visual-line line-two"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <form class="profile-panel" id="profileForm">
+          <div class="section-heading">
+            <p class="eyebrow">Student profile</p>
+            <h2>Tell the system what matters to you</h2>
+          </div>
+
+          <div class="form-grid">
+            <label>
+              Student ID
+              <input name="student_id" type="text" placeholder="Optional, e.g. S101" />
+            </label>
+
+            <label>
+              Branch
+              <select name="branch" id="branchSelect"></select>
+            </label>
+
+            <label>
+              CGPA
+              <input name="cgpa" type="number" min="0" max="10" step="0.01" value="7.8" required />
+            </label>
+
+            <label>
+              Preferred location
+              <select name="location" id="locationSelect"></select>
+            </label>
+
+            <label>
+              College tier
+              <select name="college_tier" id="tierSelect"></select>
+            </label>
+
+            <label>
+              Region
+              <select name="region" id="regionSelect"></select>
+            </label>
+
+            <label>
+              Work mode
+              <select name="preferred_work_mode" id="workModeSelect"></select>
+            </label>
+
+            <label>
+              Recommendations
+              <input name="top_k" type="number" min="1" max="20" value="8" required />
+            </label>
+          </div>
+
+          <label class="wide-field">
+            Skills
+            <textarea name="skills" rows="3" required>Python, Machine Learning, SQL, Data Analysis</textarea>
+          </label>
+
+          <label class="wide-field">
+            Interests or target domains
+            <textarea name="interests" rows="2" required>Data Science, Artificial Intelligence, Web Development</textarea>
+          </label>
+
+          <div class="priority-box">
+            <div>
+              <p class="eyebrow">Objective priorities</p>
+              <p>Balance learning value, career fit, and stipend preference.</p>
+            </div>
+            <label>
+              Learning
+              <input name="objective_learning" type="range" min="0" max="1" step="0.05" value="0.4" />
+            </label>
+            <label>
+              Career fit
+              <input name="objective_career_fit" type="range" min="0" max="1" step="0.05" value="0.4" />
+            </label>
+            <label>
+              Compensation
+              <input name="objective_compensation" type="range" min="0" max="1" step="0.05" value="0.2" />
+            </label>
+          </div>
+
+          <button class="primary-btn" type="submit" id="submitBtn">
+            <span class="btn-icon" aria-hidden="true">&rarr;</span>
+            Recommend internships
+          </button>
+        </form>
+
+        <aside class="insight-panel">
+          <div class="section-heading">
+            <p class="eyebrow">ML framework</p>
+            <h2>How the engine thinks</h2>
+          </div>
+          <div class="pipeline-list" id="pipelineList"></div>
+        </aside>
+      </section>
+
+      <section class="results-section" id="resultsSection" aria-live="polite">
+        <div class="results-head">
+          <div>
+            <p class="eyebrow">Recommendations</p>
+            <h2 id="resultsTitle">Submit your profile to see matches</h2>
+          </div>
+        </div>
+        <div class="loading-state" id="loadingState" hidden>
+          <span class="spinner" aria-hidden="true"></span>
+          Ranking internships with retrieval, ML scoring, fairness, and explainability.
+        </div>
+        <div class="results-grid" id="resultsGrid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>Built as a practical AI layer for student opportunity discovery.</span>
+    </footer>
+
+    <script>
+      (function () {
+        var isLocalHost = window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost";
+        var servedByFastApi = isLocalHost && window.location.port === "8000";
+        var assetBase = servedByFastApi ? "/assets/" : "";
+        var script = document.createElement("script");
+        script.src = assetBase + "app.js?v=20260423-feedback-removed";
+        document.body.appendChild(script);
+      })();
+    </script>
+  </body>
+</html>
